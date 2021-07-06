@@ -1,0 +1,328 @@
+## Sentiment Analysis
+* How to clean text?
+* What dictionary to use? 
+  + 'bing', because it presents most related words to the program
+* How to visualize the result?
+  + Barplots
+  + Comparison clouds
+  + WordCloud2
+
+```{r global_options, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning=FALSE, message=FALSE)
+```
+
+```{r}
+# Load libraries
+
+library(tidyverse)
+library(readxl)
+library(tidytext)
+library(wordcloud)
+library(wordcloud2)
+library(tm)
+library(RColorBrewer)
+library(htmlwidgets)
+library(webshot)
+# library(reshape2)
+# library(ggrepel)
+# library(memisc)
+```
+
+```{r}
+# 1. Import data set using for loop
+class <- excel_sheets('Copy of MSA22 STUDENT Master TIPS spreadsheet.xlsx')
+
+for (i in seq_along(class)) {
+  assign(paste0("tips_", 2022-i), 
+         read_excel('Copy of MSA22 STUDENT Master TIPS spreadsheet.xlsx', 
+                    sheet=i))
+}
+```
+
+```{r}
+# 2. Create a custom function tidy.text() to return tidy texts
+tidy.text <- function(data) {
+  
+  tips <- paste(unlist(data), collapes=" ")
+  df_tips <- as.data.frame(tips)
+
+  tidy_tips <- df_tips %>%
+    unnest_tokens(word, tips)
+
+  custom_stop_word <- tribble(~word, "na")
+
+  stop_words2 <- stop_words %>%
+    bind_rows(custom_stop_word)
+
+  tidy_tips2 <- df_tips %>%
+  unnest_tokens(word, tips) %>%
+  anti_join(stop_words2)
+  
+  return(tidy_tips2)
+
+}
+```
+
+```{r}
+# 3. Apply tidy.text function to each text data set
+tips.year <- list(tips_2021, tips_2020, tips_2019, 
+                  tips_2018, tips_2017, tips_2016)
+
+for (i in seq_along(tips.year)) {
+  tidytips.list <- lapply(tips.year, tidy.text)
+  assign(paste0("tidytips_", 2022-i), tidytips.list[[i]])
+}
+```
+
+```{r}
+# 4. Create a custom function sentimental to inner join with the "bing" dictionary
+sentimental <- function(data) {
+  
+  data <- as.data.frame(data)
+  colnames(data) <- "word"
+  
+  sentiment_tips <- data %>%
+    inner_join(get_sentiments("bing"), by="word")
+  
+  sentiment_tips2 <- sentiment_tips %>%
+    filter(sentiment %in% c("positive", "negative"))
+
+  return(sentiment_tips2)
+}
+```
+
+```{r}
+# 5. Apply sentimental function to each tidy text to inner join with "bing" dictionary
+sentiment.year <- list(tidytips_2021, tidytips_2020, tidytips_2019,
+                       tidytips_2018, tidytips_2017, tidytips_2016)
+
+for (i in seq_along(sentiment.year)) {
+  
+  sentiment.list <- lapply(sentiment.year, sentimental)
+  assign(paste0("sentiment_", 2022-i), sentiment.list[[i]])
+  
+}
+```
+
+```{r}
+# 6. Create a function to get the top 5 positive words
+wc.pos <- function(data) {
+  
+  pos <- data %>%
+    group_by(sentiment) %>%
+    filter(sentiment == 'positive') %>%
+    count(word) %>%
+    top_n(5, n) %>%
+    ungroup() %>%
+    arrange(desc(n)) %>%
+    select(-sentiment)
+
+  return(pos)
+  
+}
+```
+
+```{r}
+# 7. Create a function to get the top 5 negative wrods
+wc.neg <- function(data) {
+  
+  neg <- data %>%
+    group_by(sentiment) %>%
+    filter(sentiment == 'negative') %>%
+    count(word) %>%
+    top_n(5, n) %>%
+    ungroup() %>%
+    arrange(desc(n)) %>%
+    select(-sentiment)
+
+  return(neg)
+  
+}
+```
+
+```{r}
+# 8. Create sub data sets that contain 
+# top 5 positive and negative words within each year 
+wc.year <- list(sentiment_2021, sentiment_2020, sentiment_2019,
+                sentiment_2018, sentiment_2017, sentiment_2016)
+
+for (i in seq_along(wc.year)) {
+  
+  df.pos <- lapply(wc.year, wc.pos)
+  assign(paste0("wc_pos_", 2022-i), df.pos[[i]])
+  
+}
+
+for (i in seq_along(wc.year)) {
+  
+  df.neg <- lapply(wc.year, wc.neg)
+  assign(paste0("wc_neg_", 2022-i), df.neg[[i]])
+  
+}
+```
+```{r}
+# 9. Set up colors for wordcloud2
+iaa.colors <- c("#f4951e", "#628593", "#96afd1", "#d1ca92", 
+               '#b98e9b', "#3b5663", "#d6d0bf", "#c8b5c0", "#84b4e4")
+iaa.background <- '#FFFFFF' 
+```
+
+```{r}
+# 10. top 5 positive words in 2021
+wordcloud2(wc_pos_2021,
+           color = rep_len(iaa.colors, nrow(wc_pos_2021)),
+           backgroundColor = iaa.background,
+           fontFamily = "Agency FB",
+           rotateRatio = 0)
+           
+           # 11. top 5 positive words in 2020
+wc_pos_2020_mod <- wc_pos_2020 %>%
+  filter(!word %in% "easy")
+```
+
+```{r}
+# 11. top 5 positive words in 2020
+wc_pos_2020_mod <- wc_pos_2020 %>%
+  filter(!word %in% "easy")
+
+wordcloud2(wc_pos_2020_mod,
+           color = rep_len(iaa.colors, nrow(wc_pos_2020_mod)),
+           backgroundColor = iaa.background,
+           fontFamily = "Agency FB",
+           rotateRatio = 0)
+
+saveWidget(wc_pos_21)
+```
+
+```{r}
+# 12. top 5 positive words in 2019
+wc_pos_2019_mod <- wc_pos_2019 %>%
+  filter(!word %in% c("fast", "smart", "easier"))
+
+wordcloud2(wc_pos_2019_mod,
+           color = rep_len(iaa.colors, nrow(wc_pos_2019_mod)),
+           backgroundColor = iaa.background,
+           fontFamily = "Agency FB",
+           rotateRatio = 0)
+```
+
+```{r}
+# 13. top 5 positive words in 2018
+wc_pos_2018_mod <- wc_pos_2018 %>%
+  filter(!word %in% "tough")
+
+
+wordcloud2(wc_pos_2018_mod,
+           color = rep_len(iaa.colors, nrow(wc_pos_2018_mod)),
+           backgroundColor = iaa.background,
+           fontFamily = "Agency FB",
+           rotateRatio = 0)
+```
+
+```{r}
+# 14. top 5 positive words in 2017
+wc_pos_2017_mod <- wc_pos_2017 %>%
+  filter(!word %in% c("lead", "nice"))
+
+wordcloud2(wc_pos_2017_mod,
+           color = rep_len(iaa.colors, nrow(wc_pos_2017_mod)),
+           backgroundColor = iaa.background,
+           fontFamily = "Agency FB",
+           rotateRatio = 0)
+```
+
+```{r}
+# 15. top 5 positive words in 2016
+wc_pos_2016_mod <- wc_pos_2016 %>%
+  filter(!word %in% "easier")
+
+wordcloud2(wc_pos_2016_mod,
+           color = rep_len(iaa.colors, nrow(wc_pos_2016_mod)),
+           backgroundColor = iaa.background,
+           fontFamily = "Agency FB",
+           rotateRatio = 0)
+```
+
+```{r}
+# 16. top 5 negative words in 2021
+wc_neg_2021_mod <- wc_neg_2021 %>%
+  filter(!word %in% "stress")
+
+wordcloud2(wc_neg_2021_mod,
+           color = rep_len(iaa.colors, nrow(wc_neg_2021_mod)),
+           backgroundColor = iaa.background,
+           fontFamily = "Agency FB",
+           rotateRatio = 0)
+```
+
+```{r}
+# 17. top 5 negative words in 2020
+wordcloud2(wc_neg_2020,
+           color = rep_len(iaa.colors, nrow(wc_neg_2020)),
+           backgroundColor = iaa.background,
+           fontFamily = "Agency FB",
+           rotateRatio = 0)
+```
+
+```{r}
+# 18. top 5 negative words in 2019
+wordcloud2(wc_neg_2019,
+           color = rep_len(iaa.colors, nrow(wc_neg_2019)),
+           backgroundColor = iaa.background,
+           fontFamily = "Agency FB",
+           rotateRatio = 0)
+```
+
+```{r}
+# 17. top 5 negative words in 2020
+wordcloud2(wc_neg_2020,
+           color = rep_len(iaa.colors, nrow(wc_neg_2020)),
+           backgroundColor = iaa.background,
+           fontFamily = "Agency FB",
+           rotateRatio = 0)
+```
+
+```{r}
+# 18. top 5 negative words in 2019
+wordcloud2(wc_neg_2019,
+           color = rep_len(iaa.colors, nrow(wc_neg_2019)),
+           backgroundColor = iaa.background,
+           fontFamily = "Agency FB",
+           rotateRatio = 0)
+```
+
+```{r}
+# 19. top 5 negativee words in 2018
+wc_neg_2018_mod <- wc_neg_2018 %>%
+  filter(!word %in% "slack")
+
+wordcloud2(wc_neg_2018_mod,
+           color = rep_len(iaa.colors, nrow(wc_neg_2018_mod)),
+           backgroundColor = iaa.background,
+           fontFamily = "Agency FB",
+           rotateRatio = 0)
+```
+
+```{r}
+# 20. top 5 negative words in 2017
+wc_neg_2017_mod <- wc_neg_2017 %>%
+  filter(!word %in% c("stressful", "struggling", "wrong"))
+
+wordcloud2(wc_neg_2017_mod,
+           color = rep_len(iaa.colors, nrow(wc_neg_2017_mod)),
+           backgroundColor = iaa.background,
+           fontFamily = "Agency FB",
+           rotateRatio = 0)
+```
+
+```{r}
+# 21. top 5 negative words in 2016
+wc_neg_2016_mod <- wc_neg_2016 %>%
+  filter(!word %in% "break")
+
+wordcloud2(wc_neg_2016_mod,
+           color = rep_len(iaa.colors, nrow(wc_neg_2016_mod)),
+           backgroundColor = iaa.background,
+           fontFamily = "Agency FB",
+           rotateRatio = 0)
+```
