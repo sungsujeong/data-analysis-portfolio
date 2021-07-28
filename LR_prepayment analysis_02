@@ -1,0 +1,202 @@
+/* 1. Data preparation */
+/* (a) Overview dataset: prac.extra_info_m */
+proc contents data=prac.ln_info varnum;
+run;
+
+proc contents data=prac.extra_info_m varnum;
+run;
+
+/* (b) Extract loan_id from variable url and create a new dataset. */
+data len_url;
+	set prac.extra_info_m;
+	len = length(url);
+run;
+
+data work.ext_info;
+	set prac.extra_info_m;
+	id = substr(url, 62);
+	id_num = input(id, 8.);
+	drop id;
+	rename id_num = id;
+run;
+
+/* (c) Merge datasets: work.ext_info - prac.ln_info with variable selection*/
+proc sort data=prac.ln_info out=work.ln_info_sort;
+	by id;
+run;
+
+proc sort data=work.ext_info out=work.ext_info_sort;
+	by id;
+run;
+
+%let var_select = id loan_amnt funded_amnt funded_amnt_inv term int_rate installment grade sub_grade 
+			      issue_d last_pymnt_d pct_fund pct_inv loan_status annual_inc annual_inc_joint 
+			      application_type delinq_2yrs dti dti_joint emp_length home_ownership initial_list_status 
+			      inq_last_6mths mths_since_last_delinq open_acc policy_code pub_rec purpose pymnt_plan 
+			      total_acc total_pymnt verification_status acc_now_delinq;
+data prac.lr_merged;
+	merge work.ln_info_sort(in=inlnf) work.ext_info_sort(in=inext);
+	by id;
+	if inlnf=1 and inext=1;
+	keep &var_select;
+run;
+	
+/* 2. Data validation, cleaning, and manipulation*/
+/* (a) Collapse levels of variables */
+data work.lr;
+	set prac.lr_merged;
+	
+	if loan_status = "Fully Paid" then loan_status_new = "Fully Paid";
+	else if loan_status = "Default" then loan_status_new = "Default";
+	else if loan_status = "Charged Off" then loan_status_new = "Default";
+	if loan_status_new ='Default' or loan_status_new = 'Fully Paid';
+	drop loan_status;
+	rename loan_status_new = loan_status;
+
+	if application_type = "INDIVIDUAL" then 
+		do;
+			annual_inc_new = annual_inc;
+			dti_new = dti;
+		end;
+	else if application_type = "JOINT" then
+		do; 
+			annual_inc_new = annual_inc_joint;
+			dti_new = dti_joint;
+		end;
+	drop annual_inc annual_inc_joint dti dti_joint;
+	rename annual_inc_new = annual_inc;
+	rename dti_new = dti;
+	
+	select (emp_length);
+		when ('< 1 year', '1 year') emp_length_new = 0;
+		when ('2 years', '3 years', '4 years', '5 years') emp_length_new = 1;
+		when ('6 years', '7 years', '8 years', '9 years') emp_length_new = 2;
+		otherwise emp_length_new = 3;
+	end;
+	drop emp_length;
+	rename emp_length_new = emp_length;
+run;
+
+/* (b) Inspect missing values and imputation */
+data work.lr;
+	set work.lr;
+	if mths_since_last_delinq = . then mths_since_last_delinq = 0;
+run;
+
+proc means data=work.lr n nmiss; 
+run;
+
+/* last_pymnt_d has 536 missing values */
+/* b-1) Check the missing values all belong to loan_status = "Default" */
+data work.lr_m;
+	set work.lr(where=(loan_status = "Default"));
+	if last_pymnt_d = . then indicator = 1;
+	else indicator = 0;
+run;
+
+proc means data=work.lr_m sum maxdec=0;
+	var indicator;
+	where indicator=1;
+run;
+
+/* (c) Create new variables: diff_pymnt, pymnt_status pymnt_period prepayment*/
+data work.lr01;
+	set work.lr;
+	
+	if term = "36 months" then expt_pymnt = installment*36;
+	else expt_pymnt = installment*60;
+	
+	diff_pymnt = total_pymnt - expt_pymnt;
+	
+	length pymnt_status $20;
+	if diff_pymnt > 0 then pymnt_status = "Overpayment";
+	else if -5 <= diff_pymnt <= 0 then pymnt_status = "Equilibrium";
+	else pymnt_status = "Underpayment";
+										    *yrdif(issue_d, last_pymnt_d, 'ACT/ACT');
+	if last_pymnt_d ^= . then pymnt_period = intck("month", issue_d, last_pymnt_d);
+	else pymnt_period = 0;
+	
+	if loan_status = "Fully Paid" and term = "36 months" and pymnt_period < 36 then prepymnt = "Yes";
+	else if loan_status = "Fully Paid" and term = "36 months" and pymnt_period >= 36 then prepymnt = "No";
+	else if loan_status = "Fully Paid" and term = "60 months" and pymnt_period < 60 then prepymnt = "Yes";
+	else if loan_status = "Fully Paid" and term = "60 months" and pymnt_period >= 60 then prepymnt = "No";
+	else prepymnt = "N/A";
+	
+	format pymnt_period 3. diff_pymnt comma10.2;
+run;
+
+/* (d) Extract subset data containing only fully paid loans for logistic regression model building */
+data prac.lr;
+	set work.lr01;
+	if prepymnt ^= "N/A";
+	drop loan_status;
+run;
+
+/* (e) Explort prac.lr to excel file: loan.xlsx for visuals */
+proc export data=prac.lr 
+			dbms=xlsx 
+			outfile="C:/Users/sjeong5/Documents/My SAS Files/James_SAS folder/loan.xlsx"
+			replace;
+run;
+
+/* (f) Collapse levels of variables and drop variables for modeling */
+data prac.lr01;
+	set prac.lr;
+	length purpose_new $10.;
+	
+	if purpose = "car" or 
+	   purpose = "credit_card" or 
+	   purpose = "major_purchase" or 
+	   purpose = "medical" or
+	   purpose = "vacation" or 
+	   purpose = "wedding" or
+	   purpose = "educational"
+		 then purpose_new = "Psnl_cc";
+	else if purpose = "debt_consolidation" 
+		 then purpose_new = "Psnl_debt";
+	else if purpose = "home_improvement" or 
+			purpose = "house" or 
+			purpose = "energy" or 
+			purpose = "moving" 
+		 then purpose_new = "Psnl_home";
+	else purpose_new = "Business";
+	drop purpose;
+	rename purpose_new = purpose;
+	
+	length home_ownership_new $10;
+	if home_ownership = "OWN" then home_ownership_new = "Own";
+	else if home_ownership = "MORTGAGE" then home_ownership_new = "Mortgage";
+	else home_ownership_new = "Rent";
+	drop home_ownership;
+	rename home_ownership_new = home_ownership;
+	
+	if verification_status = "Not Verified" then verification_status_new = "Not Verified";
+	else verification_status_new = "Verified";
+	drop verification_status;
+	rename verification_status_new = verification_status;
+	
+	if grade = "A" then grade_new = "A";
+	else if grade = "B" then grade_new = "B";
+	else if grade = "C" then grade_new = "C";
+	else if grade = "D" then grade_new = "D";
+	else grade_new = "E";
+	drop grade;
+	rename grade_new = grade;
+	
+	length pymnt_status_new $20;
+	if pymnt_status = "Overpayment" or pymnt_status = "Equilibrium" 
+		then pymnt_status_new = "Satisfied";
+	else pymnt_status_new = "Unsatisfied";
+	drop pymnt_status;
+	rename pymnt_status_new = pymnt_status;
+run;
+
+proc export data=prac.lr01
+			dbms=xlsx 
+			outfile="C:/Users/sjeong5/Documents/My SAS Files/James_SAS folder/loan01.xlsx"
+			replace;
+run;
+
+proc freq data=prac.lr01;
+	table policy_code;
+run;
