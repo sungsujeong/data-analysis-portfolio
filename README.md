@@ -44,7 +44,7 @@ Data analytics projects portfolio
 * Carried out __topic model analysis__ using the __latent Dirichlet allocation (LDA)__
 * Used Python
 
-# [Project 07: Logistic Regression Analysis & Probabilistic Predictions for Policyholder's Vehicle Insurance Purchase]
+# [Project 07: Logistic Regression Analysis for Policyholder's Vehicle Insurance Purchase](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2007/Project%2007_Logistic%20Regression%20%26%20Probabilistic%20Predictions%20in%20R.ipynb)
 ![](https://user-images.githubusercontent.com/69400725/129464726-4b80e90e-8ba7-4566-8ede-6500926437d7.png)
 * Performed __logistic regression analysis__ to predict the probability of a client's interested in vehicle insurance product
 * Used R
