@@ -15,13 +15,13 @@ Data analytics projects portfolio
 * Conducted exploratory data analysis and statistical analysis
 * Used Python
 
-# [Project 03: Cluster Analysis](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2003/Project%2003_Mall%20Customer%20Segmentation_Cluster%20Analysis.ipynb)
+# [Project 03: Cluster Analysis for Mall Customer Segmentation](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2003/Project%2003_Mall%20Customer%20Segmentation_Cluster%20Analysis.ipynb)
 ![](https://user-images.githubusercontent.com/69400725/129464184-61b4f594-2fa6-443d-915a-2897dd8e79ca.png)
 * Took a step-by-step tour of conventional version of the __K-means clustering algorithm__.
 * Segmented customers into groups with similar purchase histories, which businees can then use to create targeted marketing campaigns.
 * Used Python
 
-# [Project 04: 2018 FIFA World Cup Linear Regression Analysis](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2004/Project%2004_Part%201_FIFA%202018%20World%20Cup%20Statistical%20Analysis%20%28EDA%29.ipynb)
+# [Project 04: Linear Regression Analysis for 2018 FIFA World Cup](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2004/Project%2004_Part%201_FIFA%202018%20World%20Cup%20Statistical%20Analysis%20%28EDA%29.ipynb)
 ![](https://user-images.githubusercontent.com/69400725/129464335-da7e0c22-4317-4ab7-9311-77452458380e.png)
 ## [Part 2: Simple Linear Regression](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2004/Project%2004_Part%202_Simple%20Linear%20Regression.ipynb)
 ## [Part 3: Multiple Linear Regression](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2004/Project%2004_Part%203_Multiple%20Linear%20Regression.ipynb)
@@ -31,3 +31,5 @@ Data analytics projects portfolio
   * "Does a team with the better defence tend to win a match?"
   * "What are the factors that could determine the victory of a match?
 * Used Python
+
+
