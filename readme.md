@@ -51,7 +51,7 @@
 * Used R
 
 # [Project 08: House Price Predictions using Decision Tree](https://nbviewer.jupyter.org/github/sungsujeong/DataScience_Portfolio/blob/master/Personal%20Projects/Project%2008/Project%2008_House%20Price%20Predictions%20using%20Regression%20Tree%20in%20R.ipynb)
-![](https://user-images.githubusercontent.com/69400725/129464864-29ca7379-9f1f-4779-9da3-9b25c786ea47.png)
+![](https://user-images.githubusercontent.com/69400725/129468534-b784a67b-06bc-4daf-a63d-352667d0e0a7.png)
 * Predicted the price of houses more than the median of house values in California in 1990 based on the dataset using a __regression tree model__
 * Using the data in 1990, this project has a purely academic attempt that focuses on building regression tree models and explore how regression tree models work
 * Used R with __rpart package__
