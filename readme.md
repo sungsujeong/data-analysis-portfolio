@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/69400725/129468125-3a5e4b67-1003-44cb-8ed6-63c75e15f1a9.jpg)
+![](https://user-images.githubusercontent.com/69400725/129468451-9a5ae832-913e-4828-ad5f-bbbd3cfcdbc3.jpg)
 # Data Science Project Portfolio
 * Click the title of each project to see details
 
