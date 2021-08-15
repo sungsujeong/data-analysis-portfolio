@@ -26,7 +26,7 @@ Data analytics projects portfolio
 ## [Part 2: Simple Linear Regression](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2004/Project%2004_Part%202_Simple%20Linear%20Regression.ipynb)
 ## [Part 3: Multiple Linear Regression](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2004/Project%2004_Part%203_Multiple%20Linear%20Regression.ipynb)
 ## [Part 3.1: Multiple Linear Regression Model in 3D](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2004/Project%2004_Part%203a_Multiple%20Linear%20Regression%20Model%20in%203D.ipynb)
-* Performed linear regression analysis to examine the relationships between variables to answer the questions below:
+* Performed __linear regression analysis__ to examine the relationships between variables to answer the questions below:
   * "what are the indicators that raise the probability of scoring a goal?"
   * "Does a team with the better defence tend to win a match?"
   * "What are the factors that could determine the victory of a match?
@@ -34,8 +34,8 @@ Data analytics projects portfolio
 
 # [Project 05: S&P 500 Time Series Forecasting with Prophet](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2005/Project%2005_S%26P%20500%20Time%20Series%20Forecasting%20with%20Prophet.ipynb)
 ![](https://user-images.githubusercontent.com/69400725/129464597-4e86cbd3-86cf-40cc-9716-8c35c17e6696.png)
-* Forecast stock prices using Prophet which is Facebook's library for time series forcasting
-* Compared Netflix stock prices that are predicted by Prophet and the actual stock prices
+* Forecast stock prices using Prophet which is Facebook's library for __time series forcasting__
+* Compared Netflix stock prices that are predicted by __Prophet__ and the actual stock prices
 * Used Python
 
 # [Project 06: Natural Language Processing on DJT Rally Speeches](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2006/Project%2006_Natural%20Language%20Processing.ipynb#topic=0&lambda=1&term=)
