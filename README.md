@@ -16,7 +16,7 @@ Data analytics projects portfolio
 * Used Python
 
 # [Project 03: Cluster Analysis](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2003/Project%2003_Mall%20Customer%20Segmentation_Cluster%20Analysis.ipynb)
-![](https://user-images.githubusercontent.com/69400725/129464092-3354bddf-ae02-410a-8e83-c57213ba9cd6.png)
+![](https://user-images.githubusercontent.com/69400725/129464130-7e788030-bf13-4baf-8126-160e8c787f7e.png)
 * Took a step-by-step tour of conventional version of the __K-means clustering algorithm__.
 * Segmented customers into groups with similar purchase histories, which businees can then use to create targeted marketing campaigns.
 * Used Ptyhon
