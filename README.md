@@ -1,4 +1,4 @@
-# James Jeong_Portfolio
+# James_Portfolio
 Data analytics projects portfolio
 
 # [Project 01: Statistical Analysis for Campus Recruitment](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/tree/master/Project%2001/)
@@ -18,7 +18,7 @@ Data analytics projects portfolio
 # [Project 03: Cluster Analysis for Mall Customer Segmentation](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2003/Project%2003_Mall%20Customer%20Segmentation_Cluster%20Analysis.ipynb)
 ![](https://user-images.githubusercontent.com/69400725/129464184-61b4f594-2fa6-443d-915a-2897dd8e79ca.png)
 * Took a step-by-step tour of conventional version of the __K-means clustering algorithm__
-* Segmented customers into groups with similar purchase histories, which businees can then use to create targeted marketing campaigns
+* Segmented customers into groups with similar purchase histories, which a business can utilize to generate targeted marketing campaigns
 * Used Python
 
 # [Project 04: Linear Regression Analysis for 2018 FIFA World Cup](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2004/Project%2004_Part%201_FIFA%202018%20World%20Cup%20Statistical%20Analysis%20%28EDA%29.ipynb)
@@ -26,7 +26,7 @@ Data analytics projects portfolio
 ## [Part 2: Simple Linear Regression](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2004/Project%2004_Part%202_Simple%20Linear%20Regression.ipynb)
 ## [Part 3: Multiple Linear Regression](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2004/Project%2004_Part%203_Multiple%20Linear%20Regression.ipynb)
 ## [Part 3.1: Multiple Linear Regression Model in 3D](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2004/Project%2004_Part%203a_Multiple%20Linear%20Regression%20Model%20in%203D.ipynb)
-* Performed linear regression analysis to examine the relationship between variables to answer the questions below:
+* Performed linear regression analysis to examine the relationships between variables to answer the questions below:
   * "what are the indicators that raise the probability of scoring a goal?"
   * "Does a team with the better defence tend to win a match?"
   * "What are the factors that could determine the victory of a match?
@@ -45,3 +45,8 @@ Data analytics projects portfolio
 * Used Python
 
 # [Project 07: Logistic Regression Analysis & Probabilistic Predictions for Policyholder's Vehicle Insurance Purchase]
+![](https://user-images.githubusercontent.com/69400725/129464726-4b80e90e-8ba7-4566-8ede-6500926437d7.png)
+* Performed __logistic regression analysis__ to predict the probability of a client's interested in vehicle insurance product
+* Used R
+
+# [Project 08: House Price Predictions using Decision Tree](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2008/Project%2008_House%20Price%20Predictions%20using%20Regression%20Tree%20in%20R.ipynb)
