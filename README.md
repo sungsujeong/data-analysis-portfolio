@@ -16,4 +16,3 @@ Data analytics projects portfolio
 * Used Python
 
 # [Project 03: Cluster Analysis](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2003/Project%2003_Mall%20Customer%20Segmentation_Cluster%20Analysis.ipynb)
-* 
