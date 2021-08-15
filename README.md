@@ -6,7 +6,7 @@ Data analytics projects portfolio
   * ANOVA
   * linear regression
   * logistic regression
-* Predict the probability of whether a candidate will land a job by applying a logistic regression model built
+* Predicted the probability of whether a candidate will land a job by applying a multiple logistic regression model built
 * Used SAS
 
 # [Project 02: Exploratory Data Analysis for Summer Clothes Sales](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2002/Project%2002_Summer%20Clothes%20Sales%20%28EDA%29.ipynb)
