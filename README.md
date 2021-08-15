@@ -1,5 +1,5 @@
 # James Jeong_Portfolio
-## Data analytics projects portfolio
+Data analytics projects portfolio
 
 # [Project 01: Statistical Analysis for Campus Recruitment](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/tree/master/Project%2001/)
 * Identified what factors influenced a candidate in getting hired by conducting statistical analysis:
@@ -10,6 +10,9 @@
 * Used SAS
 
 # [Project 02: Exploratory Data Analysis for Summer Clothes Sales](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2002/Project%2002_Summer%20Clothes%20Sales%20%28EDA%29.ipynb)
+!(/image/p2.png)
 * Identified the features that significantly affect the product sale success
 * Conducted exploratory data analysis and statistical analysis
 * Used Python
+
+
