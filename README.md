@@ -3,9 +3,9 @@ Data analytics projects portfolio
 
 # [Project 01: Statistical Analysis for Campus Recruitment](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/tree/master/Project%2001/)
 * Identified what factors influenced a candidate in getting hired by conducting statistical analysis:
-  * ANOVA
-  * linear regression
-  * logistic regression
+  * __ANOVA__
+  * __Linear regression__
+  * __Logistic regression__
 * Predicted the probability of whether a candidate will land a job by applying a multiple logistic regression model built
 * Used SAS
 
