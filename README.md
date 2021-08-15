@@ -16,9 +16,17 @@ Data analytics projects portfolio
 * Used Python
 
 # [Project 03: Cluster Analysis](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2003/Project%2003_Mall%20Customer%20Segmentation_Cluster%20Analysis.ipynb)
-![](https://user-images.githubusercontent.com/69400725/129464146-fc641760-f250-45a9-bb28-aaddb1eeb1e2.png)
+![](https://user-images.githubusercontent.com/69400725/129464184-61b4f594-2fa6-443d-915a-2897dd8e79ca.png)
 * Took a step-by-step tour of conventional version of the __K-means clustering algorithm__.
 * Segmented customers into groups with similar purchase histories, which businees can then use to create targeted marketing campaigns.
-* Used Ptyhon
+* Used Python
 
-# 
+# [Project 04: 2018 FIFA World Cup Statistical Analysis](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2004/Project%2004_Part%201_FIFA%202018%20World%20Cup%20Statistical%20Analysis%20%28EDA%29.ipynb)
+## [Part 2: Simple Linear Regression](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2004/Project%2004_Part%202_Simple%20Linear%20Regression.ipynb)
+## [Part 3: Multiple Linear Regression](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2004/Project%2004_Part%203_Multiple%20Linear%20Regression.ipynb)
+## [Part 3.1: Multiple Linear Regression Model in 3D](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2004/Project%2004_Part%203a_Multiple%20Linear%20Regression%20Model%20in%203D.ipynb)
+* Performed linear regression analysis to examine the relationship between variables to answer the questions below:
+ * "what are the indicators that raise the probability of scoring a goal?"
+ * "Does a team with the better defence tend to win a match?"
+ * "What are the factors that could determine the victory of a match?
+* Used Python
