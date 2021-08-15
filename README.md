@@ -17,8 +17,8 @@ Data analytics projects portfolio
 
 # [Project 03: Cluster Analysis for Mall Customer Segmentation](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2003/Project%2003_Mall%20Customer%20Segmentation_Cluster%20Analysis.ipynb)
 ![](https://user-images.githubusercontent.com/69400725/129464184-61b4f594-2fa6-443d-915a-2897dd8e79ca.png)
-* Took a step-by-step tour of conventional version of the __K-means clustering algorithm__.
-* Segmented customers into groups with similar purchase histories, which businees can then use to create targeted marketing campaigns.
+* Took a step-by-step tour of conventional version of the __K-means clustering algorithm__
+* Segmented customers into groups with similar purchase histories, which businees can then use to create targeted marketing campaigns
 * Used Python
 
 # [Project 04: Linear Regression Analysis for 2018 FIFA World Cup](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2004/Project%2004_Part%201_FIFA%202018%20World%20Cup%20Statistical%20Analysis%20%28EDA%29.ipynb)
@@ -32,4 +32,7 @@ Data analytics projects portfolio
   * "What are the factors that could determine the victory of a match?
 * Used Python
 
+# [Project 05: S&P 500 Time Series Forecasting with Prophet](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2005/Project%2005_S%26P%20500%20Time%20Series%20Forecasting%20with%20Prophet.ipynb)
 
+* Forecast stock prices using Prophet which is Facebook's library for time series forcasting
+* Compared Netflix stock prices that are predicted by Prophet and the actual stock prices
