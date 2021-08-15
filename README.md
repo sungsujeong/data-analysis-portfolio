@@ -39,3 +39,9 @@ Data analytics projects portfolio
 * Used Python
 
 # [Project 06: Natural Language Processing on DJT Rally Speeches](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2006/Project%2006_Natural%20Language%20Processing.ipynb#topic=0&lambda=1&term=)
+![](https://user-images.githubusercontent.com/69400725/129464647-b8ce28e2-87a5-4252-9dce-2bfad5c10917.png)
+* Performed __Natural Language Processing__ with __natural language toolkit (NLTK)__ and __SpaCy__.
+* Carried out __topic model analysis__ using the __latent Dirichlet allocation (LDA)__.
+* Used Python
+
+# [Project 07: Logistic Regression Analysis & Probabilistic Predictions for Policyholder's Vehicle Insurance Purchase]
