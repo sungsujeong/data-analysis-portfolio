@@ -33,6 +33,8 @@ Data analytics projects portfolio
 * Used Python
 
 # [Project 05: S&P 500 Time Series Forecasting with Prophet](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2005/Project%2005_S%26P%20500%20Time%20Series%20Forecasting%20with%20Prophet.ipynb)
-
+![](https://user-images.githubusercontent.com/69400725/129464597-4e86cbd3-86cf-40cc-9716-8c35c17e6696.png)
 * Forecast stock prices using Prophet which is Facebook's library for time series forcasting
 * Compared Netflix stock prices that are predicted by Prophet and the actual stock prices
+* Used Python
+
