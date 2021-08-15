@@ -38,3 +38,4 @@ Data analytics projects portfolio
 * Compared Netflix stock prices that are predicted by Prophet and the actual stock prices
 * Used Python
 
+# [Project 06: Natural Language Processing on DJT Rally Speeches](https://nbviewer.jupyter.org/github/sungsujeong/James_Portfolio/blob/master/Project%2006/Project%2006_Natural%20Language%20Processing.ipynb#topic=0&lambda=1&term=)
