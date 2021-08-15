@@ -1,5 +1,5 @@
 ![](https://user-images.githubusercontent.com/69400725/129468451-9a5ae832-913e-4828-ad5f-bbbd3cfcdbc3.jpg)
-# Data Science Project Portfolio by James Jeong
+# Data Science Project Portfolio
 * Click the title of each project to see details
 
 # [Project 01: Statistical Analysis for Campus Recruitment](https://nbviewer.jupyter.org/github/sungsujeong/DataScience_Portfolio/blob/master/Personal%20Projects/Project%2001/Project%2001_Campust%20Recruitment%20Data%20Analysis.ipynb)
