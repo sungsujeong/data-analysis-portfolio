@@ -1,0 +1,250 @@
+﻿report,entity,field_name,field_description
+FFIEC_031,LC_2001_BANACONSOLDT,TE04N528,"URLs of all other public-facing Internet Web sites that the reporting institution uses to accept or solicit deposits from the public, if any (Example: www.examplebank.biz):"
+FFIEC_031,LC_2001_BANACONSOLDT,TE04N529,"Trade names other than the reporting institution's legal title used to identify one or more of the institution's physical offices at which deposits are accepted or solicited from the public, if any:"
+FFIEC_031,LC_2001_BANACONSOLDT,TE05N528,"URLs of all other public-facing Internet Web sites that the reporting institution uses to accept or solicit deposits from the public, if any (Example: www.examplebank.biz):"
+FFIEC_031,LC_2001_BANACONSOLDT,TE05N529,"Trade names other than the reporting institution's legal title used to identify one or more of the institution's physical offices at which deposits are accepted or solicited from the public, if any:"
+FFIEC_031,LC_2001_BANACONSOLDT,TE06N528,"URLs of all other public-facing Internet Web sites that the reporting institution uses to accept or solicit deposits from the public, if any (Example: www.examplebank.biz):"
+FFIEC_031,LC_2001_BANACONSOLDT,TE06N529,"Trade names other than the reporting institution's legal title used to identify one or more of the institution's physical offices at which deposits are accepted or solicited from the public, if any:"
+FFIEC_031,LC_2001_BANACONSOLDT,TE07N528,"URLs of all other public-facing Internet Web sites that the reporting institution uses to accept or solicit deposits from the public, if any (Example: www.examplebank.biz):"
+FFIEC_031,LC_2001_BANACONSOLDT,TE09N528,"URLs of all other public-facing Internet Web sites that the reporting institution uses to accept or solicit deposits from the public, if any (Example: www.examplebank.biz):"
+FFIEC_031,LC_2001_BANACONSOLDT,TE10N528,"URLs of all other public-facing Internet Web sites that the reporting institution uses to accept or solicit deposits from the public, if any (Example: www.examplebank.biz):"
+FFIEC_031,LC_2001_BANACONSOLDT,TEXT4087,Primary Internet Web site address of the bank (home page)
+FFIEC_031,LC_2001_BANACONSOLDT,TEXT8902,Other: Area Code / Phone Number / Extension
+FFIEC_031,LC_2001_BANACONSOLDT,TEXT9116,Other: Area Code / FAX Number
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTB964,RC-T Contact: Area Code / FAX Number
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC367,Primary: Title
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC370,Primary: Area Code / FAX Number
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC371,Secondary: Name
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC372,Secondary: Title
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC373,Secondary: E-mail Address
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC375,Secondary: Area Code / FAX Number
+FFIEC_031,LC_2001_BANACONSOLDT,MLTPLR,"Multiplier for Edit Checks. If left blank, the MLTPLR will be calculated in the FFR as RND/RND_MUL"
+FFIEC_031,LC_2001_BANACONSOLDT,RCOANC99,"Standardized Approach for Counterparty Credit Risk opt-in election (enter ""1"" for Yes; leave blank for No)"
+FFIEC_031,LC_2001_BANACONSOLDT,RCONPG75,"Did your institution adopt ASU 2022-01, derivatives and hedging (Topic 815): : Fair value hedging -portfolio layer method?"
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTB962,RC-T Contact: Name and Title
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTB926,RC-T Contact: E-mail Address
+FFIEC_031,LC_2001_BANACONSOLDT,RCON9999,Date (YYYYMMDD)
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC374,Secondary: Area Code / Phone Number / Extension
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTB963,RC-T Contact: Area Code / Phone Number / Extension
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC368,Primary: E-mail Address
+FFIEC_031,LC_2001_BANACONSOLDT,TEXT4086,Other: E-mail Address
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC369,Primary: Area Code / Phone Number / Extension
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC366,Primary: Name
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC490,CFO (or equivalent): Name
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC491,CFO (or equivalent): Title
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC492,CFO (or equivalent): E-mail Address
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC493,CFO (or equivalent): Area Code / Phone Number / Extension
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC496,Other: Title
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC875,PATRIOT Act: Fourth: Name
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC876,PATRIOT Act: Fourth: Title
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC877,PATRIOT Act: Fourth: E-mail Address
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC878,PATRIOT Act: Fourth: Area Code / Phone Number / Extension
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTFT42,CEO: Name
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTFT43,CEO: Area Code / Phone Number / Extension
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTFT44,CEO: E-mail Address
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTFT45,CEO: Area Code / FAX Number
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTG546,Closed End Fund Assets
+FFIEC_031,LC_2001_BANACONSOLDT,TOPSIDE_ADJ,"Does the client wish to use Topside Adjustments (manual) functionality in the forms? Enter ""1"" for YES and ""0"" for NO"
+FFIEC_031,LC_2314_BOA_CALIFORN,CREDIT_FI,Multiplier for Credit MDRMs
+FFIEC_031,LC_2314_BOA_CALIFORN,DEBIT_FI,Multiplier for Debit MDRMs
+FFIEC_031,LC_2314_BOA_CALIFORN,DIRECTOR1,Director (Trustee)
+FFIEC_031,LC_2314_BOA_CALIFORN,DIRECTOR2,Director (Trustee)
+FFIEC_031,LC_2314_BOA_CALIFORN,DIRECTOR3,Director (Trustee)
+FFIEC_031,LC_2314_BOA_CALIFORN,ENTITY,Legal Title of Bank
+FFIEC_031,LC_2314_BOA_CALIFORN,MLTPLR,"Multiplier for Edit Checks. If left blank, the MLTPLR will be calculated in the FFR as RND/RND_MUL"
+FFIEC_031,LC_2314_BOA_CALIFORN,NA_DISPLAY,Display value for not applicable MDRMs
+FFIEC_031,LC_2314_BOA_CALIFORN,PY_SOURCE,"Does the client wish to get values from Previously Filed Reports for Q4 Previous Year (Enter ""1"") OR from an Aggregation Data Source (Enter ""0"") Applies to RIAD3217 and RIADB522?"
+FFIEC_031,LC_2314_BOA_CALIFORN,RCFAH313,"Is the institution eligible to complete RC-R Pt I line item 53, based on the reporting requirements set forth in Footnote 1 related to this item? (Enter ""1"" for YES and ""0"" for NO)"
+FFIEC_031,LC_2314_BOA_CALIFORN,RCFAH314,"Is the institution eligible to complete RC-R Pt I line item 54, based on the reporting requirements set forth in Footnote 2 related to this item? (Enter ""1"" for YES and ""0"" for NO)"
+FFIEC_031,LC_2314_BOA_CALIFORN,RCFD4088,"Do any of the bank's Internet websites have transactional capability, i.e., allow the bank's customers to execute transactions on their accounts through the website?"
+FFIEC_031,LC_2314_BOA_CALIFORN,RCFD6724,Audit Type
+FFIEC_031,LC_2314_BOA_CALIFORN,RCFDA345,Does the institution have fiduciary powers?
+FFIEC_031,LC_2314_BOA_CALIFORN,RCFDA346,Does the institution exercise the fiduciary powers it has been granted?
+FFIEC_031,LC_2314_BOA_CALIFORN,RCFDB569,Does the reporting bank sell private label or third-party mutual funds and annuities?
+FFIEC_031,LC_2314_BOA_CALIFORN,RCFDB867,Does the institution have any fiduciary or related activity (in the form of assets or accounts) to report in this schedule?
+FFIEC_031,LC_2314_BOA_CALIFORN,RCFDK653,"Averaging method used (for daily averaging, enter 1, for weekly averaging, enter 2)"
+FFIEC_031,LC_2314_BOA_CALIFORN,RCFDK656,Does the reporting institution meet both the statutory definition of a banker's bank and the business conduct test set forth in FDIC regulations?
+FFIEC_031,LC_2314_BOA_CALIFORN,RCFDK659,Does the reporting institution meet the definition of a custodial bank set forth in FDIC regulations?
+FFIEC_031,LC_2314_BOA_CALIFORN,RCFDM978,"PDs derived using: Enter ""1"" if third party vendor software; Enter ""2"" if internal approach; Enter ""3"" if combination of third party and internal approach for the same product type."
+FFIEC_031,LC_2314_BOA_CALIFORN,RCFDM993,"PDs derived using: Enter ""1"" if third party vendor software; Enter ""2"" if internal approach; Enter ""3"" if combination of third party and internal approach for the same product type."
+FFIEC_031,LC_2314_BOA_CALIFORN,RCFDN009,"PDs derived using: Enter ""1"" if third party vendor software; Enter ""2"" if internal approach; Enter ""3"" if combination of third party and internal approach for the same product type."
+FFIEC_031,LC_2314_BOA_CALIFORN,RCFDN024,"PDs derived using: Enter ""1"" if third party vendor software; Enter ""2"" if internal approach; Enter ""3"" if combination of third party and internal approach for the same product type."
+FFIEC_031,LC_2314_BOA_CALIFORN,RCFDN054,"PDs derived using: Enter ""1"" if third party vendor software; Enter ""2"" if internal approach; Enter ""3"" if combination of third party and internal approach for the same product type."
+FFIEC_031,LC_2314_BOA_CALIFORN,RCFDN069,"PDs derived using: Enter ""1"" if third party vendor software; Enter ""2"" if internal approach; Enter ""3"" if combination of third party and internal approach for the same product type."
+FFIEC_031,LC_2314_BOA_CALIFORN,RCFDN084,"PDs derived using: Enter ""1"" if third party vendor software; Enter ""2"" if internal approach; Enter ""3"" if combination of third party and internal approach for the same product type."
+FFIEC_031,LC_2314_BOA_CALIFORN,RCFDN099,"PDs derived using: Enter ""1"" if third party vendor software; Enter ""2"" if internal approach; Enter ""3"" if combination of third party and internal approach for the same product type."
+FFIEC_031,LC_2314_BOA_CALIFORN,RCFDN114,"PDs derived using: Enter ""1"" if third party vendor software; Enter ""2"" if internal approach; Enter ""3"" if combination of third party and internal approach for the same product type."
+FFIEC_031,LC_2314_BOA_CALIFORN,RCOALE74,"Does your institution have a community bank leverage ratio (CBLR) framework election in effect as of the quarter-end report date? (enter ""1"" for Yes; enter ""0"" for No)"
+FFIEC_031,LC_2314_BOA_CALIFORN,RCOANC99,"Standardized Approach for Counterparty Credit Risk opt-in election (enter ""1"" for Yes; leave blank for No)"
+FFIEC_031,LC_2314_BOA_CALIFORN,RCOAP838,"Accumulated other comprehensive income (AOCI): a. AOCI opt-out election (enter ""1"" for Yes; enter ""0"" for No.)"
+FFIEC_031,LC_2314_BOA_CALIFORN,RCON6979,Comments (Optional Narrative)?
+FFIEC_031,LC_2314_BOA_CALIFORN,RCON8678,Bank's fiscal year-end date (MMDD)
+FFIEC_031,LC_2314_BOA_CALIFORN,RCON9224,LEI: Report only if your institution already has an LEI
+FFIEC_031,LC_2314_BOA_CALIFORN,RCONA545,"Has the reporting institution been consolidated with a parent bank or savings association in that parent bank's or parent savings association's Call Report? If so, report the legal title and FDIC Certificate Number of the parent bank or parent savings association"
+FFIEC_031,LC_2314_BOA_CALIFORN,RCONG463,"Does the bank act as a trustee or custodian for Individual Retirement Accounts, Health Savings Accounts, and other similar accounts?"
+FFIEC_031,LC_2314_BOA_CALIFORN,RCONG464,"Does the bank provide custody, safekeeping, or other services involving the acceptance of orders for the sale or purchase of securities?"
+FFIEC_031,LC_2314_BOA_CALIFORN,RCONKX18,"Did your institution adopt ASU N0. 2016-13, measurement of credit losses on financial instruments?"
+FFIEC_031,LC_2314_BOA_CALIFORN,RCONL133,"Does the institution use the Home Owners' Loan Act (HOLA) QTL test or the Internal Revenue Service Domestic Building and Loan Association (IRS DBLA) test to determine its QTL compliance? (for the HOLA QTL test, enter 1; for the IRS DBLA test, enter 2)"
+FFIEC_031,LC_2314_BOA_CALIFORN,RCONL135,"Has the institution been in compliance with the HOLA QTL test as of each month end during the quarter or the IRS DBLA test for its most recent taxable year, as applicable?"
+FFIEC_031,LC_2314_BOA_CALIFORN,RCONP752,"Does your institution offer one or more consumer deposit account products, i.e., transaction account or nontransaction savings account deposit products intended primarily for individuals for personal, household, or family use?"
+FFIEC_031,LC_2314_BOA_CALIFORN,RCONPG75,"Did your institution adopt ASU 2022-01, derivatives and hedging (Topic 815): : Fair value hedging -portfolio layer method?"
+FFIEC_031,LC_2314_BOA_CALIFORN,RC_C_WKSH1_PASSTHRU_ADJ,"Worksheet Passthru Active if ""OK"""
+FFIEC_031,LC_2314_BOA_CALIFORN,RC_C_WKSH2_PASSTHRU_ADJ,"Worksheet Passthru Active if ""OK"""
+FFIEC_031,LC_2314_BOA_CALIFORN,RC_N_WKSH1_PASSTHRU_ADJ,"Worksheet Passthru Active if ""OK"""
+FFIEC_031,LC_2314_BOA_CALIFORN,RIAD4769,Comments (RI-E)?
+FFIEC_031,LC_2314_BOA_CALIFORN,RIAD9106,"If the reporting bank has restated its balance sheet as a result of applying push down accounting this calendar year, report the date of the bank's acquisition"
+FFIEC_031,LC_2314_BOA_CALIFORN,RIADA530,Does the reporting bank have a Subchapter S election in effect for federal income tax purposes for the current tax year?
+FFIEC_031,LC_2314_BOA_CALIFORN,RIID,RIID Number
+FFIEC_031,LC_2314_BOA_CALIFORN,RND,ROUNDING FACTOR
+FFIEC_031,LC_2314_BOA_CALIFORN,RND_MUL,MULTIPLIER FOR ROUNDING FACTOR
+FFIEC_031,LC_2314_BOA_CALIFORN,RSSD9017,Legal Title of Bank
+FFIEC_031,LC_2314_BOA_CALIFORN,RSSD9050,FDIC Certificate number
+FFIEC_031,LC_2314_BOA_CALIFORN,RSSD9130,City
+FFIEC_031,LC_2314_BOA_CALIFORN,RSSD9200,State Abbreviation
+FFIEC_031,LC_2314_BOA_CALIFORN,RSSD9220,ZIP Code
+FFIEC_031,LC_2314_BOA_CALIFORN,SCH_R_RND,ROUNDING FACTOR FOR SCHEDULE R
+FFIEC_031,LC_2314_BOA_CALIFORN,SCH_R_RND_MUL,MULTIPLIER FOR ROUNDING FACTOR FOR SCHEDULE R
+FFIEC_031,LC_2314_BOA_CALIFORN,TE01N528,"URLs of all other public-facing Internet Web sites that the reporting institution uses to accept or solicit deposits from the public, if any (Example: www.examplebank.biz):"
+FFIEC_031,LC_2314_BOA_CALIFORN,TE01N529,"Trade names other than the reporting institution's legal title used to identify one or more of the institution's physical offices at which deposits are accepted or solicited from the public, if any:"
+FFIEC_031,LC_2314_BOA_CALIFORN,TE02N528,"URLs of all other public-facing Internet Web sites that the reporting institution uses to accept or solicit deposits from the public, if any (Example: www.examplebank.biz):"
+FFIEC_031,LC_2314_BOA_CALIFORN,TE02N529,"Trade names other than the reporting institution's legal title used to identify one or more of the institution's physical offices at which deposits are accepted or solicited from the public, if any:"
+FFIEC_031,LC_2314_BOA_CALIFORN,TE03N528,"URLs of all other public-facing Internet Web sites that the reporting institution uses to accept or solicit deposits from the public, if any (Example: www.examplebank.biz):"
+FFIEC_031,LC_2314_BOA_CALIFORN,TE03N529,"Trade names other than the reporting institution's legal title used to identify one or more of the institution's physical offices at which deposits are accepted or solicited from the public, if any:"
+FFIEC_031,LC_2314_BOA_CALIFORN,TE04N528,"URLs of all other public-facing Internet Web sites that the reporting institution uses to accept or solicit deposits from the public, if any (Example: www.examplebank.biz):"
+FFIEC_031,LC_2314_BOA_CALIFORN,TE04N529,"Trade names other than the reporting institution's legal title used to identify one or more of the institution's physical offices at which deposits are accepted or solicited from the public, if any:"
+FFIEC_031,LC_2314_BOA_CALIFORN,TE05N528,"URLs of all other public-facing Internet Web sites that the reporting institution uses to accept or solicit deposits from the public, if any (Example: www.examplebank.biz):"
+FFIEC_031,LC_2314_BOA_CALIFORN,TE05N529,"Trade names other than the reporting institution's legal title used to identify one or more of the institution's physical offices at which deposits are accepted or solicited from the public, if any:"
+FFIEC_031,LC_2314_BOA_CALIFORN,TE06N528,"URLs of all other public-facing Internet Web sites that the reporting institution uses to accept or solicit deposits from the public, if any (Example: www.examplebank.biz):"
+FFIEC_031,LC_2314_BOA_CALIFORN,TE06N529,"Trade names other than the reporting institution's legal title used to identify one or more of the institution's physical offices at which deposits are accepted or solicited from the public, if any:"
+FFIEC_031,LC_2314_BOA_CALIFORN,TE07N528,"URLs of all other public-facing Internet Web sites that the reporting institution uses to accept or solicit deposits from the public, if any (Example: www.examplebank.biz):"
+FFIEC_031,LC_2314_BOA_CALIFORN,TE08N528,"URLs of all other public-facing Internet Web sites that the reporting institution uses to accept or solicit deposits from the public, if any (Example: www.examplebank.biz):"
+FFIEC_031,LC_2314_BOA_CALIFORN,TE09N528,"URLs of all other public-facing Internet Web sites that the reporting institution uses to accept or solicit deposits from the public, if any (Example: www.examplebank.biz):"
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC494,CFO (or equivalent): Area Code / FAX Number
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC495,Other: Name
+FFIEC_031,LC_2314_BOA_CALIFORN,RCON9999,Date (YYYYMMDD)
+FFIEC_031,LC_2314_BOA_CALIFORN,TE10N528,"URLs of all other public-facing Internet Web sites that the reporting institution uses to accept or solicit deposits from the public, if any (Example: www.examplebank.biz):"
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXT4087,Primary Internet Web site address of the bank (home page)
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXT9116,Other: Area Code / FAX Number
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTB964,RC-T Contact: Area Code / FAX Number
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC367,Primary: Title
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC370,Primary: Area Code / FAX Number
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC371,Secondary: Name
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC372,Secondary: Title
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC373,Secondary: E-mail Address
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC374,Secondary: Area Code / Phone Number / Extension
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC375,Secondary: Area Code / FAX Number
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC490,CFO (or equivalent): Name
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC491,CFO (or equivalent): Title
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC492,CFO (or equivalent): E-mail Address
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC493,CFO (or equivalent): Area Code / Phone Number / Extension
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC494,CFO (or equivalent): Area Code / FAX Number
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC496,Other: Title
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC875,PATRIOT Act: Fourth: Name
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC876,PATRIOT Act: Fourth: Title
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC877,PATRIOT Act: Fourth: E-mail Address
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC878,PATRIOT Act: Fourth: Area Code / Phone Number / Extension
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTFT42,CEO: Name
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTFT43,CEO: Area Code / Phone Number / Extension
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTFT44,CEO: E-mail Address
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTFT45,CEO: Area Code / FAX Number
+FFIEC_031,LC_2314_BOA_CALIFORN,TOPSIDE_ADJ,"Does the client wish to use Topside Adjustments (manual) functionality in the forms? Enter ""1"" for YES and ""0"" for NO"
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTB926,RC-T Contact: E-mail Address
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTB962,RC-T Contact: Name and Title
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC369,Primary: Area Code / Phone Number / Extension
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTB963,RC-T Contact: Area Code / Phone Number / Extension
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC366,Primary: Name
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC495,Other: Name
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXT8902,Other: Area Code / Phone Number / Extension
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXT4086,Other: E-mail Address
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC368,Primary: E-mail Address
+FFIEC_031,LC_2001_BANACONSOLDT,TE08N528,"URLs of all other public-facing Internet Web sites that the reporting institution uses to accept or solicit deposits from the public, if any (Example: www.examplebank.biz):"
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC445,PATRIOT Act: Secondary: Area Code / Phone Number / Extension
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC445,PATRIOT Act: Secondary: Area Code / Phone Number / Extension
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC444,PATRIOT Act: Secondary: E-mail Address
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC444,PATRIOT Act: Secondary: E-mail Address
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC443,PATRIOT Act: Secondary: Title
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC442,PATRIOT Act: Secondary: Name
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC440,PATRIOT Act: Primary: Area Code / Phone Number / Extension
+FFIEC_031,LC_2314_BOA_CALIFORN,DOS,Date of Signature
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC440,PATRIOT Act: Primary: Area Code / Phone Number / Extension
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC443,PATRIOT Act: Secondary: Title
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC442,PATRIOT Act: Secondary: Name
+FFIEC_031,LC_2001_BANACONSOLDT,DOS,Date of Signature
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC439,PATRIOT Act: Primary: E-mail Address
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC438,PATRIOT Act: Primary: Title
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC437,PATRIOT Act: Primary: Name
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC873,PATRIOT Act: Third: Area Code / Phone Number / Extension
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC873,PATRIOT Act: Third: Area Code / Phone Number / Extension
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC872,PATRIOT Act: Third: E-mail Address
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC871,PATRIOT Act: Third: Title
+FFIEC_031,LC_2314_BOA_CALIFORN,TEXTC870,PATRIOT Act: Third: Name
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC438,PATRIOT Act: Primary: Title
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC437,PATRIOT Act: Primary: Name
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC439,PATRIOT Act: Primary: E-mail Address
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC870,PATRIOT Act: Third: Name
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC872,PATRIOT Act: Third: E-mail Address
+FFIEC_031,LC_2001_BANACONSOLDT,TEXTC871,PATRIOT Act: Third: Title
+FFIEC_031,LC_2001_BANACONSOLDT,RCOAJJ29,"Retained earnings: Does your institution have a CECL transition election in effect as of the quarter-end report date? (enter ""0"" for No; enter ""1"" for Yes with a 3-year CECL transition election; enter ""2"" for Yes with a 5-year 2020 CECL transition election.)"
+FFIEC_031,LC_2314_BOA_CALIFORN,RCOAJJ29,"Retained earnings: Does your institution have a CECL transition election in effect as of the quarter-end report date? (enter ""0"" for No; enter ""1"" for Yes with a 3-year CECL transition election; enter ""2"" for Yes with a 5-year 2020 CECL transition election.)"
+FFIEC_031,LC_2001_BANACONSOLDT,CREDIT_FI,Multiplier for Credit MDRMs
+FFIEC_031,LC_2001_BANACONSOLDT,DEBIT_FI,Multiplier for Debit MDRMs
+FFIEC_031,LC_2001_BANACONSOLDT,DIRECTOR1,Director (Trustee)
+FFIEC_031,LC_2001_BANACONSOLDT,DIRECTOR2,Director (Trustee)
+FFIEC_031,LC_2001_BANACONSOLDT,DIRECTOR3,Director (Trustee)
+FFIEC_031,LC_2001_BANACONSOLDT,ENTITY,Legal Title of Bank
+FFIEC_031,LC_2001_BANACONSOLDT,NA_DISPLAY,Display value for not applicable MDRMs
+FFIEC_031,LC_2001_BANACONSOLDT,PY_SOURCE,"Does the client wish to get values from Previously Filed Reports for Q4 Previous Year (Enter ""1"") OR from an Aggregation Data Source (Enter ""0"") Applies to RIAD3217 and RIADB522?"
+FFIEC_031,LC_2001_BANACONSOLDT,RCFAH313,"Is the institution eligible to complete RC-R Pt I line item 53, based on the reporting requirements set forth in Footnote 1 related to this item? (Enter ""1"" for YES and ""0"" for NO)"
+FFIEC_031,LC_2001_BANACONSOLDT,RCFAH314,"Is the institution eligible to complete RC-R Pt I line item 54, based on the reporting requirements set forth in Footnote 2 related to this item? (Enter ""1"" for YES and ""0"" for NO)"
+FFIEC_031,LC_2001_BANACONSOLDT,RCFD4088,"Do any of the bank's Internet websites have transactional capability, i.e., allow the bank's customers to execute transactions on their accounts through the website?"
+FFIEC_031,LC_2001_BANACONSOLDT,RCFD6724,Audit Type
+FFIEC_031,LC_2001_BANACONSOLDT,RCFDA345,Does the institution have fiduciary powers?
+FFIEC_031,LC_2001_BANACONSOLDT,RCFDA346,Does the institution exercise the fiduciary powers it has been granted?
+FFIEC_031,LC_2001_BANACONSOLDT,RCFDB569,Does the reporting bank sell private label or third-party mutual funds and annuities?
+FFIEC_031,LC_2001_BANACONSOLDT,RCFDB867,Does the institution have any fiduciary or related activity (in the form of assets or accounts) to report in this schedule?
+FFIEC_031,LC_2001_BANACONSOLDT,RCFDK653,"Averaging method used (for daily averaging, enter 1, for weekly averaging, enter 2)"
+FFIEC_031,LC_2001_BANACONSOLDT,RCFDK656,Does the reporting institution meet both the statutory definition of a banker's bank and the business conduct test set forth in FDIC regulations?
+FFIEC_031,LC_2001_BANACONSOLDT,RCFDK659,Does the reporting institution meet the definition of a custodial bank set forth in FDIC regulations?
+FFIEC_031,LC_2001_BANACONSOLDT,RCFDM978,"PDs derived using: Enter ""1"" if third party vendor software; Enter ""2"" if internal approach; Enter ""3"" if combination of third party and internal approach for the same product type."
+FFIEC_031,LC_2001_BANACONSOLDT,RCFDM993,"PDs derived using: Enter ""1"" if third party vendor software; Enter ""2"" if internal approach; Enter ""3"" if combination of third party and internal approach for the same product type."
+FFIEC_031,LC_2001_BANACONSOLDT,RCFDN009,"PDs derived using: Enter ""1"" if third party vendor software; Enter ""2"" if internal approach; Enter ""3"" if combination of third party and internal approach for the same product type."
+FFIEC_031,LC_2001_BANACONSOLDT,RCFDN024,"PDs derived using: Enter ""1"" if third party vendor software; Enter ""2"" if internal approach; Enter ""3"" if combination of third party and internal approach for the same product type."
+FFIEC_031,LC_2001_BANACONSOLDT,RCFDN054,"PDs derived using: Enter ""1"" if third party vendor software; Enter ""2"" if internal approach; Enter ""3"" if combination of third party and internal approach for the same product type."
+FFIEC_031,LC_2001_BANACONSOLDT,RCFDN069,"PDs derived using: Enter ""1"" if third party vendor software; Enter ""2"" if internal approach; Enter ""3"" if combination of third party and internal approach for the same product type."
+FFIEC_031,LC_2001_BANACONSOLDT,RCFDN084,"PDs derived using: Enter ""1"" if third party vendor software; Enter ""2"" if internal approach; Enter ""3"" if combination of third party and internal approach for the same product type."
+FFIEC_031,LC_2001_BANACONSOLDT,RCFDN099,"PDs derived using: Enter ""1"" if third party vendor software; Enter ""2"" if internal approach; Enter ""3"" if combination of third party and internal approach for the same product type."
+FFIEC_031,LC_2001_BANACONSOLDT,RCFDN114,"PDs derived using: Enter ""1"" if third party vendor software; Enter ""2"" if internal approach; Enter ""3"" if combination of third party and internal approach for the same product type."
+FFIEC_031,LC_2001_BANACONSOLDT,RCOALE74,"Does your institution have a community bank leverage ratio (CBLR) framework election in effect as of the quarter-end report date? (enter ""1"" for Yes; enter ""0"" for No)"
+FFIEC_031,LC_2001_BANACONSOLDT,RCOAP838,"Accumulated other comprehensive income (AOCI): a. AOCI opt-out election (enter ""1"" for Yes; enter ""0"" for No.)"
+FFIEC_031,LC_2001_BANACONSOLDT,RCON6979,Comments (Optional Narrative)?
+FFIEC_031,LC_2001_BANACONSOLDT,RCON8678,Bank's fiscal year-end date (MMDD)
+FFIEC_031,LC_2001_BANACONSOLDT,RCON9224,LEI: Report only if your institution already has an LEI
+FFIEC_031,LC_2001_BANACONSOLDT,RCONA545,"Has the reporting institution been consolidated with a parent bank or savings association in that parent bank's or parent savings association's Call Report? If so, report the legal title and FDIC Certificate Number of the parent bank or parent savings association"
+FFIEC_031,LC_2001_BANACONSOLDT,RCONG463,"Does the bank act as a trustee or custodian for Individual Retirement Accounts, Health Savings Accounts, and other similar accounts?"
+FFIEC_031,LC_2001_BANACONSOLDT,RCONG464,"Does the bank provide custody, safekeeping, or other services involving the acceptance of orders for the sale or purchase of securities?"
+FFIEC_031,LC_2001_BANACONSOLDT,RCONKX18,"Did your institution adopt ASU N0. 2016-13, measurement of credit losses on financial instruments?"
+FFIEC_031,LC_2001_BANACONSOLDT,RCONL133,"Does the institution use the Home Owners' Loan Act (HOLA) QTL test or the Internal Revenue Service Domestic Building and Loan Association (IRS DBLA) test to determine its QTL compliance? (for the HOLA QTL test, enter 1; for the IRS DBLA test, enter 2)"
+FFIEC_031,LC_2001_BANACONSOLDT,RCONL135,"Has the institution been in compliance with the HOLA QTL test as of each month end during the quarter or the IRS DBLA test for its most recent taxable year, as applicable?"
+FFIEC_031,LC_2001_BANACONSOLDT,RCONP752,"Does your institution offer one or more consumer deposit account products, i.e., transaction account or nontransaction savings account deposit products intended primarily for individuals for personal, household, or family use?"
+FFIEC_031,LC_2001_BANACONSOLDT,RC_C_WKSH1_PASSTHRU_ADJ,"Worksheet Passthru Active if ""OK"""
+FFIEC_031,LC_2001_BANACONSOLDT,RC_C_WKSH2_PASSTHRU_ADJ,"Worksheet Passthru Active if ""OK"""
+FFIEC_031,LC_2001_BANACONSOLDT,RC_N_WKSH1_PASSTHRU_ADJ,"Worksheet Passthru Active if ""OK"""
+FFIEC_031,LC_2001_BANACONSOLDT,RIAD4769,Comments (RI-E)?
+FFIEC_031,LC_2001_BANACONSOLDT,RIAD9106,"If the reporting bank has restated its balance sheet as a result of applying push down accounting this calendar year, report the date of the bank's acquisition"
+FFIEC_031,LC_2001_BANACONSOLDT,RIADA530,Does the reporting bank have a Subchapter S election in effect for federal income tax purposes for the current tax year?
+FFIEC_031,LC_2001_BANACONSOLDT,RIID,RIID Number
+FFIEC_031,LC_2001_BANACONSOLDT,RND,ROUNDING FACTOR
+FFIEC_031,LC_2001_BANACONSOLDT,RND_MUL,MULTIPLIER FOR ROUNDING FACTOR
+FFIEC_031,LC_2001_BANACONSOLDT,RSSD9017,Legal Title of Bank
+FFIEC_031,LC_2001_BANACONSOLDT,RSSD9050,FDIC Certificate number
+FFIEC_031,LC_2001_BANACONSOLDT,RSSD9130,City
+FFIEC_031,LC_2001_BANACONSOLDT,RSSD9200,State Abbreviation
+FFIEC_031,LC_2001_BANACONSOLDT,RSSD9220,ZIP Code
+FFIEC_031,LC_2001_BANACONSOLDT,SCH_R_RND,ROUNDING FACTOR FOR SCHEDULE R
+FFIEC_031,LC_2001_BANACONSOLDT,SCH_R_RND_MUL,MULTIPLIER FOR ROUNDING FACTOR FOR SCHEDULE R
+FFIEC_031,LC_2001_BANACONSOLDT,TE01N528,"URLs of all other public-facing Internet Web sites that the reporting institution uses to accept or solicit deposits from the public, if any (Example: www.examplebank.biz):"
+FFIEC_031,LC_2001_BANACONSOLDT,TE01N529,"Trade names other than the reporting institution's legal title used to identify one or more of the institution's physical offices at which deposits are accepted or solicited from the public, if any:"
+FFIEC_031,LC_2001_BANACONSOLDT,TE02N528,"URLs of all other public-facing Internet Web sites that the reporting institution uses to accept or solicit deposits from the public, if any (Example: www.examplebank.biz):"
+FFIEC_031,LC_2001_BANACONSOLDT,TE02N529,"Trade names other than the reporting institution's legal title used to identify one or more of the institution's physical offices at which deposits are accepted or solicited from the public, if any:"
+FFIEC_031,LC_2001_BANACONSOLDT,TE03N528,"URLs of all other public-facing Internet Web sites that the reporting institution uses to accept or solicit deposits from the public, if any (Example: www.examplebank.biz):"
+FFIEC_031,LC_2001_BANACONSOLDT,TE03N529,"Trade names other than the reporting institution's legal title used to identify one or more of the institution's physical offices at which deposits are accepted or solicited from the public, if any:"

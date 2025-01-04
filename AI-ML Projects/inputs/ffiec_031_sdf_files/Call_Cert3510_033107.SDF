@@ -1,0 +1,1341 @@
+Call Date;Bank RSSD Identifier;MDRM #;Value;Last Update;Short Definition;Call Schedule;Line Number
+20070331;480228;RCFD0010;41049262;20080603;Cash and balances due from depository institutions;RCR;34
+20070331;480228;RCFD0022;26390184;20080603;Cash items in process of collection, unposted debits, and currency and coin;RCA;1
+20070331;480228;RCFD0071;11172018;20080603;Interest-bearing balances;RC;1b
+20070331;480228;RCFD0073;161015;20080603;Foreign branches of other U.S. banks;RCA;3a
+20070331;480228;RCFD0074;7520938;20080603;Other banks in foreign countries and foreign central banks;RCA;3b
+20070331;480228;RCFD0081;29877243;20080603;Noninterest-bearing balances and currency and coin;RC;1a
+20070331;480228;RCFD0083;25;20080603;U.S. branches and agencies of foreign banks (including their IBFs);RCA;2a
+20070331;480228;RCFD0085;5336717;20080603;Other commercial banks in the U.S. and other depository institutions in the U.S. (including their IBFs);RCA;2b
+20070331;480228;RCFD0090;1640383;20080603;Balances due from Federal Reserve Banks;RCA;4
+20070331;480228;RCFD0211;0;20080603;U.S. Treasury securities;RCB;1
+20070331;480228;RCFD0213;0;20080603;U.S. Treasury securities;RCB;1
+20070331;480228;RCFD0416;127052003;20080603;Pledged securities;RCB;M1
+20070331;480228;RCFD0426;5019942;20080603;Total;RCM;2d
+20070331;480228;RCFD1248;186;20080603;Loans secured by real estate to non-U.S. addressees (domicile) (included in Schedule RC-N, item 1, above);RCN;M3
+20070331;480228;RCFD1249;0;20080603;Loans secured by real estate to non-U.S. addressees (domicile) (included in Schedule RC-N, item 1, above);RCN;M3
+20070331;480228;RCFD1250;62;20080603;Loans secured by real estate to non-U.S. addressees (domicile) (included in Schedule RC-N, item 1, above);RCN;M3
+20070331;480228;RCFD1251;406519;20080603;To U.S. addressees (domicile);RCN;4a
+20070331;480228;RCFD1252;63015;20080603;To U.S. addressees (domicile);RCN;4a
+20070331;480228;RCFD1253;292383;20080603;To U.S. addressees (domicile);RCN;4a
+20070331;480228;RCFD1254;62679;20080603;To non-U.S. addressees (domicile);RCN;4b
+20070331;480228;RCFD1255;1004;20080603;To non-U.S. addressees (domicile);RCN;4b
+20070331;480228;RCFD1256;24676;20080603;To non-U.S. addressees (domicile);RCN;4b
+20070331;480228;RCFD1286;257217;20080603;U.S. Treasury securities;RCB;1
+20070331;480228;RCFD1287;255674;20080603;U.S. Treasury securities;RCB;1
+20070331;480228;RCFD1289;0;20080603;Issued by U.S. Government agencies;RCB;2a
+20070331;480228;RCFD1290;0;20080603;Issued by U.S. Government agencies;RCB;2a
+20070331;480228;RCFD1291;163;20080603;Issued by U.S. Government agencies;RCB;2a
+20070331;480228;RCFD1293;160;20080603;Issued by U.S. Government agencies;RCB;2a
+20070331;480228;RCFD1294;0;20080603;Issued by U.S. Government-sponsored agencies;RCB;2b
+20070331;480228;RCFD1295;0;20080603;Issued by U.S. Government-sponsored agencies;RCB;2b
+20070331;480228;RCFD1297;962688;20080603;Issued by U.S. Government-sponsored agencies;RCB;2b
+20070331;480228;RCFD1298;961561;20080603;Issued by U.S. Government-sponsored agencies;RCB;2b
+20070331;480228;RCFD1395;0;20080603;Tier 3 capital allocated for market risk;RCR;19
+20070331;480228;RCFD1410;394603967;20080603;Loans secured by real estate;RCCI;1
+20070331;480228;RCFD1563;15587066;20080603;Other loans;RCCI;9
+20070331;480228;RCFD1578;0;20080603;Repossessed personal property (including vehicles);RCF;6b
+20070331;480228;RCFD1583;9117;20080603;Loans to finance agricultural production and other loans to farmers;RCN;3
+20070331;480228;RCFD1590;1413206;20080603;Loans to finance agricultural production and other loans to farmers;RCCI;3
+20070331;480228;RCFD1594;5698;20080603;Loans to finance agricultural production and other loans to farmers;RCN;3
+20070331;480228;RCFD1597;310;20080603;Loans to finance agricultural production and other loans to farmers;RCN;3
+20070331;480228;RCFD1616;14425;20080603;Loans and leases restructured and in compliance with modified terms (included in Schedule RC-C, part I, and not reported as past due or nonaccrual in Schedule RC-N, Memorandum item 1) (exclude loans secured by 1-4 family residential properties and loans to individuals for household, family, and other personal expenditures);RCCI;M1
+20070331;480228;RCFD1651;42772260;20080603;Market risk equivalent assets;RCR;58
+20070331;480228;RCFD1658;0;20080603;Restructured loans and leases included in Schedule RC-N, items 1 through 8, above (and not reported in Schedule RC-C, Part I, Memorandum item 1);RCN;M1
+20070331;480228;RCFD1659;0;20080603;Restructured loans and leases included in Schedule RC-N, items 1 through 8, above (and not reported in Schedule RC-C, Part I, Memorandum item 1);RCN;M1
+20070331;480228;RCFD1661;14109;20080603;Restructured loans and leases included in Schedule RC-N, items 1 through 8, above (and not reported in Schedule RC-C, Part I, Memorandum item 1);RCN;M1
+20070331;480228;RCFD1698;0;20080603;Guaranteed by GNMA;RCB;4a1
+20070331;480228;RCFD1699;0;20080603;Guaranteed by GNMA;RCB;4a1
+20070331;480228;RCFD1701;320162;20080603;Guaranteed by GNMA;RCB;4a1
+20070331;480228;RCFD1702;310241;20080603;Guaranteed by GNMA;RCB;4a1
+20070331;480228;RCFD1703;0;20080603;Issued by FNMA and FHLMC;RCB;4a2
+20070331;480228;RCFD1705;0;20080603;Issued by FNMA and FHLMC;RCB;4a2
+20070331;480228;RCFD1706;152446790;20080603;Issued by FNMA and FHLMC;RCB;4a2
+20070331;480228;RCFD1707;147784121;20080603;Issued by FNMA and FHLMC;RCB;4a2
+20070331;480228;RCFD1709;909120;20080603;Other pass-through securities;RCB;4a3
+20070331;480228;RCFD1710;909120;20080603;Other pass-through securities;RCB;4a3
+20070331;480228;RCFD1711;2982652;20080603;Other pass-through securities;RCB;4a3
+20070331;480228;RCFD1713;2906837;20080603;Other pass-through securities;RCB;4a3
+20070331;480228;RCFD1714;0;20080603;Issued or guaranteed by FNMA, FHLMC, or GNMA;RCB;4b1
+20070331;480228;RCFD1715;0;20080603;Issued or guaranteed by FNMA, FHLMC, or GNMA;RCB;4b1
+20070331;480228;RCFD1716;13364;20080603;Issued or guaranteed by FNMA, FHLMC, or GNMA;RCB;4b1
+20070331;480228;RCFD1717;13321;20080603;Issued or guaranteed by FNMA, FHLMC, or GNMA;RCB;4b1
+20070331;480228;RCFD1718;0;20080603;Collateralized by MBS issued or guaranteed by FNMA, FHLMC, or GNMA;RCB;4b2
+20070331;480228;RCFD1719;0;20080603;Collateralized by MBS issued or guaranteed by FNMA, FHLMC, or GNMA;RCB;4b2
+20070331;480228;RCFD1731;0;20080603;Collateralized by MBS issued or guaranteed by FNMA, FHLMC, or GNMA;RCB;4b2
+20070331;480228;RCFD1732;0;20080603;Collateralized by MBS issued or guaranteed by FNMA, FHLMC, or GNMA;RCB;4b2
+20070331;480228;RCFD1733;0;20080603;All other mortgage-backed securities;RCB;4b3
+20070331;480228;RCFD1734;0;20080603;All other mortgage-backed securities;RCB;4b3
+20070331;480228;RCFD1735;4101905;20080603;All other mortgage-backed securities;RCB;4b3
+20070331;480228;RCFD1736;4071548;20080603;All other mortgage-backed securities;RCB;4b3
+20070331;480228;RCFD1737;0;20080603;Other domestic debt securities;RCB;6a
+20070331;480228;RCFD1738;0;20080603;Other domestic debt securities;RCB;6a
+20070331;480228;RCFD1739;4625852;20080603;Other domestic debt securities;RCB;6a
+20070331;480228;RCFD1741;4560769;20080603;Other domestic debt securities;RCB;6a
+20070331;480228;RCFD1742;0;20080603;Foreign debt securities;RCB;6b
+20070331;480228;RCFD1743;0;20080603;Foreign debt securities;RCB;6b
+20070331;480228;RCFD1744;1175510;20080603;Foreign debt securities;RCB;6b
+20070331;480228;RCFD1746;1181675;20080603;Foreign debt securities;RCB;6b
+20070331;480228;RCFD1752;3044221;20080603;Equity securities that DO NOT have readily determinable fair values;RCF;4
+20070331;480228;RCFD1754;925669;20080603;Held-to-maturity securities;RCR;35
+20070331;480228;RCFD1763;99371907;20080603;To U.S. addressees (domicile);RCCI;4a
+20070331;480228;RCFD1764;22938627;20080603;To non-U.S. addressees (domicile);RCCI;4b
+20070331;480228;RCFD1771;925684;20080603;Total;RCB;8
+20070331;480228;RCFD1772;185565235;20080603;Total;RCB;8
+20070331;480228;RCFD1773;180712232;20080603;Available-for-sale securities;RCR;36
+20070331;480228;RCFD1778;0;20080603;Amortized cost of held-to-maturity securities sold or transferred to available-for-sale or trading securities during the calendar year-to-date (report the amortized cost at date of sale or transfer);RCB;M3
+20070331;480228;RCFD2011;51535830;20080603;Other consumer loans (includes single payment, installment, and all student loans);RCCI;6c
+20070331;480228;RCFD2081;288155;20080603;Loans to foreign governments and official institutions (including foreign central banks);RCCI;7
+20070331;480228;RCFD2107;9184809;20080603;Obligations (other than securities and leases) of states and political subdivisions in the U.S.;RCCI;8
+20070331;480228;RCFD2122;645639673;20080603;Total loans and leases, net of unearned income;RCCI;12
+20070331;480228;RCFD2123;0;20080603;Any unearned income on loans reflected in items 1-9 above;RCCI;11
+20070331;480228;RCFD2130;5242666;20080603;Total;RCM;4c
+20070331;480228;RCFD2145;7352057;20080603;Premises and fixed assets (including capitalized leases);RC;6
+20070331;480228;RCFD2148;0;20080603;Net deferred tax assets;RCF;2
+20070331;480228;RCFD2150;87618;20080603;Total;RCM;3c
+20070331;480228;RCFD2160;58686116;20080603;Total;RCF;7
+20070331;480228;RCFD2166;0;20080603;Prepaid expenses;RCF;6a
+20070331;480228;RCFD2168;35938339;20080603;All other assets;RCF;6
+20070331;480228;RCFD2170;1204471773;20080603;Total assets;RCR;43
+20070331;480228;RCFD2221;13772;20080603;Unrealized gains on available-for-sale equity securities includible in Tier 2 capital;RCR;15
+20070331;480228;RCFD2651;861126;20080603;Advances with a remaining maturity of one year or less (included in item 5.a.(1)(a) above);RCM;5a2
+20070331;480228;RCFD2746;7002081;20080603;Loans to finance commercial real estate, construction, and land development activities (not secured by real estate) included in Schedule RC-C, part I, items 4 and 9, column A;RCCI;M3
+20070331;480228;RCFD2930;30770707;20080603;Total;RCG;5
+20070331;480228;RCFD2932;0;20080603;Dividends declared but not yet payable;RCG;4c
+20070331;480228;RCFD2938;18938287;20080603;All other liabilities;RCG;4
+20070331;480228;RCFD2948;1093847519;20080603;Total liabilities;RC;21
+20070331;480228;RCFD3000;1822466;20080603;Minority interest in consolidated subsidiaries;RC;22
+20070331;480228;RCFD3049;3426573;20080603;Net deferred tax liabilities;RCG;2
+20070331;480228;RCFD3066;0;20080603;Accounts payable;RCG;4a
+20070331;480228;RCFD3123;3795394;20080603;Allowance for loan and lease losses;RCR;40
+20070331;480228;RCFD3128;0;20080603;Allocated transfer risk reserve;RCR;61
+20070331;480228;RCFD3163;41586077;20080603;Goodwill;RC;10a
+20070331;480228;RCFD3164;3140847;20080603;Mortgage servicing assets;RCM;2a
+20070331;480228;RCFD3190;87101100;20080603;Total;RCM;5c
+20070331;480228;RCFD3200;18453399;20080603;Subordinated notes and debentures;RC;19
+20070331;480228;RCFD3210;108801788;20080603;Total equity capital (from Schedule RC, item 28);RCR;1
+20070331;480228;RCFD3230;2878894;20080603;Common stock;RC;24
+20070331;480228;RCFD3300;1204471773;20080603;Total liabilities, minority interest, and equity capital;RC;29
+20070331;480228;RCFD3353;153051217;20080603;Federal funds purchased and securities sold under agreements to repurchase;RCK;13
+20070331;480228;RCFD3355;80403339;20080603;Other borrowed money (includes mortgage indebtedness and obligations under capitalized leases);RCK;14
+20070331;480228;RCFD3365;102720362;20080603;Federal funds sold and securities purchased under agreements to resell;RCK;5
+20070331;480228;RCFD3368;1215763457;20080603;Average total assets (from Schedule RC-K, item 9);RCR;22
+20070331;480228;RCFD3381;17394948;20080603;Interest-bearing balances due from depository institutions;RCK;1
+20070331;480228;RCFD3401;121013456;20080603;Trading assets;RCK;7
+20070331;480228;RCFD3411;4550256;20080603;Commercial and similar letters of credit;RCR;46
+20070331;480228;RCFD3429;0;20080603;Risk participations in bankers acceptances acquired by the reporting institution;RCR;47
+20070331;480228;RCFD3430;0;20080603;All other off-balance sheet liabilities (exclude derivatives);RCL;9
+20070331;480228;RCFD3432;0;20080603;Securities borrowed;RCL;9a
+20070331;480228;RCFD3433;6328986;20080603;Securities lent;RCR;48
+20070331;480228;RCFD3434;0;20080603;Commitments to purchase when-issued securities;RCL;9b
+20070331;480228;RCFD3435;0;20080603;Commitments to sell when-issued securities;RCL;10a
+20070331;480228;RCFD3450;19358430559;20080603;Swaps;RCL;12e
+20070331;480228;RCFD3484;19053908;20080603;Lease financing receivables (net of unearned income);RCK;8
+20070331;480228;RCFD3505;0;20080603;Debt securities and other assets (exclude other real estate owned and other repossessed assets);RCN;9
+20070331;480228;RCFD3506;0;20080603;Debt securities and other assets (exclude other real estate owned and other repossessed assets);RCN;9
+20070331;480228;RCFD3507;28930;20080603;Debt securities and other assets (exclude other real estate owned and other repossessed assets);RCN;9
+20070331;480228;RCFD3529;26038;20080603;Interest rate, foreign exchange rate, and other commodity and equity contracts: Fair value of amounts carried as assets;RCN;M6
+20070331;480228;RCFD3530;0;20080603;Interest rate, foreign exchange rate, and other commodity and equity contracts: Fair value of amounts carried as assets;RCN;M6
+20070331;480228;RCFD3545;120333363;20080603;Trading assets;RCR;41
+20070331;480228;RCFD3546;43895908;20080603;Liability for short positions;RCD;13
+20070331;480228;RCFD3547;17103587;20080603;Derivatives with a negative fair value;RCD;14
+20070331;480228;RCFD3548;60999495;20080603;Total trading liabilities;RCD;15
+20070331;480228;RCFD3549;0;20080603;Amount of component;RCF;6e2
+20070331;480228;RCFD3550;0;20080603;Amount of component;RCF;6f2
+20070331;480228;RCFD3551;0;20080603;Amount of component;RCF;6g2
+20070331;480228;RCFD3552;0;20080603;Amount of component;RCG;4e2
+20070331;480228;RCFD3553;0;20080603;Amount of component;RCG;4f2
+20070331;480228;RCFD3554;0;20080603;Amount of component;RCG;4g2
+20070331;480228;RCFD3555;0;20080603;Amount of component;RCL;9d2
+20070331;480228;RCFD3556;0;20080603;Amount of component;RCL;9e2
+20070331;480228;RCFD3557;0;20080603;Amount of component;RCL;9f2
+20070331;480228;RCFD3632;30973177;20080603;Retained earnings;RC;26a
+20070331;480228;RCFD3646;7043892;20080603;Other expenses accrued and unpaid (includes accrued income taxes payable);RCG;1b
+20070331;480228;RCFD3792;96740202;20080603;Total risk-based capital;RCR;21
+20070331;480228;RCFD3809;5490023673;20080603;Interest rate contracts;RCR;M2a
+20070331;480228;RCFD3812;1545597093;20080603;Foreign exchange contracts;RCR;M2b
+20070331;480228;RCFD3814;102726368;20080603;Revolving, open-end lines secured by 1-4 family residential properties, e.g., home equity lines;RCL;1a
+20070331;480228;RCFD3815;0;20080603;Credit card lines;RCL;1b
+20070331;480228;RCFD3816;19033041;20080603;Commitments to fund commercial real estate, construction, and land development loans secured by real estate;RCL;1c1
+20070331;480228;RCFD3817;0;20080603;Securities underwriting;RCL;1d
+20070331;480228;RCFD3818;295986244;20080603;Other unused commitments;RCL;1e
+20070331;480228;RCFD3819;70772466;20080603;Financial standby letters of credit and foreign office guarantees;RCL;2
+20070331;480228;RCFD3820;20604665;20080603;Amount of financial standby letters of credit conveyed to others;RCL;2a
+20070331;480228;RCFD3821;9722238;20080603;Performance standby letters of credit;RCR;45
+20070331;480228;RCFD3822;4452987;20080603;Amount of performance standby letters of credit conveyed to others;RCL;3a
+20070331;480228;RCFD3826;514613060;20080603;Swaps;RCL;12e
+20070331;480228;RCFD3833;243543132;20080603;Unused commitments with an original maturity exceeding one year;RCR;53
+20070331;480228;RCFD3838;0;20080603;Perpetual preferred stock and related surplus;RC;23
+20070331;480228;RCFD3839;82654699;20080603;Surplus (exclude all surplus related to preferred stock);RC;25
+20070331;480228;RCFD4088;true;20080603;Do any of the bank's Internet Web sites have transactional capability, i.e., allow the bank's customers to execute transactions on their accounts through the Web site?;RCM;9
+20070331;480228;RCFD4336;-4522015;20080603;Accumulated net gains (losses) on cash flow hedges;RCR;4
+20070331;480228;RCFD5306;17032593;20080603;Qualifying subordinated debt and redeemable preferred stock;RCR;12
+20070331;480228;RCFD5310;4325200;20080603;Allowance for loan and lease losses includible in Tier 2 capital;RCR;14
+20070331;480228;RCFD5311;21374137;20080603;Tier 2 capital;RCR;17
+20070331;480228;RCFD5320;21403517;20080603;Total assets;RCR;43
+20070331;480228;RCFD5327;451945463;20080603;Total assets;RCR;43
+20070331;480228;RCFD5334;89811432;20080603;Total assets;RCR;43
+20070331;480228;RCFD5339;60494415;20080603;All other assets;RCR;42
+20070331;480228;RCFD5340;478734801;20080603;Total assets;RCR;43
+20070331;480228;RCFD5369;34675452;20080603;Loans and leases held for sale;RCR;38
+20070331;480228;RCFD5372;0;20080603;Direct and indirect investments in real estate ventures;RCM;3a
+20070331;480228;RCFD5374;4349130;20080603;Direct and indirect investments in real estate ventures;RCM;4a
+20070331;480228;RCFD5375;893536;20080603;All other investments in unconsolidated subsidiaries and associated companies;RCM;4b
+20070331;480228;RCFD5377;425;20080603;To U.S. banks and other U.S. depository institutions;RCN;2a
+20070331;480228;RCFD5378;81;20080603;To U.S. banks and other U.S. depository institutions;RCN;2a
+20070331;480228;RCFD5379;330;20080603;To U.S. banks and other U.S. depository institutions;RCN;2a
+20070331;480228;RCFD5380;84;20080603;To foreign banks;RCN;2b
+20070331;480228;RCFD5381;0;20080603;To foreign banks;RCN;2b
+20070331;480228;RCFD5382;0;20080603;To foreign banks;RCN;2b
+20070331;480228;RCFD5389;0;20080603;Loans to foreign governments and official institutions;RCN;6
+20070331;480228;RCFD5390;0;20080603;Loans to foreign governments and official institutions;RCN;6
+20070331;480228;RCFD5391;0;20080603;Loans to foreign governments and official institutions;RCN;6
+20070331;480228;RCFD5459;87522;20080603;All other loans;RCN;7
+20070331;480228;RCFD5460;1114;20080603;All other loans;RCN;7
+20070331;480228;RCFD5461;44317;20080603;All other loans;RCN;7
+20070331;480228;RCFD5507;1879095;20080603;All other identifiable intangible assets;RCM;2c
+20070331;480228;RCFD5591;0;20080603;All other off-balance sheet assets (exclude derivatives);RCL;10
+20070331;480228;RCFD5592;0;20080603;Amount of component;RCL;10b2
+20070331;480228;RCFD5593;0;20080603;Amount of component;RCL;10c2
+20070331;480228;RCFD5594;0;20080603;Amount of component;RCL;10d2
+20070331;480228;RCFD5595;0;20080603;Amount of component;RCL;10e2
+20070331;480228;RCFD5610;0;20080603;Disallowed deferred tax assets (from item 9.b above);RCR;25
+20070331;480228;RCFD5612;190795;20080603;Loans and leases reported in items 1 through 8 above which are wholly or partially guaranteed by the U.S. Government;RCN;10
+20070331;480228;RCFD5613;110536;20080603;Loans and leases reported in items 1 through 8 above which are wholly or partially guaranteed by the U.S. Government;RCN;10
+20070331;480228;RCFD5614;68969;20080603;Loans and leases reported in items 1 through 8 above which are wholly or partially guaranteed by the U.S. Government;RCN;10
+20070331;480228;RCFD5615;150904;20080603;Guaranteed portion of loans and leases included in item 10 above (exclude rebooked "GNMA loans");RCN;10a
+20070331;480228;RCFD5616;1659;20080603;Guaranteed portion of loans and leases included in item 10 above (exclude rebooked "GNMA loans");RCN;10a
+20070331;480228;RCFD5617;42676;20080603;Guaranteed portion of loans and leases included in item 10 above (exclude rebooked "GNMA loans");RCN;10a
+20070331;480228;RCFD6164;230527;20080603;Aggregate amount of all extensions of credit to all executive officers, directors, principal shareholders, and their related interests;RCM;1a
+20070331;480228;RCFD6165;7;20080603;Number of executive officers, directors, and principal shareholders to whom the amount of all extensions of credit by the reporting bank (including extensions of credit to related interests) equals or exceeds the lesser of $500,000 or 5 percent of total capital as defined for this purpose in agency regulations;RCM;1b
+20070331;480228;RCFD6550;10315876;20080603;Commitments to fund commercial real estate, construction, and land development loans not secured by real estate;RCL;1c2
+20070331;480228;RCFD6558;36371;20080603;Loans to finance commercial real estate, construction, and land development activities (not secured by real estate) included in Schedule RC-N, items 4 and 7, above;RCN;M2
+20070331;480228;RCFD6559;518;20080603;Loans to finance commercial real estate, construction, and land development activities (not secured by real estate) included in Schedule RC-N, items 4 and 7, above;RCN;M2
+20070331;480228;RCFD6560;1637;20080603;Loans to finance commercial real estate, construction, and land development activities (not secured by real estate) included in Schedule RC-N, items 4 and 7, above;RCN;M2
+20070331;480228;RCFD6724;2;20080603;Indicate in the box at the right the number of the statement below that best describes the most comprehensive level of auditing work performed for the bank by independent external auditors as of any date during 2006;RC;M1
+20070331;480228;RCFD7204;0.064254;20080603;Tier 1 leverage ratio;RCR;31
+20070331;480228;RCFD7205;0.111655;20080603;Total risk-based capital ratio;RCR;33
+20070331;480228;RCFD7206;0.086986;20080603;Tier 1 risk-based capital ratio;RCR;32
+20070331;480228;RCFD7273;0.063972;20080603;Tier 1 leverage ratio;RCR;31
+20070331;480228;RCFD7274;0.086617;20080603;Tier 1 risk-based capital ratio;RCR;32
+20070331;480228;RCFD7275;0.110865;20080603;Total risk-based capital ratio;RCR;33
+20070331;480228;RCFD8274;75366065;20080603;Tier 1 capital;RCR;11
+20070331;480228;RCFD8275;21374137;20080603;Allowable Tier 2 capital (lesser of item 11 or 17);RCR;18
+20070331;480228;RCFD8434;-3041018;20080603;Net unrealized gains (losses) on available-for-sale securities;RCR;2
+20070331;480228;RCFD8496;15521;20080603;Securities issued by states and political subdivisions in the U.S.;RCB;3
+20070331;480228;RCFD8497;15559;20080603;Securities issued by states and political subdivisions in the U.S.;RCB;3
+20070331;480228;RCFD8498;5657246;20080603;Securities issued by states and political subdivisions in the U.S.;RCB;3
+20070331;480228;RCFD8499;5637027;20080603;Securities issued by states and political subdivisions in the U.S.;RCB;3
+20070331;480228;RCFD8693;859164681;20080603;Futures contracts;RCL;12a
+20070331;480228;RCFD8694;2323816;20080603;Futures contracts;RCL;12a
+20070331;480228;RCFD8695;8304890;20080603;Futures contracts;RCL;12a
+20070331;480228;RCFD8696;16106432;20080603;Futures contracts;RCL;12a
+20070331;480228;RCFD8697;1313069743;20080603;Forward contracts;RCL;12b
+20070331;480228;RCFD8698;1133164890;20080603;Forward contracts;RCL;12b
+20070331;480228;RCFD8699;0;20080603;Forward contracts;RCL;12b
+20070331;480228;RCFD8700;2301725;20080603;Forward contracts;RCL;12b
+20070331;480228;RCFD8701;151179864;20080603;Written options;RCL;12c1
+20070331;480228;RCFD8702;511068;20080603;Written options;RCL;12c1
+20070331;480228;RCFD8703;73435393;20080603;Written options;RCL;12c1
+20070331;480228;RCFD8704;6831353;20080603;Written options;RCL;12c1
+20070331;480228;RCFD8705;206995312;20080603;Purchased options;RCL;12c2
+20070331;480228;RCFD8706;2085284;20080603;Purchased options;RCL;12c2
+20070331;480228;RCFD8707;78299194;20080603;Purchased options;RCL;12c2
+20070331;480228;RCFD8708;6684499;20080603;Purchased options;RCL;12c2
+20070331;480228;RCFD8709;1091007460;20080603;Written options;RCL;12d1
+20070331;480228;RCFD8710;420674103;20080603;Written options;RCL;12d1
+20070331;480228;RCFD8711;38219401;20080603;Written options;RCL;12d1
+20070331;480228;RCFD8712;5652477;20080603;Written options;RCL;12d1
+20070331;480228;RCFD8713;1408760061;20080603;Purchased options;RCL;12d2
+20070331;480228;RCFD8714;492444817;20080603;Purchased options;RCL;12d2
+20070331;480228;RCFD8715;47369670;20080603;Purchased options;RCL;12d2
+20070331;480228;RCFD8716;3978803;20080603;Purchased options;RCL;12d2
+20070331;480228;RCFD8719;48853493;20080603;Swaps;RCL;12e
+20070331;480228;RCFD8720;6564937;20080603;Swaps;RCL;12e
+20070331;480228;RCFD8723;294482041;20080603;Total gross notional amount of derivative contracts held for trading;RCL;13
+20070331;480228;RCFD8724;48120226;20080603;Total gross notional amount of derivative contracts held for trading;RCL;13
+20070331;480228;RCFD8725;442685861;20080603;Total gross notional amount of derivative contracts held for purposes other than trading;RCL;14
+20070331;480228;RCFD8726;20431114;20080603;Total gross notional amount of derivative contracts held for purposes other than trading;RCL;14
+20070331;480228;RCFD8727;0;20080603;Total gross notional amount of derivative contracts held for purposes other than trading;RCL;14
+20070331;480228;RCFD8728;0;20080603;Total gross notional amount of derivative contracts held for purposes other than trading;RCL;14
+20070331;480228;RCFD8733;177730230;20080603;Gross positive fair value;RCL;15a1
+20070331;480228;RCFD8734;25667600;20080603;Gross positive fair value;RCL;15a1
+20070331;480228;RCFD8735;13352560;20080603;Gross positive fair value;RCL;15a1
+20070331;480228;RCFD8736;4040749;20080603;Gross positive fair value;RCL;15a1
+20070331;480228;RCFD8737;173559720;20080603;Gross negative fair value;RCL;15a2
+20070331;480228;RCFD8738;25198418;20080603;Gross negative fair value;RCL;15a2
+20070331;480228;RCFD8739;11381771;20080603;Gross negative fair value;RCL;15a2
+20070331;480228;RCFD8740;4003003;20080603;Gross negative fair value;RCL;15a2
+20070331;480228;RCFD8741;783437;20080603;Gross positive fair value;RCL;15b1
+20070331;480228;RCFD8742;356862;20080603;Gross positive fair value;RCL;15b1
+20070331;480228;RCFD8743;0;20080603;Gross positive fair value;RCL;15b1
+20070331;480228;RCFD8744;0;20080603;Gross positive fair value;RCL;15b1
+20070331;480228;RCFD8745;846582;20080603;Gross negative fair value;RCL;15b2
+20070331;480228;RCFD8746;61793;20080603;Gross negative fair value;RCL;15b2
+20070331;480228;RCFD8747;0;20080603;Gross negative fair value;RCL;15b2
+20070331;480228;RCFD8748;0;20080603;Gross negative fair value;RCL;15b2
+20070331;480228;RCFD8764;27486012;20080603;Current credit exposure across all derivative contracts covered by the risk-based capital standards;RCR;M1
+20070331;480228;RCFD8765;242995303;20080603;Spot foreign exchange contracts;RCL;8
+20070331;480228;RCFD8766;5796991386;20080603;Interest rate contracts;RCR;M2a
+20070331;480228;RCFD8767;4322400500;20080603;Interest rate contracts;RCR;M2a
+20070331;480228;RCFD8769;369297172;20080603;Foreign exchange contracts;RCR;M2b
+20070331;480228;RCFD8770;156043425;20080603;Foreign exchange contracts;RCR;M2b
+20070331;480228;RCFD8771;3986886;20080603;Gold contracts;RCR;M2c
+20070331;480228;RCFD8772;0;20080603;Gold contracts;RCR;M2c
+20070331;480228;RCFD8773;0;20080603;Gold contracts;RCR;M2c
+20070331;480228;RCFD8774;1227160;20080603;Other precious metals contracts;RCR;M2d
+20070331;480228;RCFD8775;27703;20080603;Other precious metals contracts;RCR;M2d
+20070331;480228;RCFD8776;0;20080603;Other precious metals contracts;RCR;M2d
+20070331;480228;RCFD8777;5514834;20080603;Other commodity contracts;RCR;M2e
+20070331;480228;RCFD8778;1997655;20080603;Other commodity contracts;RCR;M2e
+20070331;480228;RCFD8779;91228;20080603;Other commodity contracts;RCR;M2e
+20070331;480228;RCFD8782;0;20080603;Amortized cost;RCB;M4a
+20070331;480228;RCFD8783;0;20080603;Fair value;RCB;M4b
+20070331;480228;RCFDA000;55823419;20080603;Equity derivative contracts;RCR;M2f
+20070331;480228;RCFDA001;28481527;20080603;Equity derivative contracts;RCR;M2f
+20070331;480228;RCFDA002;11918216;20080603;Equity derivative contracts;RCR;M2f
+20070331;480228;RCFDA126;23945921819;20080603;Total gross notional amount of derivative contracts held for trading;RCL;13
+20070331;480228;RCFDA127;2545385924;20080603;Total gross notional amount of derivative contracts held for trading;RCL;13
+20070331;480228;RCFDA130;0;20080603;Other equity capital components;RC;27
+20070331;480228;RCFDA167;95556316;20080603;Derivative contracts;RCR;54
+20070331;480228;RCFDA221;0;20080603;Net unrealized loss on available-for-sale equity securities;RCR;3
+20070331;480228;RCFDA222;0;20080603;Excess allowance for loan and lease losses;RCR;60
+20070331;480228;RCFDA223;866416903;20080603;Total risk-weighted assets;RCR;62
+20070331;480228;RCFDA224;1172942235;20080603;Average total assets for leverage capital purposes;RCR;27
+20070331;480228;RCFDA247;172378542;20080603;Loans and leases (reported in Schedule RC-C, part I, items 1 through 10, column A) with a REMAINING MATURITY of one year or less (excluding those in nonaccrual status);RCCI;M2c
+20070331;480228;RCFDA248;2312972;20080603;Debt securities with a REMAINING MATURITY of one year or less (included in Memorandum items 2.a through 2.c above);RCB;M2d
+20070331;480228;RCFDA249;0;20080603;Outstanding principal balance;RCS;M1a
+20070331;480228;RCFDA250;0;20080603;Amount of retained recourse on these obligations as of the report date;RCS;M1b
+20070331;480228;RCFDA345;true;20080603;Does the institution have fiduciary powers?;RCT;1
+20070331;480228;RCFDA346;true;20080603;Does the institution exercise the fiduciary powers it has been granted?;RCT;2
+20070331;480228;RCFDA510;4104237;20080603;Investments in mutual funds and other equity securities with readily determinable fair values;RCB;7
+20070331;480228;RCFDA511;4142833;20080603;Investments in mutual funds and other equity securities with readily determinable fair values;RCB;7
+20070331;480228;RCFDA519;0;20080603;Mortgage loans;RCF;3a
+20070331;480228;RCFDA520;9867;20080603;Other financial assets;RCF;3b
+20070331;480228;RCFDA549;705980;20080603;Three months or less;RCB;M2a1
+20070331;480228;RCFDA550;3422901;20080603;Over three months through 12 months;RCB;M2a2
+20070331;480228;RCFDA551;3328000;20080603;Over one year through three years;RCB;M2a3
+20070331;480228;RCFDA552;4298027;20080603;Over three years through five years;RCB;M2a4
+20070331;480228;RCFDA553;5958161;20080603;Over five years through 15 years;RCB;M2a5
+20070331;480228;RCFDA554;6600103;20080603;Over 15 years;RCB;M2a6
+20070331;480228;RCFDA555;492;20080603;Three months or less;RCB;M2b1
+20070331;480228;RCFDA556;20;20080603;Over three months through 12 months;RCB;M2b2
+20070331;480228;RCFDA557;5065;20080603;Over one year through three years;RCB;M2b3
+20070331;480228;RCFDA558;24501;20080603;Over three years through five years;RCB;M2b4
+20070331;480228;RCFDA559;6173892;20080603;Over five years through 15 years;RCB;M2b5
+20070331;480228;RCFDA560;142894697;20080603;Over 15 years;RCB;M2b6
+20070331;480228;RCFDA561;110;20080603;Three years or less;RCB;M2c1
+20070331;480228;RCFDA562;4083119;20080603;Over three years;RCB;M2c2
+20070331;480228;RCFDA570;238821397;20080603;Three months or less;RCCI;M2b1
+20070331;480228;RCFDA571;31025785;20080603;Over three months through 12 months;RCCI;M2b2
+20070331;480228;RCFDA572;15297506;20080603;Over one year through three years;RCCI;M2b3
+20070331;480228;RCFDA573;30738103;20080603;Over three years through five years;RCCI;M2b4
+20070331;480228;RCFDA574;53231314;20080603;Over five years through 15 years;RCCI;M2b5
+20070331;480228;RCFDA575;47683521;20080603;Over 15 years;RCCI;M2b6
+20070331;480228;RCFDA589;35893200;20080603;Interest rate swaps where the bank has agreed to pay a fixed rate;RCL;14a
+20070331;480228;RCFDA590;3205938;20080603;Estimated fair value of mortgage servicing assets;RCM;2a1
+20070331;480228;RCFDA591;98973330;20080603;Other financial assets (includes home equity lines);RCS;M2c
+20070331;480228;RCFDB026;0;20080603;Purchased credit card relationships and nonmortgage servicing assets;RCM;2b
+20070331;480228;RCFDB500;26920;20080603;Loans (included in Schedule RC-C);RCS;6b
+20070331;480228;RCFDB501;0;20080603;Loans (included in Schedule RC-C);RCS;6b
+20070331;480228;RCFDB502;1902265;20080603;Loans (included in Schedule RC-C);RCS;6b
+20070331;480228;RCFDB503;767507;20080603;Adjustment to total risk-based capital reported in item 21;RCR;28b
+20070331;480228;RCFDB504;743704;20080603;Adjustment to risk-weighted assets in item 62;RCR;29
+20070331;480228;RCFDB505;834710;20080603;Adjustment to average total assets in item 27;RCR;30
+20070331;480228;RCFDB520;8543750;20080603;Federal funds sold and securities purchased under agreements to resell;RCR;37
+20070331;480228;RCFDB528;610964221;20080603;Loans and leases, net of unearned income;RCR;39
+20070331;480228;RCFDB529;607168827;20080603;Loans and leases, net of unearned income and allowance;RC;4d
+20070331;480228;RCFDB530;-7704982;20080603;Accumulated other comprehensive income;RC;26b
+20070331;480228;RCFDB532;0;20080603;To U.S. branches and agencies of foreign banks;RCCI;2a1
+20070331;480228;RCFDB533;29251623;20080603;To other commercial banks in the U.S.;RCCI;2a2
+20070331;480228;RCFDB534;0;20080603;To other depository institutions in the U.S.;RCCI;2b
+20070331;480228;RCFDB536;20668;20080603;To foreign branches of other U.S. banks;RCCI;2c1
+20070331;480228;RCFDB537;1084098;20080603;To other banks in foreign countries;RCCI;2c2
+20070331;480228;RCFDB538;23740;20080603;Credit cards;RCCI;6a
+20070331;480228;RCFDB539;2971773;20080603;Other revolving credit plans;RCCI;6b
+20070331;480228;RCFDB541;724471;20080603;Recourse and direct credit substitutes (other than financial standby letters of credit) subject to the low-level exposure rule and residual interests subject to a dollar-for-dollar capital requirement;RCR;50
+20070331;480228;RCFDB542;6488450;20080603;Recourse and direct credit substitutes (other than financial standby letters of credit) subject to the low-level exposure rule and residual interests subject to a dollar-for-dollar capital requirement;RCR;50
+20070331;480228;RCFDB543;6488450;20080603;Recourse and direct credit substitutes (other than financial standby letters of credit) subject to the low-level exposure rule and residual interests subject to a dollar-for-dollar capital requirement;RCR;50
+20070331;480228;RCFDB546;71125145;20080603;Financial standby letters of credit;RCR;44
+20070331;480228;RCFDB547;71125145;20080603;Financial standby letters of credit;RCR;44
+20070331;480228;RCFDB548;3249103;20080603;Financial standby letters of credit;RCR;44
+20070331;480228;RCFDB556;5675963;20080603;Accrued interest receivable;RCF;1
+20070331;480228;RCFDB557;529806;20080603;Allowance for credit losses on off-balance sheet credit exposures;RCG;3
+20070331;480228;RCFDB558;2064645;20080603;U.S. Treasury securities and U.S. Government agency obligations (excluding mortgage-backed securities);RCK;2
+20070331;480228;RCFDB559;161823518;20080603;Mortgage-backed securities;RCK;3
+20070331;480228;RCFDB560;26851574;20080603;All other securities (includes securities issued by states and political subdivisions in the U.S.);RCK;4
+20070331;480228;RCFDB569;true;20080603;Does the reporting bank sell private label or third party mutual funds and annuities?;RCM;6
+20070331;480228;RCFDB570;264305762;20080603;Assets under the reporting bank's management in proprietary mutual funds and annuities;RCM;7
+20070331;480228;RCFDB571;69709795;20080603;Other borrowings with a remaining maturity of one year or less (included in item 5.b.(1)(a) above);RCM;5b2
+20070331;480228;RCFDB575;0;20080603;Credit cards;RCN;5a
+20070331;480228;RCFDB576;0;20080603;Credit cards;RCN;5a
+20070331;480228;RCFDB577;0;20080603;Credit cards;RCN;5a
+20070331;480228;RCFDB578;584400;20080603;Other (includes single payment, installment, all student loans, and revolving credit plans other than credit cards);RCN;5b
+20070331;480228;RCFDB579;74550;20080603;Other (includes single payment, installment, all student loans, and revolving credit plans other than credit cards);RCN;5b
+20070331;480228;RCFDB580;0;20080603;Other (includes single payment, installment, all student loans, and revolving credit plans other than credit cards);RCN;5b
+20070331;480228;RCFDB581;19870669;20080603;Financial standby letters of credit;RCR;44
+20070331;480228;RCFDB582;0;20080603;Financial standby letters of credit;RCR;44
+20070331;480228;RCFDB583;48005372;20080603;Financial standby letters of credit;RCR;44
+20070331;480228;RCFDB588;0;20080603;Nonqualifying perpetual preferred stock;RCR;5
+20070331;480228;RCFDB589;1822466;20080603;Qualifying minority interests in consolidated subsidiaries;RCR;6
+20070331;480228;RCFDB590;42562008;20080603;Disallowed goodwill and other disallowed intangible assets (from item 7 above);RCR;23
+20070331;480228;RCFDB591;255503;20080603;Disallowed servicing assets and purchased credit card relationships (from item 9.a above);RCR;24
+20070331;480228;RCFDB592;-3711;20080603;Other additions to (deductions from) Tier 1 capital;RCR;10
+20070331;480228;RCFDB593;0;20080603;Cumulative perpetual preferred stock includible in Tier 2 capital;RCR;13
+20070331;480228;RCFDB594;2572;20080603;Other Tier 2 capital components;RCR;16
+20070331;480228;RCFDB595;0;20080603;Deductions for total risk-based capital;RCR;20
+20070331;480228;RCFDB596;3711;20080603;Other deductions from assets for leverage capital purposes;RCR;26
+20070331;480228;RCFDB600;9210277;20080603;Cash and balances due from depository institutions;RCR;34
+20070331;480228;RCFDB601;29172409;20080603;Cash and balances due from depository institutions;RCR;34
+20070331;480228;RCFDB602;1822869;20080603;Cash and balances due from depository institutions;RCR;34
+20070331;480228;RCFDB603;909120;20080603;Held-to-maturity securities;RCR;35
+20070331;480228;RCFDB604;0;20080603;Held-to-maturity securities;RCR;35
+20070331;480228;RCFDB605;16338;20080603;Held-to-maturity securities;RCR;35
+20070331;480228;RCFDB606;211;20080603;Held-to-maturity securities;RCR;35
+20070331;480228;RCFDB607;0;20080603;Held-to-maturity securities;RCR;35
+20070331;480228;RCFDB608;-453275;20080603;Available-for-sale securities;RCR;36
+20070331;480228;RCFDB609;777752;20080603;Available-for-sale securities;RCR;36
+20070331;480228;RCFDB610;166481424;20080603;Available-for-sale securities;RCR;36
+20070331;480228;RCFDB611;2215949;20080603;Available-for-sale securities;RCR;36
+20070331;480228;RCFDB612;11690382;20080603;Available-for-sale securities;RCR;36
+20070331;480228;RCFDB617;0;20080603;Loans and leases held for sale;RCR;38
+20070331;480228;RCFDB618;0;20080603;Loans and leases held for sale;RCR;38
+20070331;480228;RCFDB619;65983;20080603;Loans and leases held for sale;RCR;38
+20070331;480228;RCFDB620;9188298;20080603;Loans and leases held for sale;RCR;38
+20070331;480228;RCFDB621;25421170;20080603;Loans and leases held for sale;RCR;38
+20070331;480228;RCFDB622;365203;20080603;Loans and leases, net of unearned income;RCR;39
+20070331;480228;RCFDB623;1571792;20080603;Loans and leases, net of unearned income;RCR;39
+20070331;480228;RCFDB624;159859036;20080603;Loans and leases, net of unearned income;RCR;39
+20070331;480228;RCFDB625;78405975;20080603;Loans and leases, net of unearned income;RCR;39
+20070331;480228;RCFDB626;370762215;20080603;Loans and leases, net of unearned income;RCR;39
+20070331;480228;RCFDB627;120333363;20080603;Trading assets;RCR;41
+20070331;480228;RCFDB628;0;20080603;Trading assets;RCR;41
+20070331;480228;RCFDB629;0;20080603;Trading assets;RCR;41
+20070331;480228;RCFDB630;0;20080603;Trading assets;RCR;41
+20070331;480228;RCFDB631;0;20080603;Trading assets;RCR;41
+20070331;480228;RCFDB639;117974476;20080603;All other assets;RCR;42
+20070331;480228;RCFDB640;44373837;20080603;All other assets;RCR;42
+20070331;480228;RCFDB641;3248037;20080603;All other assets;RCR;42
+20070331;480228;RCFDB642;9857189;20080603;All other assets;RCR;42
+20070331;480228;RCFDB643;999;20080603;All other assets;RCR;42
+20070331;480228;RCFDB644;162576561;20080603;Total assets;RCR;43
+20070331;480228;RCFDB650;4861119;20080603;Performance standby letters of credit;RCR;45
+20070331;480228;RCFDB651;200100;20080603;Performance standby letters of credit;RCR;45
+20070331;480228;RCFDB652;2362138;20080603;Performance standby letters of credit;RCR;45
+20070331;480228;RCFDB653;0;20080603;Performance standby letters of credit;RCR;45
+20070331;480228;RCFDB654;2298880;20080603;Performance standby letters of credit;RCR;45
+20070331;480228;RCFDB655;910051;20080603;Commercial and similar letters of credit;RCR;46
+20070331;480228;RCFDB656;5803;20080603;Commercial and similar letters of credit;RCR;46
+20070331;480228;RCFDB657;146224;20080603;Commercial and similar letters of credit;RCR;46
+20070331;480228;RCFDB658;0;20080603;Commercial and similar letters of credit;RCR;46
+20070331;480228;RCFDB659;758024;20080603;Commercial and similar letters of credit;RCR;46
+20070331;480228;RCFDB660;0;20080603;Risk participations in bankers acceptances acquired by the reporting institution;RCR;47
+20070331;480228;RCFDB661;0;20080603;Risk participations in bankers acceptances acquired by the reporting institution;RCR;47
+20070331;480228;RCFDB662;0;20080603;Risk participations in bankers acceptances acquired by the reporting institution;RCR;47
+20070331;480228;RCFDB663;0;20080603;Risk participations in bankers acceptances acquired by the reporting institution;RCR;47
+20070331;480228;RCFDB664;6328986;20080603;Securities lent;RCR;48
+20070331;480228;RCFDB665;5946557;20080603;Securities lent;RCR;48
+20070331;480228;RCFDB666;382429;20080603;Securities lent;RCR;48
+20070331;480228;RCFDB667;0;20080603;Securities lent;RCR;48
+20070331;480228;RCFDB668;0;20080603;Securities lent;RCR;48
+20070331;480228;RCFDB669;0;20080603;Retained recourse on small business obligations sold with recourse;RCR;49
+20070331;480228;RCFDB670;0;20080603;Retained recourse on small business obligations sold with recourse;RCR;49
+20070331;480228;RCFDB671;0;20080603;Retained recourse on small business obligations sold with recourse;RCR;49
+20070331;480228;RCFDB672;0;20080603;Retained recourse on small business obligations sold with recourse;RCR;49
+20070331;480228;RCFDB673;0;20080603;Retained recourse on small business obligations sold with recourse;RCR;49
+20070331;480228;RCFDB675;3777468;20080603;All other financial assets sold with recourse;RCR;51
+20070331;480228;RCFDB676;3777468;20080603;All other financial assets sold with recourse;RCR;51
+20070331;480228;RCFDB677;0;20080603;All other financial assets sold with recourse;RCR;51
+20070331;480228;RCFDB678;3133703;20080603;All other financial assets sold with recourse;RCR;51
+20070331;480228;RCFDB679;43129;20080603;All other financial assets sold with recourse;RCR;51
+20070331;480228;RCFDB680;600636;20080603;All other financial assets sold with recourse;RCR;51
+20070331;480228;RCFDB681;49231482;20080603;All other off-balance sheet liabilities;RCR;52
+20070331;480228;RCFDB682;49231482;20080603;All other off-balance sheet liabilities;RCR;52
+20070331;480228;RCFDB683;4072156;20080603;All other off-balance sheet liabilities;RCR;52
+20070331;480228;RCFDB684;29268400;20080603;All other off-balance sheet liabilities;RCR;52
+20070331;480228;RCFDB685;15890926;20080603;All other off-balance sheet liabilities;RCR;52
+20070331;480228;RCFDB686;0;20080603;All other off-balance sheet liabilities;RCR;52
+20070331;480228;RCFDB687;121771566;20080603;Unused commitments with an original maturity exceeding one year;RCR;53
+20070331;480228;RCFDB688;1087468;20080603;Unused commitments with an original maturity exceeding one year;RCR;53
+20070331;480228;RCFDB689;18744260;20080603;Unused commitments with an original maturity exceeding one year;RCR;53
+20070331;480228;RCFDB690;1477961;20080603;Unused commitments with an original maturity exceeding one year;RCR;53
+20070331;480228;RCFDB691;100461876;20080603;Unused commitments with an original maturity exceeding one year;RCR;53
+20070331;480228;RCFDB693;10304605;20080603;Derivative contracts;RCR;54
+20070331;480228;RCFDB694;50372109;20080603;Derivative contracts;RCR;54
+20070331;480228;RCFDB695;34879602;20080603;Derivative contracts;RCR;54
+20070331;480228;RCFDB696;46269309;20080603;Total assets, derivatives, and off-balance sheet items by risk weight category;RCR;55
+20070331;480228;RCFDB697;576225395;20080603;Total assets, derivatives, and off-balance sheet items by risk weight category;RCR;55
+20070331;480228;RCFDB698;142103050;20080603;Total assets, derivatives, and off-balance sheet items by risk weight category;RCR;55
+20070331;480228;RCFDB699;637348039;20080603;Total assets, derivatives, and off-balance sheet items by risk weight category;RCR;55
+20070331;480228;RCFDB700;0;20080603;Risk-weighted assets by risk weight category;RCR;57
+20070331;480228;RCFDB701;115245079;20080603;Risk-weighted assets by risk weight category;RCR;57
+20070331;480228;RCFDB702;71051525;20080603;Risk-weighted assets by risk weight category;RCR;57
+20070331;480228;RCFDB703;637348039;20080603;Risk-weighted assets by risk weight category;RCR;57
+20070331;480228;RCFDB704;866416903;20080603;Risk-weighted assets before deductions for excess allowance for loan and lease losses and allocated transfer risk reserve;RCR;59
+20070331;480228;RCFDB705;76852399;20080603;Outstanding principal balance of assets sold and securitized by the reporting bank with servicing retained or with recourse or other seller-provided credit enhancements;RCS;1
+20070331;480228;RCFDB706;252331;20080603;Outstanding principal balance of assets sold and securitized by the reporting bank with servicing retained or with recourse or other seller-provided credit enhancements;RCS;1
+20070331;480228;RCFDB707;0;20080603;Outstanding principal balance of assets sold and securitized by the reporting bank with servicing retained or with recourse or other seller-provided credit enhancements;RCS;1
+20070331;480228;RCFDB708;4049920;20080603;Outstanding principal balance of assets sold and securitized by the reporting bank with servicing retained or with recourse or other seller-provided credit enhancements;RCS;1
+20070331;480228;RCFDB709;674678;20080603;Outstanding principal balance of assets sold and securitized by the reporting bank with servicing retained or with recourse or other seller-provided credit enhancements;RCS;1
+20070331;480228;RCFDB710;1201272;20080603;Outstanding principal balance of assets sold and securitized by the reporting bank with servicing retained or with recourse or other seller-provided credit enhancements;RCS;1
+20070331;480228;RCFDB711;39680800;20080603;Outstanding principal balance of assets sold and securitized by the reporting bank with servicing retained or with recourse or other seller-provided credit enhancements;RCS;1
+20070331;480228;RCFDB712;0;20080603;Credit-enhancing interest-only strips (included in Schedules RC-B or RC-F or in Schedule RC, item 5);RCS;2a
+20070331;480228;RCFDB713;0;20080603;Credit-enhancing interest-only strips (included in Schedules RC-B or RC-F or in Schedule RC, item 5);RCS;2a
+20070331;480228;RCFDB714;0;20080603;Credit-enhancing interest-only strips (included in Schedules RC-B or RC-F or in Schedule RC, item 5);RCS;2a
+20070331;480228;RCFDB715;391;20080603;Credit-enhancing interest-only strips (included in Schedules RC-B or RC-F or in Schedule RC, item 5);RCS;2a
+20070331;480228;RCFDB716;0;20080603;Credit-enhancing interest-only strips (included in Schedules RC-B or RC-F or in Schedule RC, item 5);RCS;2a
+20070331;480228;RCFDB717;1223;20080603;Credit-enhancing interest-only strips (included in Schedules RC-B or RC-F or in Schedule RC, item 5);RCS;2a
+20070331;480228;RCFDB718;8254;20080603;Credit-enhancing interest-only strips (included in Schedules RC-B or RC-F or in Schedule RC, item 5);RCS;2a
+20070331;480228;RCFDB726;0;20080603;Reporting bank's unused commitments to provide liquidity to structures reported in item 1;RCS;3
+20070331;480228;RCFDB727;0;20080603;Reporting bank's unused commitments to provide liquidity to structures reported in item 1;RCS;3
+20070331;480228;RCFDB728;0;20080603;Reporting bank's unused commitments to provide liquidity to structures reported in item 1;RCS;3
+20070331;480228;RCFDB729;5000;20080603;Reporting bank's unused commitments to provide liquidity to structures reported in item 1;RCS;3
+20070331;480228;RCFDB730;0;20080603;Reporting bank's unused commitments to provide liquidity to structures reported in item 1;RCS;3
+20070331;480228;RCFDB731;0;20080603;Reporting bank's unused commitments to provide liquidity to structures reported in item 1;RCS;3
+20070331;480228;RCFDB732;0;20080603;Reporting bank's unused commitments to provide liquidity to structures reported in item 1;RCS;3
+20070331;480228;RCFDB733;1132869;20080603;30-89 days past due;RCS;4a
+20070331;480228;RCFDB734;3092;20080603;30-89 days past due;RCS;4a
+20070331;480228;RCFDB735;0;20080603;30-89 days past due;RCS;4a
+20070331;480228;RCFDB736;93559;20080603;30-89 days past due;RCS;4a
+20070331;480228;RCFDB737;21005;20080603;30-89 days past due;RCS;4a
+20070331;480228;RCFDB738;4000;20080603;30-89 days past due;RCS;4a
+20070331;480228;RCFDB739;44850;20080603;30-89 days past due;RCS;4a
+20070331;480228;RCFDB740;848925;20080603;90 days or more past due;RCS;4b
+20070331;480228;RCFDB741;2651;20080603;90 days or more past due;RCS;4b
+20070331;480228;RCFDB742;0;20080603;90 days or more past due;RCS;4b
+20070331;480228;RCFDB743;6913;20080603;90 days or more past due;RCS;4b
+20070331;480228;RCFDB744;4622;20080603;90 days or more past due;RCS;4b
+20070331;480228;RCFDB745;0;20080603;90 days or more past due;RCS;4b
+20070331;480228;RCFDB746;81548;20080603;90 days or more past due;RCS;4b
+20070331;480228;RCFDB761;0;20080603;Securities (included in Schedule RC-B or in Schedule RC, item 5);RCS;6a
+20070331;480228;RCFDB762;0;20080603;Securities (included in Schedule RC-B or in Schedule RC, item 5);RCS;6a
+20070331;480228;RCFDB763;0;20080603;Securities (included in Schedule RC-B or in Schedule RC, item 5);RCS;6a
+20070331;480228;RCFDB764;0;20080603;30-89 days past due ;RCS;7a
+20070331;480228;RCFDB765;0;20080603;30-89 days past due ;RCS;7a
+20070331;480228;RCFDB766;0;20080603;30-89 days past due ;RCS;7a
+20070331;480228;RCFDB767;0;20080603;90 days or more past due ;RCS;7b
+20070331;480228;RCFDB768;0;20080603;90 days or more past due ;RCS;7b
+20070331;480228;RCFDB769;0;20080603;90 days or more past due ;RCS;7b
+20070331;480228;RCFDB776;0;20080603;Maximum amount of credit exposure arising from credit enhancements provided by the reporting bank to other institutions' securitization structures in the form of standby letters of credit, purchased subordinated securities, and other enhancements;RCS;9
+20070331;480228;RCFDB777;0;20080603;Maximum amount of credit exposure arising from credit enhancements provided by the reporting bank to other institutions' securitization structures in the form of standby letters of credit, purchased subordinated securities, and other enhancements;RCS;9
+20070331;480228;RCFDB778;0;20080603;Maximum amount of credit exposure arising from credit enhancements provided by the reporting bank to other institutions' securitization structures in the form of standby letters of credit, purchased subordinated securities, and other enhancements;RCS;9
+20070331;480228;RCFDB779;0;20080603;Maximum amount of credit exposure arising from credit enhancements provided by the reporting bank to other institutions' securitization structures in the form of standby letters of credit, purchased subordinated securities, and other enhancements;RCS;9
+20070331;480228;RCFDB780;0;20080603;Maximum amount of credit exposure arising from credit enhancements provided by the reporting bank to other institutions' securitization structures in the form of standby letters of credit, purchased subordinated securities, and other enhancements;RCS;9
+20070331;480228;RCFDB781;0;20080603;Maximum amount of credit exposure arising from credit enhancements provided by the reporting bank to other institutions' securitization structures in the form of standby letters of credit, purchased subordinated securities, and other enhancements;RCS;9
+20070331;480228;RCFDB782;0;20080603;Maximum amount of credit exposure arising from credit enhancements provided by the reporting bank to other institutions' securitization structures in the form of standby letters of credit, purchased subordinated securities, and other enhancements;RCS;9
+20070331;480228;RCFDB783;0;20080603;Reporting bank's unused commitments to provide liquidity to other institutions' securitization structures;RCS;10
+20070331;480228;RCFDB784;0;20080603;Reporting bank's unused commitments to provide liquidity to other institutions' securitization structures;RCS;10
+20070331;480228;RCFDB785;0;20080603;Reporting bank's unused commitments to provide liquidity to other institutions' securitization structures;RCS;10
+20070331;480228;RCFDB786;0;20080603;Reporting bank's unused commitments to provide liquidity to other institutions' securitization structures;RCS;10
+20070331;480228;RCFDB787;0;20080603;Reporting bank's unused commitments to provide liquidity to other institutions' securitization structures;RCS;10
+20070331;480228;RCFDB788;0;20080603;Reporting bank's unused commitments to provide liquidity to other institutions' securitization structures;RCS;10
+20070331;480228;RCFDB789;0;20080603;Reporting bank's unused commitments to provide liquidity to other institutions' securitization structures;RCS;10
+20070331;480228;RCFDB790;396248;20080603;Assets sold with recourse or other seller-provided credit enhancements and not securitized by the reporting bank;RCS;11
+20070331;480228;RCFDB791;0;20080603;Assets sold with recourse or other seller-provided credit enhancements and not securitized by the reporting bank;RCS;11
+20070331;480228;RCFDB792;0;20080603;Assets sold with recourse or other seller-provided credit enhancements and not securitized by the reporting bank;RCS;11
+20070331;480228;RCFDB793;0;20080603;Assets sold with recourse or other seller-provided credit enhancements and not securitized by the reporting bank;RCS;11
+20070331;480228;RCFDB794;0;20080603;Assets sold with recourse or other seller-provided credit enhancements and not securitized by the reporting bank;RCS;11
+20070331;480228;RCFDB795;19836;20080603;Assets sold with recourse or other seller-provided credit enhancements and not securitized by the reporting bank;RCS;11
+20070331;480228;RCFDB796;0;20080603;Assets sold with recourse or other seller-provided credit enhancements and not securitized by the reporting bank;RCS;11
+20070331;480228;RCFDB797;396248;20080603;Maximum amount of credit exposure arising from recourse or other seller-provided credit enhancements provided to assets reported in item 11;RCS;12
+20070331;480228;RCFDB798;0;20080603;Maximum amount of credit exposure arising from recourse or other seller-provided credit enhancements provided to assets reported in item 11;RCS;12
+20070331;480228;RCFDB799;0;20080603;Maximum amount of credit exposure arising from recourse or other seller-provided credit enhancements provided to assets reported in item 11;RCS;12
+20070331;480228;RCFDB800;0;20080603;Maximum amount of credit exposure arising from recourse or other seller-provided credit enhancements provided to assets reported in item 11;RCS;12
+20070331;480228;RCFDB801;0;20080603;Maximum amount of credit exposure arising from recourse or other seller-provided credit enhancements provided to assets reported in item 11;RCS;12
+20070331;480228;RCFDB802;19836;20080603;Maximum amount of credit exposure arising from recourse or other seller-provided credit enhancements provided to assets reported in item 11;RCS;12
+20070331;480228;RCFDB803;0;20080603;Maximum amount of credit exposure arising from recourse or other seller-provided credit enhancements provided to assets reported in item 11;RCS;12
+20070331;480228;RCFDB804;396248;20080603;Closed-end 1-4 family residential mortgages serviced with recourse or other servicer-provided credit enhancements;RCS;M2a
+20070331;480228;RCFDB805;234501062;20080603;Closed-end 1-4 family residential mortgages serviced with no recourse or other servicer-provided credit enhancements;RCS;M2b
+20070331;480228;RCFDB806;6066974;20080603;Conduits sponsored by the bank, a bank affiliate, or the bank's holding company;RCS;M3a1
+20070331;480228;RCFDB807;0;20080603;Conduits sponsored by other unrelated institutions;RCS;M3a2
+20070331;480228;RCFDB808;51762608;20080603;Conduits sponsored by the bank, a bank affiliate, or the bank's holding company;RCS;M3b1
+20070331;480228;RCFDB809;0;20080603;Conduits sponsored by other unrelated institutions;RCS;M3b2
+20070331;480228;RCFDB837;482635;20080603;Loans secured by real estate to non-U.S. addressees (domicile) (included in Schedule RC-C, part I, item 1, column A);RCCI;M5
+20070331;480228;RCFDB838;0;20080603;Credit card receivables;RCB;M5a
+20070331;480228;RCFDB839;0;20080603;Credit card receivables;RCB;M5a
+20070331;480228;RCFDB840;2956311;20080603;Credit card receivables;RCB;M5a
+20070331;480228;RCFDB841;2954768;20080603;Credit card receivables;RCB;M5a
+20070331;480228;RCFDB842;0;20080603;Home equity lines;RCB;M5b
+20070331;480228;RCFDB843;0;20080603;Home equity lines;RCB;M5b
+20070331;480228;RCFDB844;123788;20080603;Home equity lines;RCB;M5b
+20070331;480228;RCFDB845;123427;20080603;Home equity lines;RCB;M5b
+20070331;480228;RCFDB846;0;20080603;Automobile loans;RCB;M5c
+20070331;480228;RCFDB847;0;20080603;Automobile loans;RCB;M5c
+20070331;480228;RCFDB848;3654518;20080603;Automobile loans;RCB;M5c
+20070331;480228;RCFDB849;3648162;20080603;Automobile loans;RCB;M5c
+20070331;480228;RCFDB850;0;20080603;Other consumer loans;RCB;M5d
+20070331;480228;RCFDB851;0;20080603;Other consumer loans;RCB;M5d
+20070331;480228;RCFDB852;15000;20080603;Other consumer loans;RCB;M5d
+20070331;480228;RCFDB853;15061;20080603;Other consumer loans;RCB;M5d
+20070331;480228;RCFDB854;0;20080603;Commercial and industrial loans;RCB;M5e
+20070331;480228;RCFDB855;0;20080603;Commercial and industrial loans;RCB;M5e
+20070331;480228;RCFDB856;419500;20080603;Commercial and industrial loans;RCB;M5e
+20070331;480228;RCFDB857;395677;20080603;Commercial and industrial loans;RCB;M5e
+20070331;480228;RCFDB858;1028;20080603;Other;RCB;M5f
+20070331;480228;RCFDB859;1005;20080603;Other;RCB;M5f
+20070331;480228;RCFDB860;1748332;20080603;Other;RCB;M5f
+20070331;480228;RCFDB861;1749370;20080603;Other;RCB;M5f
+20070331;480228;RCFDB867;true;20080603;Does the institution have any fiduciary or related activity (in the form of assets or accounts) to report in this schedule?;RCT;3
+20070331;480228;RCFDB868;94029222;20080603;Total managed assets held in personal trust and agency accounts;RCT;M1l
+20070331;480228;RCFDB869;9162315;20080603;Personal trust and agency accounts;RCT;4
+20070331;480228;RCFDB870;71400;20080603;Personal trust and agency accounts;RCT;4
+20070331;480228;RCFDB871;2955;20080603;Personal trust and agency accounts;RCT;4
+20070331;480228;RCFDB872;1104215;20080603;Employee benefit - defined contribution;RCT;5a
+20070331;480228;RCFDB873;17874784;20080603;Employee benefit - defined contribution;RCT;5a
+20070331;480228;RCFDB874;1808;20080603;Employee benefit - defined contribution;RCT;5a
+20070331;480228;RCFDB875;912;20080603;Employee benefit - defined contribution;RCT;5a
+20070331;480228;RCFDB876;3732849;20080603;Employee benefit - defined benefit;RCT;5b
+20070331;480228;RCFDB877;26446847;20080603;Employee benefit - defined benefit;RCT;5b
+20070331;480228;RCFDB878;441;20080603;Employee benefit - defined benefit;RCT;5b
+20070331;480228;RCFDB879;752;20080603;Employee benefit - defined benefit;RCT;5b
+20070331;480228;RCFDB880;5139978;20080603;Other retirement accounts;RCT;5c
+20070331;480228;RCFDB881;1807827;20080603;Other retirement accounts;RCT;5c
+20070331;480228;RCFDB882;8213;20080603;Other retirement accounts;RCT;5c
+20070331;480228;RCFDB883;606;20080603;Other retirement accounts;RCT;5c
+20070331;480228;RCFDB884;458837;20080603;Corporate trust and agency accounts;RCT;6
+20070331;480228;RCFDB885;273420;20080603;Corporate trust and agency accounts;RCT;6
+20070331;480228;RCFDB886;70542054;20080603;Investment management agency accounts;RCT;7
+20070331;480228;RCFDB888;33304;20080603;Investment management agency accounts;RCT;7
+20070331;480228;RCFDB890;3990800;20080603;Other fiduciary accounts;RCT;8
+20070331;480228;RCFDB891;0;20080603;Other fiduciary accounts;RCT;8
+20070331;480228;RCFDB892;169393;20080603;Other fiduciary accounts;RCT;8
+20070331;480228;RCFDB893;0;20080603;Other fiduciary accounts;RCT;8
+20070331;480228;RCFDB894;178997955;20080603;Total fiduciary accounts;RCT;9
+20070331;480228;RCFDB895;55565193;20080603;Total fiduciary accounts;RCT;9
+20070331;480228;RCFDB896;284576;20080603;Total fiduciary accounts;RCT;9
+20070331;480228;RCFDB897;5295;20080603;Total fiduciary accounts;RCT;9
+20070331;480228;RCFDB898;57120956;20080603;Custody and safekeeping accounts;RCT;10
+20070331;480228;RCFDB899;10883;20080603;Custody and safekeeping accounts;RCT;10
+20070331;480228;RCFDB913;0;20080603;Noninterest-bearing deposits;RCT;M1a
+20070331;480228;RCFDB914;0;20080603;Interest-bearing deposits;RCT;M1b
+20070331;480228;RCFDB915;0;20080603;U.S. Treasury and U.S. Government agency obligations;RCT;M1c
+20070331;480228;RCFDB916;0;20080603;State, county and municipal obligations;RCT;M1d
+20070331;480228;RCFDB917;0;20080603;Money market mutual funds;RCT;M1e
+20070331;480228;RCFDB918;0;20080603;Other short-term obligations;RCT;M1f
+20070331;480228;RCFDB919;0;20080603;Other notes and bonds;RCT;M1g
+20070331;480228;RCFDB920;0;20080603;Common and preferred stocks;RCT;M1h
+20070331;480228;RCFDB921;0;20080603;Real estate mortgages;RCT;M1i
+20070331;480228;RCFDB922;0;20080603;Real estate;RCT;M1j
+20070331;480228;RCFDB923;0;20080603;Miscellaneous assets;RCT;M1k
+20070331;480228;RCFDB927;0;20080603;Corporate and municipal trusteeships;RCT;M2a
+20070331;480228;RCFDB928;0;20080603;Corporate and municipal trusteeships;RCT;M2a
+20070331;480228;RCFDB929;0;20080603;Transfer agent, registrar, paying agent, and other corporate agency;RCT;M2b
+20070331;480228;RCFDB931;0;20080603;Domestic equity;RCT;M3a
+20070331;480228;RCFDB932;0;20080603;Domestic equity;RCT;M3a
+20070331;480228;RCFDB933;0;20080603;International/Global equity;RCT;M3b
+20070331;480228;RCFDB934;0;20080603;International/Global equity;RCT;M3b
+20070331;480228;RCFDB935;0;20080603;Stock/Bond blend;RCT;M3c
+20070331;480228;RCFDB936;0;20080603;Stock/Bond blend;RCT;M3c
+20070331;480228;RCFDB937;0;20080603;Taxable bond;RCT;M3d
+20070331;480228;RCFDB938;0;20080603;Taxable bond;RCT;M3d
+20070331;480228;RCFDB939;0;20080603;Municipal bond;RCT;M3e
+20070331;480228;RCFDB940;0;20080603;Municipal bond;RCT;M3e
+20070331;480228;RCFDB941;0;20080603;Short term investments/Money market;RCT;M3f
+20070331;480228;RCFDB942;0;20080603;Short term investments/Money market;RCT;M3f
+20070331;480228;RCFDB943;0;20080603;Specialty/Other;RCT;M3g
+20070331;480228;RCFDB944;0;20080603;Specialty/Other;RCT;M3g
+20070331;480228;RCFDB945;0;20080603;Total collective investment funds;RCT;M3h
+20070331;480228;RCFDB946;0;20080603;Total collective investment funds;RCT;M3h
+20070331;480228;RCFDB989;50061202;20080603;Securities purchased under agreements to resell;RC;3b
+20070331;480228;RCFDB995;122394038;20080603;Securities sold under agreements to repurchase;RC;14b
+20070331;480228;RCFDC001;17;20080603;Corporate trust and agency accounts;RCT;6
+20070331;480228;RCFDC002;70;20080603;Corporate trust and agency accounts;RCT;6
+20070331;480228;RCFDC009;14017726;20080603;Life insurance assets;RCF;5
+20070331;480228;RCFDC010;0;20080603;Derivatives with a positive fair value held for purposes other than trading;RCF;6c
+20070331;480228;RCFDC011;0;20080603;Deferred compensation liabilities;RCG;4b
+20070331;480228;RCFDC012;0;20080603;Derivatives with a negative fair value held for purposes other than trading;RCG;4d
+20070331;480228;RCFDC026;1028;20080603;Asset-backed securities (ABS);RCB;5
+20070331;480228;RCFDC027;8886465;20080603;Asset-backed securities (ABS);RCB;5
+20070331;480228;RCFDC063;6595659;20080603;Federal funds sold and securities purchased under agreements to resell;RCR;37
+20070331;480228;RCFDC064;86493084;20080603;Federal funds sold and securities purchased under agreements to resell;RCR;37
+20070331;480228;RCFDC219;8765590;20080603;Gross positive fair value;RCL;7b1
+20070331;480228;RCFDC220;6339444;20080603;Gross negative fair value;RCL;7b2
+20070331;480228;RCFDC221;6525239;20080603;Gross positive fair value;RCL;7b1
+20070331;480228;RCFDC222;8828438;20080603;Gross negative fair value;RCL;7b2
+20070331;480228;RCFDC223;67302900;20080603;Sales for which the reporting bank is the acquiring bank;RCL;11a
+20070331;480228;RCFDC224;817689;20080603;Sales for which the reporting bank is the agent bank with risk;RCL;11b
+20070331;480228;RCFDC225;101632493;20080603;Federal funds sold and securities purchased under agreements to resell;RCR;37
+20070331;480228;RCFDC226;48864;20080603;Loans and leases held for sale (included in Schedule RC-N, items 1 through 8, above);RCN;M5
+20070331;480228;RCFDC227;75625279;20080603;Subtotal;RCR;8
+20070331;480228;RCFDC228;383754;20080603;Adjustment to Tier 1 capital reported in item 11;RCR;28a
+20070331;480228;RCFDC240;0;20080603;Loans and leases held for sale (included in Schedule RC-N, items 1 through 8, above);RCN;M5
+20070331;480228;RCFDC241;0;20080603;Loans and leases held for sale (included in Schedule RC-N, items 1 through 8, above);RCN;M5
+20070331;480228;RCFDC391;0;20080603;Outstanding credit card fees and finance charges included in Schedule RC-C, part I, item 6.a, column A;RCCI;M6
+20070331;480228;RCFDC393;66060;20080603;Subordinated securities and other residual interests;RCS;2b
+20070331;480228;RCFDC394;6965;20080603;Subordinated securities and other residual interests;RCS;2b
+20070331;480228;RCFDC395;0;20080603;Subordinated securities and other residual interests;RCS;2b
+20070331;480228;RCFDC396;74789;20080603;Subordinated securities and other residual interests;RCS;2b
+20070331;480228;RCFDC397;0;20080603;Subordinated securities and other residual interests;RCS;2b
+20070331;480228;RCFDC398;121230;20080603;Subordinated securities and other residual interests;RCS;2b
+20070331;480228;RCFDC399;79639;20080603;Subordinated securities and other residual interests;RCS;2b
+20070331;480228;RCFDC400;0;20080603;Standby letters of credit and other enhancements;RCS;2c
+20070331;480228;RCFDC401;0;20080603;Standby letters of credit and other enhancements;RCS;2c
+20070331;480228;RCFDC402;0;20080603;Standby letters of credit and other enhancements;RCS;2c
+20070331;480228;RCFDC403;0;20080603;Standby letters of credit and other enhancements;RCS;2c
+20070331;480228;RCFDC404;10707;20080603;Standby letters of credit and other enhancements;RCS;2c
+20070331;480228;RCFDC405;0;20080603;Standby letters of credit and other enhancements;RCS;2c
+20070331;480228;RCFDC406;3152;20080603;Standby letters of credit and other enhancements;RCS;2c
+20070331;480228;RCFDC407;0;20080603;Outstanding credit card fees and finance charges included in Schedule RC-S, item 1, column C;RCS;M4
+20070331;480228;RCFDC410;891000;20080603;Additions to nonaccrual assets during the quarter;RCN;M7
+20070331;480228;RCFDC411;25000;20080603;Nonaccrual assets sold during the quarter;RCN;M8
+20070331;480228;RCFDC436;0;20080603;Retained interests in accrued interest receivable related to securitized credit cards ;RCF;6d
+20070331;480228;RCFDC779;552011;20080603;Outstanding balance;RCCI;M7a
+20070331;480228;RCFDC780;399172;20080603;Carrying amount included in Schedule RC-C, part I, items 1 through 9;RCCI;M7b
+20070331;480228;RCFDC866;16363;20080603;Rebooked "GNMA loans" that have been repurchased or are eligible for repurchase included in item 10 above;RCN;10b
+20070331;480228;RCFDC867;107326;20080603;Rebooked "GNMA loans" that have been repurchased or are eligible for repurchase included in item 10 above;RCN;10b
+20070331;480228;RCFDC868;0;20080603;Rebooked "GNMA loans" that have been repurchased or are eligible for repurchase included in item 10 above;RCN;10b
+20070331;480228;RCFDC869;843707;20080603;Cash and balances due from depository institutions;RCR;34
+20070331;480228;RCFDC968;1014171675;20080603;Credit default swaps;RCL;7a1
+20070331;480228;RCFDC969;959187215;20080603;Credit default swaps;RCL;7a1
+20070331;480228;RCFDC970;57643426;20080603;Total return swaps;RCL;7a2
+20070331;480228;RCFDC971;26973839;20080603;Total return swaps;RCL;7a2
+20070331;480228;RCFDC972;100000;20080603;Credit options;RCL;7a3
+20070331;480228;RCFDC973;667080;20080603;Credit options;RCL;7a3
+20070331;480228;RCFDC974;0;20080603;Other credit derivatives;RCL;7a4
+20070331;480228;RCFDC975;0;20080603;Other credit derivatives;RCL;7a4
+20070331;480228;RCFDC978;0;20080603;Standby letters of credit issued by a Federal Home Loan Bank on the bank's behalf;RCL;9c
+20070331;480228;RCFDC980;24625675;20080603;Investment grade;RCR;M2g1
+20070331;480228;RCFDC981;572452708;20080603;Investment grade;RCR;M2g1
+20070331;480228;RCFDC982;296525677;20080603;Investment grade;RCR;M2g1
+20070331;480228;RCFDC983;40230162;20080603;Subinvestment grade;RCR;M2g2
+20070331;480228;RCFDC984;89536841;20080603;Subinvestment grade;RCR;M2g2
+20070331;480228;RCFDC985;71080762;20080603;Subinvestment grade;RCR;M2g2
+20070331;480228;RCFDC988;1005;20080603;Asset-backed securities (ABS);RCB;5
+20070331;480228;RCFDC989;8917449;20080603;Asset-backed securities (ABS);RCB;5
+20070331;480228;RCFDF055;861148;20080603;One year or less;RCM;5a1a
+20070331;480228;RCFDF056;27675;20080603;Over one year through three years;RCM;5a1b
+20070331;480228;RCFDF057;200867;20080603;Over three years through five years;RCM;5a1c
+20070331;480228;RCFDF058;807;20080603;Over five years;RCM;5a1d
+20070331;480228;RCFDF059;0;20080603;Structured advances (included in items 5.a.(1)(a) - (d) above);RCM;5a3
+20070331;480228;RCFDF060;84753166;20080603;One year or less;RCM;5b1a
+20070331;480228;RCFDF061;47590;20080603;Over one year through three years;RCM;5b1b
+20070331;480228;RCFDF062;96241;20080603;Over three years through five years;RCM;5b1c
+20070331;480228;RCFDF063;1113606;20080603;Over five years;RCM;5b1d
+20070331;480228;RCFDF065;606921;20080603;Amount of "Other borrowings" that are secured (included in Schedule RC-M, items 5.b.(1)(a) - (d));RCM;10b
+20070331;480228;RCFDF162;0;20080603;Leases to individuals for household, family, and other personal expenditures (i.e., consumer leases);RCCI;10a
+20070331;480228;RCFDF163;17364204;20080603;All other leases;RCCI;10b
+20070331;480228;RCFDF164;4508862;20080603;1-4 family residential construction loan commitments;RCL;1c1a
+20070331;480228;RCFDF165;14524179;20080603;Commercial real estate, other construction loan, and land development loan commitments;RCL;1c1b
+20070331;480228;RCFDF166;0;20080603;Leases to individuals for household, family, and other personal expenditures;RCN;8a
+20070331;480228;RCFDF167;0;20080603;Leases to individuals for household, family, and other personal expenditures;RCN;8a
+20070331;480228;RCFDF168;0;20080603;Leases to individuals for household, family, and other personal expenditures;RCN;8a
+20070331;480228;RCFDF169;193182;20080603;All other leases;RCN;8b
+20070331;480228;RCFDF170;20097;20080603;All other leases;RCN;8b
+20070331;480228;RCFDF171;9905;20080603;All other leases;RCN;8b
+20070331;480228;RCFDF236;765718495;20080603;Total deposit liabilities before exclusions (gross) as defined in Section 3(l) of the Federal Deposit Insurance Act and FDIC regulations;RCO;A
+20070331;480228;RCFDF237;158837441;20080603;Total allowable exclusions (including foreign deposits);RCO;B
+20070331;480228;RCFDF238;;20080603;Total daily average of deposit liabilities before exclusions (gross) as defined in Section 3(l) of the Federal Deposit Insurance Act and FDIC regulations;RCO;D
+20070331;480228;RCFDF239;;20080603;Total daily average of allowable exclusions (including foreign deposits);RCO;E
+20070331;480228;RCFDF240;3775318;20080603;Nontrading securities at fair value with changes in fair value reported in current earnings (included in Schedule RC-Q, item 2, above);RCQ;2a
+20070331;480228;RCFDF241;3775318;20080603;Nontrading securities at fair value with changes in fair value reported in current earnings (included in Schedule RC-Q, item 2, above);RCQ;2a
+20070331;480228;RCFDF242;;20080603;Nontrading securities at fair value with changes in fair value reported in current earnings (included in Schedule RC-Q, item 2, above);RCQ;2a
+20070331;480228;RCFDF243;20017827;20080603;Loans and leases;RCQ;1
+20070331;480228;RCFDF244;16158330;20080603;Loans and leases;RCQ;1
+20070331;480228;RCFDF245;3859497;20080603;Loans and leases;RCQ;1
+20070331;480228;RCFDF246;120333363;20080603;Trading assets;RCQ;2
+20070331;480228;RCFDF247;89268243;20080603;Trading assets;RCQ;2
+20070331;480228;RCFDF248;648120;20080603;Trading assets;RCQ;2
+20070331;480228;RCFDF249;4453753;20080603;All other financial assets and servicing assets;RCQ;3
+20070331;480228;RCFDF250;1490479;20080603;All other financial assets and servicing assets;RCQ;3
+20070331;480228;RCFDF251;2963274;20080603;All other financial assets and servicing assets;RCQ;3
+20070331;480228;RCFDF252;554407;20080603;Deposits;RCQ;4
+20070331;480228;RCFDF253;554407;20080603;Deposits;RCQ;4
+20070331;480228;RCFDF254;;20080603;Deposits;RCQ;4
+20070331;480228;RCFDF255;60999495;20080603;Trading liabilities;RCQ;5
+20070331;480228;RCFDF256;25523831;20080603;Trading liabilities;RCQ;5
+20070331;480228;RCFDF257;415961;20080603;Trading liabilities;RCQ;5
+20070331;480228;RCFDF258;0;20080603;All other financial liabilities and servicing liabilities;RCQ;6
+20070331;480228;RCFDF259;;20080603;All other financial liabilities and servicing liabilities;RCQ;6
+20070331;480228;RCFDF260;;20080603;All other financial liabilities and servicing liabilities;RCQ;6
+20070331;480228;RCFDF261;376690;20080603;Loan commitments (not accounted for as derivatives);RCQ;7
+20070331;480228;RCFDF262;;20080603;Loan commitments (not accounted for as derivatives);RCQ;7
+20070331;480228;RCFDF263;376690;20080603;Loan commitments (not accounted for as derivatives);RCQ;7
+20070331;480228;RCFDF264;0;20080603;Cumulative change in fair value of all financial liabilities accounted for under a fair value option that is included in retained earnings and is attributable to changes in the bank's own creditworthiness;RCR;7b
+20070331;480228;RCFN2133;1527636;20080603;Total IBF assets of the consolidated bank (component of Schedule RC, item 12);RCI;1
+20070331;480228;RCFN2200;158703443;20080603;Total;RCEII;6
+20070331;480228;RCFN2625;28171473;20080603;Foreign banks (including U.S. branches and agencies of foreign banks, including their IBFs);RCEII;3
+20070331;480228;RCFN2650;17399970;20080603;Foreign governments and official institutions (including foreign central banks);RCEII;4
+20070331;480228;RCFN2898;7145711;20080603;Total IBF liabilities (component of Schedule RC, item 21);RCI;2
+20070331;480228;RCFN3360;31797858;20080603;Total loans in foreign offices, Edge and Agreement subsidiaries, and IBFs;RCK;6b
+20070331;480228;RCFN3404;165879075;20080603;Interest-bearing deposits in foreign offices, EDGE and Agreement subsidiaries, and IBFs;RCK;12
+20070331;480228;RCFN3542;30169681;20080603;Trading assets in foreign offices;RCD;10
+20070331;480228;RCFN3543;957414;20080603;In foreign offices;RCD;11b
+20070331;480228;RCFN5513;0;20080603;In foreign offices;RCM;3b7
+20070331;480228;RCFN6631;3083521;20080603;Noninterest-bearing;RC;13b1
+20070331;480228;RCFN6636;155619922;20080603;Interest-bearing;RC;13b2
+20070331;480228;RCFNA245;136640548;20080603;Time deposits with a remaining maturity of one year or less (included in Part II, item 6 above);RCEII;M1
+20070331;480228;RCFNB553;106711412;20080603;Individuals, partnerships, and corporations (include all certified and official checks);RCEII;1
+20070331;480228;RCFNB554;6385478;20080603;U.S. banks (including IBFs and foreign branches of U.S. banks) and other U.S. depository institutions;RCEII;2
+20070331;480228;RCFNB555;35110;20080603;U.S. Government and states and political subdivisions in the U.S.;RCEII;5
+20070331;480228;RCFNB572;0;20080603;In foreign offices;RCN;1f
+20070331;480228;RCFNB573;0;20080603;In foreign offices;RCN;1f
+20070331;480228;RCFNB574;0;20080603;In foreign offices;RCN;1f
+20070331;480228;RCFNB900;208575;20080603;Fiduciary accounts held in foreign offices (included in items 9 and 10);RCT;11
+20070331;480228;RCFNB901;2360094;20080603;Fiduciary accounts held in foreign offices (included in items 9 and 10);RCT;11
+20070331;480228;RCFNB902;248;20080603;Fiduciary accounts held in foreign offices (included in items 9 and 10);RCT;11
+20070331;480228;RCFNB903;5314;20080603;Fiduciary accounts held in foreign offices (included in items 9 and 10);RCT;11
+20070331;480228;RCFNF234;158703443;20080603;Total foreign deposits (included in item B above);RCO;C
+20070331;480228;RCFNF235;;20080603;Total daily average of foreign deposits (included in item E above);RCO;F
+20070331;480228;RCON0010;29752566;20080603;Total;RCA;5
+20070331;480228;RCON0020;18795369;20080603;Cash items in process of collection and unposted debits;RCA;1a
+20070331;480228;RCON0030;;20080603;Actual amount of all unposted debits;RCO;1a
+20070331;480228;RCON0031;;20080603;Actual amount of unposted debits to demand deposits;RCO;1b1
+20070331;480228;RCON0032;;20080603;Actual amount of unposted debits to time and savings deposits;RCO;1b2
+20070331;480228;RCON0070;390659;20080603;Balances due from banks in foreign countries and foreign central banks;RCA;3
+20070331;480228;RCON0080;7248066;20080603;Currency and coin;RCA;1b
+20070331;480228;RCON0082;1687509;20080603;Balances due from depository institutions in the U.S.;RCA;2
+20070331;480228;RCON0090;1630963;20080603;Balances due from Federal Reserve Banks;RCA;4
+20070331;480228;RCON0352;136345257;20080603;Other savings deposits (excludes MMDAs);RCEI;M2a2
+20070331;480228;RCON1039;257217;20080603;U.S. Treasury securities;RCH;10
+20070331;480228;RCON1041;962851;20080603;U.S. Government agency obligations (exclude mortgage-backed securities);RCH;11
+20070331;480228;RCON1042;5672767;20080603;Securities issued by states and political subdivisions in the U.S.;RCH;12
+20070331;480228;RCON1043;152766952;20080603;Issued or guaranteed by FNMA, FHLMC, or GNMA;RCH;13a1
+20070331;480228;RCON1044;2982652;20080603;Other pass-through securities;RCH;13a2
+20070331;480228;RCON1209;13364;20080603;Issued or guaranteed by FNMA, FHLMC, or GNMA;RCH;13b1
+20070331;480228;RCON1280;4101905;20080603;All other mortgage-backed securities;RCH;13b2
+20070331;480228;RCON1281;13534688;20080603;Other domestic debt securities (include domestic asset-backed securities);RCH;14
+20070331;480228;RCON1282;959371;20080603;Foreign debt securities (include foreign asset-backed securities);RCH;15
+20070331;480228;RCON1374;184958782;20080603;Total amortized (historical) cost of both held-to-maturity and available-for-sale securities;RCH;17
+20070331;480228;RCON1415;21388625;20080603;Construction, land development, and other land loans;RCCI;1a
+20070331;480228;RCON1420;1275073;20080603;Secured by farmland (including farm residential and other improvements);RCCI;1b
+20070331;480228;RCON1460;6597811;20080603;Secured by multifamily (5 or more) residential properties;RCCI;1d
+20070331;480228;RCON1480;44326803;20080603;Secured by nonfarm nonresidential properties;RCCI;1e
+20070331;480228;RCON1545;1673174;20080603;Loans for purchasing or carrying securities (secured and unsecured);RCCI;9a
+20070331;480228;RCON1564;9307766;20080603;All other loans (exclude consumer loans);RCCI;9b
+20070331;480228;RCON1590;1413206;20080603;Loans to finance agricultural production and other loans to farmers;RCCI;3
+20070331;480228;RCON1752;3044221;20080603;Equity securities that do not have readily determinable fair values;RCH;18
+20070331;480228;RCON1763;97638460;20080603;To U.S. addressees (domicile);RCCI;4a
+20070331;480228;RCON1764;1684891;20080603;To non-U.S. addressees (domicile);RCCI;4b
+20070331;480228;RCON1797;74901392;20080603;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCCI;1c1
+20070331;480228;RCON2011;51525605;20080603;Other consumer loans (includes single payment, installment, and all student loans);RCCI;6c
+20070331;480228;RCON2081;188680;20080603;Loans to foreign governments and official institutions (including foreign central banks);RCCI;7
+20070331;480228;RCON2107;9184809;20080603;Obligations (other than securities and leases) of states and political subdivisions in the U.S.;RCCI;8
+20070331;480228;RCON2122;610620560;20080603;Total loans and leases, net of unearned income;RCCI;12
+20070331;480228;RCON2123;0;20080603;Any unearned income on loans reflected in items 1-9 above;RCCI;11
+20070331;480228;RCON2163;0;20080603;Net due from own foreign offices, Edge and Agreement subsidiaries, and IBFs;RCH;6
+20070331;480228;RCON2165;17098382;20080603;Lease financing receivables (net of unearned income);RCCI;10
+20070331;480228;RCON2192;1089169012;20080603;Total assets (excludes net due from foreign offices, Edge and Agreement subsidiaries, and IBFs);RCH;8
+20070331;480228;RCON2200;602128793;20080603;In domestic offices;RC;13a
+20070331;480228;RCON2202;685011;20080603;U.S. Government;RCEI;2
+20070331;480228;RCON2203;4967601;20080603;States and political subdivisions in the U.S.;RCEI;3
+20070331;480228;RCON2210;64868667;20080603;Total;RCEI;7
+20070331;480228;RCON2211;;20080603;Demand deposits of consolidated subsidiaries;RCO;4a
+20070331;480228;RCON2213;434813;20080603;Banks in foreign countries;RCEI;5
+20070331;480228;RCON2215;74539864;20080603;Total;RCEI;7
+20070331;480228;RCON2216;89694;20080603;Foreign governments and official institutions (including foreign central banks);RCEI;6
+20070331;480228;RCON2229;;20080603;Demand deposits in insured branches (included in Schedules RC-E, Part II);RCO;5a
+20070331;480228;RCON2236;2196027;20080603;Banks in foreign countries;RCEI;5
+20070331;480228;RCON2314;;20080603;Amount reflected in demand deposits (included in Schedule RC-E, Part I, item 7, column B);RCO;6a
+20070331;480228;RCON2315;;20080603;Amount reflected in time and savings deposits (included in Schedule RC-E, Part I, item 7, column A or C, but not column B);RCO;6b
+20070331;480228;RCON2343;0;20080603;Issued in denominations of less than $100,000;RCEI;M1c1
+20070331;480228;RCON2344;792429;20080603;Issued either in denominations of $100,000 or in denominations greater than $100,000 and participated out by the broker in shares of $100,000 or less;RCEI;M1c2
+20070331;480228;RCON2351;;20080603;Time and savings deposits of consolidated subsidiaries;RCO;4b
+20070331;480228;RCON2365;792429;20080603;Total brokered deposits;RCEI;M1b
+20070331;480228;RCON2377;52842;20080603;Foreign governments and official institutions (including foreign central banks);RCEI;6
+20070331;480228;RCON2383;;20080603;Time and savings deposits in insured branches (included in Schedule RC-E, Part II);RCO;5b
+20070331;480228;RCON2385;527588929;20080603;Total;RCEI;7
+20070331;480228;RCON2520;283603;20080603;U.S. Government;RCEI;2
+20070331;480228;RCON2530;14525672;20080603;States and political subdivisions in the U.S.;RCEI;3
+20070331;480228;RCON2604;81501442;20080603;Total time deposits of $100,000 or more;RCEI;M2c
+20070331;480228;RCON2759;74946;20080603;Construction, land development, and other land loans in domestic offices;RCN;1a
+20070331;480228;RCON2769;4988;20080603;Construction, land development, and other land loans in domestic offices;RCN;1a
+20070331;480228;RCON2941;90626336;20080603;Net due to own foreign offices, Edge and Agreement subsidiaries, and IBFs;RCH;7
+20070331;480228;RCON3129;887918422;20080603;Total liabilities (excludes net due to foreign offices, Edge and Agreement subsidiaries, and IBFs);RCH;9
+20070331;480228;RCON3190;73246181;20080603;Other borrowed money;RCH;5
+20070331;480228;RCON3360;590253102;20080603;Total loans;RCK;6a1
+20070331;480228;RCON3385;382050856;20080603;Loans secured by real estate;RCK;6a2
+20070331;480228;RCON3386;1390275;20080603;Loans to finance agricultural production and other loans to farmers ;RCK;6a3
+20070331;480228;RCON3387;99453364;20080603;Commercial and industrial loans;RCK;6a4
+20070331;480228;RCON3485;11712171;20080603;Interest-bearing transaction accounts in domestic offices (NOW accounts, ATS accounts, and telephone and preauthorized transfer accounts) (exclude demand deposits);RCK;10
+20070331;480228;RCON3492;191772;20080603;Construction, land development, and other land loans in domestic offices;RCN;1a
+20070331;480228;RCON3493;11675;20080603;Secured by farmland in domestic offices;RCN;1b
+20070331;480228;RCON3494;329;20080603;Secured by farmland in domestic offices;RCN;1b
+20070331;480228;RCON3495;2602;20080603;Secured by farmland in domestic offices;RCN;1b
+20070331;480228;RCON3499;1921;20080603;Secured by multifamily (5 or more) residential properties in domestic offices;RCN;1d
+20070331;480228;RCON3500;14;20080603;Secured by multifamily (5 or more) residential properties in domestic offices;RCN;1d
+20070331;480228;RCON3501;2521;20080603;Secured by multifamily (5 or more) residential properties in domestic offices;RCN;1d
+20070331;480228;RCON3502;140416;20080603;Secured by nonfarm nonresidential properties in domestic offices;RCN;1e
+20070331;480228;RCON3503;24529;20080603;Secured by nonfarm nonresidential properties in domestic offices;RCN;1e
+20070331;480228;RCON3504;128132;20080603;Secured by nonfarm nonresidential properties in domestic offices;RCN;1e
+20070331;480228;RCON3510;;20080603;Actual amount of all unposted credits;RCO;2a
+20070331;480228;RCON3512;;20080603;Actual amount of unposted credits to demand deposits;RCO;2b1
+20070331;480228;RCON3514;;20080603;Actual amount of unposted credits to time and savings deposits;RCO;2b2
+20070331;480228;RCON3520;;20080603;Uninvested trust funds (cash) held in bank's own trust department (not included in total deposits in domestic offices);RCO;3
+20070331;480228;RCON3531;15394643;20080603;U.S. Treasury securities in domestic offices;RCD;1
+20070331;480228;RCON3532;2303970;20080603;U.S. Government agency obligations in domestic offices (exclude mortgage-backed securities);RCD;2
+20070331;480228;RCON3533;8610715;20080603;Securities issued by states and political subdivisions in the U.S. in domestic offices;RCD;3
+20070331;480228;RCON3534;107267;20080603;Pass-through securities issued or guaranteed by FNMA, FHLMC, or GNMA;RCD;4a
+20070331;480228;RCON3535;5698;20080603;Other mortgage-backed securities issued or guaranteed by FNMA, FHLMC, or GNMA (include CMOs, REMICs, and stripped MBS);RCD;4b
+20070331;480228;RCON3536;1236793;20080603;All other mortgage-backed securities;RCD;4c
+20070331;480228;RCON3537;15134488;20080603;Other debt securities in domestic offices;RCD;5
+20070331;480228;RCON3541;25228055;20080603;Other trading assets in domestic offices;RCD;9
+20070331;480228;RCON3543;21184639;20080603;In domestic offices;RCD;11a
+20070331;480228;RCON3645;832149;20080603;Interest accrued and unpaid on deposits in domestic offices;RCG;1a
+20070331;480228;RCON5367;227620946;20080603;Secured by first liens;RCCI;1c2a
+20070331;480228;RCON5368;12539776;20080603;Secured by junior liens;RCCI;1c2b
+20070331;480228;RCON5370;62123629;20080603;Adjustable rate closed-end loans secured by first liens on 1-4 family residential properties in domestic offices (included in Schedule RC-C, part I, item 1.c.(2)(a), column B);RCCI;M4
+20070331;480228;RCON5398;529696;20080603;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCN;1c1
+20070331;480228;RCON5399;0;20080603;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCN;1c1
+20070331;480228;RCON5400;301443;20080603;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCN;1c1
+20070331;480228;RCON5508;6384;20080603;Construction, land development, and other land in domestic offices;RCM;3b1
+20070331;480228;RCON5509;0;20080603;Farmland in domestic offices;RCM;3b2
+20070331;480228;RCON5510;64409;20080603;1-4 family residential properties in domestic offices;RCM;3b3
+20070331;480228;RCON5511;3029;20080603;Multifamily (5 or more) residential properties in domestic offices;RCM;3b4
+20070331;480228;RCON5512;13796;20080603;Nonfarm nonresidential properties in domestic offices;RCM;3b5
+20070331;480228;RCON5514;;20080603;Interest accrued and unpaid on deposits of consolidated subsidiaries;RCO;4c
+20070331;480228;RCON5515;;20080603;Interest accrued and unpaid on deposits in insured branches (included in Schedule RC-G, item 1.b.);RCO;5c
+20070331;480228;RCON5516;;20080603;Unamortized premiums;RCO;7a
+20070331;480228;RCON5517;;20080603;Unamortized discounts;RCO;7b
+20070331;480228;RCON5562;0;20080603;"Loans secured by nonfarm nonresidential properties" in domestic offices reported in Schedule RC-C, part I, item 1.e, column B;RCCII;2a
+20070331;480228;RCON5563;0;20080603;"Commercial and industrial loans to U.S. addressees" in domestic offices reported in Schedule RC-C, part I, item 4.a, column B;RCCII;2b
+20070331;480228;RCON5564;0;20080603;With original amounts of $100,000 or less;RCCII;3a
+20070331;480228;RCON5565;0;20080603;With original amounts of $100,000 or less;RCCII;3a
+20070331;480228;RCON5566;0;20080603;With original amounts of more than $100,000 through $250,000;RCCII;3b
+20070331;480228;RCON5567;0;20080603;With original amounts of more than $100,000 through $250,000;RCCII;3b
+20070331;480228;RCON5568;0;20080603;With original amounts of more than $250,000 through $1,000,000;RCCII;3c
+20070331;480228;RCON5569;0;20080603;With original amounts of more than $250,000 through $1,000,000;RCCII;3c
+20070331;480228;RCON5570;0;20080603;With original amounts of $100,000 or less;RCCII;4a
+20070331;480228;RCON5571;0;20080603;With original amounts of $100,000 or less;RCCII;4a
+20070331;480228;RCON5572;0;20080603;With original amounts of more than $100,000 through $250,000;RCCII;4b
+20070331;480228;RCON5573;0;20080603;With original amounts of more than $100,000 through $250,000;RCCII;4b
+20070331;480228;RCON5574;0;20080603;With original amounts of more than $250,000 through $1,000,000;RCCII;4c
+20070331;480228;RCON5575;0;20080603;With original amounts of more than $250,000 through $1,000,000;RCCII;4c
+20070331;480228;RCON5576;0;20080603;"Loans secured by farmland (including farm residential and other improvements)" in domestic offices reported in Schedule RC-C, part I, item 1.b, column B;RCCII;6a
+20070331;480228;RCON5577;0;20080603;"Loans to finance agricultural production and other loans to farmers" in domestic offices reported in Schedule RC-C, part I, item 3, column B;RCCII;6b
+20070331;480228;RCON5578;0;20080603;With original amounts of $100,000 or less;RCCII;7a
+20070331;480228;RCON5579;0;20080603;With original amounts of $100,000 or less;RCCII;7a
+20070331;480228;RCON5580;0;20080603;With original amounts of more than $100,000 through $250,000;RCCII;7b
+20070331;480228;RCON5581;0;20080603;With original amounts of more than $100,000 through $250,000;RCCII;7b
+20070331;480228;RCON5582;0;20080603;With original amounts of more than $250,000 through $500,000;RCCII;7c
+20070331;480228;RCON5583;0;20080603;With original amounts of more than $250,000 through $500,000;RCCII;7c
+20070331;480228;RCON5584;0;20080603;With original amounts of $100,000 or less;RCCII;8a
+20070331;480228;RCON5585;0;20080603;With original amounts of $100,000 or less;RCCII;8a
+20070331;480228;RCON5586;0;20080603;With original amounts of more than $100,000 through $250,000;RCCII;8b
+20070331;480228;RCON5587;0;20080603;With original amounts of more than $100,000 through $250,000;RCCII;8b
+20070331;480228;RCON5588;0;20080603;With original amounts of more than $250,000 through $500,000;RCCII;8c
+20070331;480228;RCON5589;0;20080603;With original amounts of more than $250,000 through $500,000;RCCII;8c
+20070331;480228;RCON5590;0;20080603;Preferred deposits (uninsured deposits of states and political subdivisions in the U.S. reported in item 3 above which are secured or collateralized as required under state law);RCEI;M1e
+20070331;480228;RCON5597;201512438;20080603;Estimated amount of uninsured deposits in domestic offices of the bank and in insured branches in Puerto Rico and U.S. territories and possessions;RCO;M2
+20070331;480228;RCON6631;176232353;20080603;Noninterest-bearing;RC;13a1
+20070331;480228;RCON6636;425896440;20080603;Interest-bearing;RC;13a2
+20070331;480228;RCON6648;92055815;20080603;Total time deposits of less than $100,000;RCEI;M2b
+20070331;480228;RCON6810;217686415;20080603;Money market deposit accounts (MMDAs);RCEI;M2a1
+20070331;480228;RCON6835;15493813;20080603;Total Individual Retirement Accounts (IRAs) and Keogh Plan accounts;RCEI;M1a
+20070331;480228;RCON6860;;20080603;Indicate in the appropriate box at the right whether all or substantially all of the dollar volume of your bank's "Loans secured by farmland (including farm residential and other improvements)" in domestic offices reported in Schedule RC-C, part I, item 1.b, column B, and all or substantially all of the dollar volume of your bank's "Loans to finance agricultural production and other loans to farmers" in domestic offices reported in Schedule RC-C, part I, item 3, column B, have original amounts of $100,000 or less;RCCII;5
+20070331;480228;RCON6979;true;20080603;Comments?;NARR;1
+20070331;480228;RCON6999;;20080603;Indicate in the appropriate box at the right whether all or substantially all of the dollar volume of your bank's "Loans secured by nonfarm nonresidential properties" in domestic offices reported in Schedule RC-C, part I, item 1.e, column B, and all or substantially all of the dollar volume of your bank's "Commercial and industrial loans to U.S. addressees" in domestic offices reported in Schedule RC-C, part I, item 4.a, column B, have original amounts of $100,000 or less;RCCII;1
+20070331;480228;RCON8432;;20080603;Benefit-responsive "Depository Institution Investment Contracts" (included in total deposits in domestic offices);RCO;10
+20070331;480228;RCON8785;;20080603;Amount by which demand deposits would be reduced if the reporting bank's reciprocal demand balances with the domestic offices of U.S. banks and savings associations and insured branches in Puerto Rico and U.S. territories and possessions that were reported on a gross basis in Schedule RC-E had been reported on a net basis;RCO;11a
+20070331;480228;RCON9999;20070331;20080603;Reporting date;ENT;1
+20070331;480228;RCONA181;;20080603;Amount by which demand deposits would be increased if the reporting bank's reciprocal demand balances with foreign banks and foreign offices of other U.S. banks (other than insured branches in Puerto Rico and U.S. territories and possessions) that were reported on a net basis in Schedule RC-E had been reported on a gross basis;RCO;11b
+20070331;480228;RCONA182;;20080603;Amount by which demand deposits would be reduced if cash items in process of collection were included in the calculation of the reporting bank's net reciprocal demand balances with the domestic offices of U.S. banks and savings associations and insured branches in Puerto Rico and U.S. territories and possessions in Schedule RC-E;RCO;11c
+20070331;480228;RCONA241;81809006;20080603;Time deposits of less than $100,000 with a REMAINING MATURITY of one year or less (included in Memorandum items 3.a.(1) and 3.a.(2) above);RCEI;M3b
+20070331;480228;RCONA242;78087820;20080603;Time deposits of $100,000 or more with a REMAINING MATURITY of one year or less (included in Memorandum items 4.a.(1) and 4.a.(2) above);RCEI;M4b
+20070331;480228;RCONA243;0;20080603;Brokered deposits issued in denominations of less than $100,000 with a remaining maturity of one year or less (included in Memorandum item 1.c.(1) above);RCEI;M1d1
+20070331;480228;RCONA244;763976;20080603;Brokered deposits issued in denominations of $100,000 or more with a remaining maturity of one year or less (included in Memorandum item 1.b above);RCEI;M1d2
+20070331;480228;RCONA510;3707015;20080603;Investments in mutual funds and other equity securities with readily determinable fair values;RCH;16
+20070331;480228;RCONA514;80655333;20080603;Time deposits of $100,000 or more;RCK;11b
+20070331;480228;RCONA527;;20080603;Amount of assets netted against demand deposits;RCO;12a
+20070331;480228;RCONA528;;20080603;Amount of assets netted against time and savings deposits;RCO;12b
+20070331;480228;RCONA529;95778820;20080603;Time deposits of less than $100,000;RCK;11c
+20070331;480228;RCONA545;0;20080603;FDIC Certificate Number;RCO;M3b
+20070331;480228;RCONA564;5888363;20080603;Three months or less;RCCI;M2a1
+20070331;480228;RCONA565;1665691;20080603;Over three months through 12 months;RCCI;M2a2
+20070331;480228;RCONA566;6244914;20080603;Over one year through three years;RCCI;M2a3
+20070331;480228;RCONA567;30400952;20080603;Over three years through five years;RCCI;M2a4
+20070331;480228;RCONA568;45770966;20080603;Over five years through 15 years;RCCI;M2a5
+20070331;480228;RCONA569;136945119;20080603;Over 15 years;RCCI;M2a6
+20070331;480228;RCONA579;23432387;20080603;Three months or less;RCEI;M3a1
+20070331;480228;RCONA580;58376619;20080603;Over three months through 12 months;RCEI;M3a2
+20070331;480228;RCONA581;7922540;20080603;Over one year through three years;RCEI;M3a3
+20070331;480228;RCONA582;2324269;20080603;Over three years;RCEI;M3a4
+20070331;480228;RCONA584;28173198;20080603;Three months or less;RCEI;M4a1
+20070331;480228;RCONA585;49914622;20080603;Over three months through 12 months;RCEI;M4a2
+20070331;480228;RCONA586;2594789;20080603;Over one year through three years;RCEI;M4a3
+20070331;480228;RCONA587;818833;20080603;Over three years;RCEI;M4a4
+20070331;480228;RCONB531;29207028;20080603;To commercial banks in the U.S.;RCCI;2a
+20070331;480228;RCONB534;0;20080603;To other depository institutions in the U.S.;RCCI;2b
+20070331;480228;RCONB535;52717;20080603;To banks in foreign countries;RCCI;2c
+20070331;480228;RCONB538;23643;20080603;Credit cards;RCCI;6a
+20070331;480228;RCONB539;2971773;20080603;Other revolving credit plans;RCCI;6b
+20070331;480228;RCONB549;63065922;20080603;Individuals, partnerships, and corporations (include all certified and official checks);RCEI;1
+20070331;480228;RCONB550;509118451;20080603;Individuals, partnerships, and corporations (include all certified and official checks);RCEI;1
+20070331;480228;RCONB551;5296823;20080603;Commercial banks and other depository institutions in the U.S.;RCEI;4
+20070331;480228;RCONB552;1412334;20080603;Commercial banks and other depository institutions in the U.S.;RCEI;4
+20070331;480228;RCONB561;28421;20080603;Credit cards;RCK;6a5a
+20070331;480228;RCONB562;53368205;20080603;Other (includes single payment, installment, all student loans, and revolving credit plans other than credit cards);RCK;6a5b
+20070331;480228;RCONB563;344325861;20080603;Savings deposits (includes MMDAs);RCK;11a
+20070331;480228;RCONB987;51571291;20080603;Federal funds sold in domestic offices;RC;3a
+20070331;480228;RCONB989;22961085;20080603;Securities purchased under agreements to resell;RCH;3
+20070331;480228;RCONB993;13296544;20080603;Federal funds purchased in domestic offices;RC;14a
+20070331;480228;RCONB995;106587134;20080603;Securities sold under agreements to repurchase;RCH;4
+20070331;480228;RCONC229;704941;20080603;Secured by first liens;RCN;1c2a
+20070331;480228;RCONC230;213904;20080603;Secured by junior liens;RCN;1c2b
+20070331;480228;RCONC236;2490719;20080603;Secured by first liens;RCN;1c2a
+20070331;480228;RCONC237;107771;20080603;Secured by first liens;RCN;1c2a
+20070331;480228;RCONC238;74885;20080603;Secured by junior liens;RCN;1c2b
+20070331;480228;RCONC239;0;20080603;Secured by junior liens;RCN;1c2b
+20070331;480228;RCONC979;0;20080603;Foreclosed properties from "GNMA loans";RCM;3b6
+20070331;480228;RCONF045;14968534;20080603;Amount of retirement deposit accounts of $250,000 or less;RCO;M1c1
+20070331;480228;RCONF046;0;20080603;Number of retirement deposit accounts of $250,000 or less;RCO;M1c2
+20070331;480228;RCONF047;525279;20080603;Amount of retirement deposit accounts of more than $250,000;RCO;M1d1
+20070331;480228;RCONF048;1254;20080603;Number of retirement deposit accounts of more than $250,000;RCO;M1d2
+20070331;480228;RCONF049;297743029;20080603;Amount of deposit accounts (excluding retirement accounts) of $100,000 or less;RCO;M1a1
+20070331;480228;RCONF050;0;20080603;Number of deposit accounts (excluding retirement accounts) of $100,000 or less;RCO;M1a2
+20070331;480228;RCONF051;288891951;20080603;Amount of deposit accounts (excluding retirement accounts) of more than $100,000;RCO;M1b1
+20070331;480228;RCONF052;800283;20080603;Number of deposit accounts (excluding retirement accounts) of more than $100,000;RCO;M1b2
+20070331;480228;RCONF064;0;20080603;Amount of "Federal funds purchased in domestic offices" that are secured (included in Schedule RC, item 14.a);RCM;10a
+20070331;480228;RCONF066;3084249;20080603;First liens;RCP;1a
+20070331;480228;RCONF067;8667;20080603;Junior liens;RCP;1b
+20070331;480228;RCONF068;9997364;20080603;First liens;RCP;2a
+20070331;480228;RCONF069;24400;20080603;Junior liens;RCP;2b
+20070331;480228;RCONF070;38479290;20080603;First liens;RCP;3a
+20070331;480228;RCONF071;4026;20080603;Junior liens;RCP;3b
+20070331;480228;RCONF072;13980858;20080603;First liens;RCP;4a
+20070331;480228;RCONF073;24308;20080603;Junior liens;RCP;4b
+20070331;480228;RCONF158;149519;20080603;1-4 family residential construction loans;RCCI;M9a
+20070331;480228;RCONF159;21239106;20080603;Other construction loans and all land development and other land loans;RCCI;M9b
+20070331;480228;RCONF160;11422655;20080603;Loans secured by owner-occupied nonfarm nonresidential properties;RCCI;M10a
+20070331;480228;RCONF161;32904148;20080603;Loans secured by other nonfarm nonresidential properties;RCCI;M10b
+20070331;480228;RCONF172;8748;20080603;1-4 family residential construction loans;RCN;M9a
+20070331;480228;RCONF173;66198;20080603;Other construction loans and all land development and other land loans;RCN;M9b
+20070331;480228;RCONF174;0;20080603;1-4 family residential construction loans;RCN;M9a
+20070331;480228;RCONF175;4988;20080603;Other construction loans and all land development and other land loans;RCN;M9b
+20070331;480228;RCONF176;105440;20080603;1-4 family residential construction loans;RCN;M9a
+20070331;480228;RCONF177;86332;20080603;Other construction loans and all land development and other land loans;RCN;M9b
+20070331;480228;RCONF178;93299;20080603;Loans secured by owner-occupied nonfarm nonresidential properties;RCN;M10a
+20070331;480228;RCONF179;47117;20080603;Loans secured by other nonfarm nonresidential properties;RCN;M10b
+20070331;480228;RCONF180;5783;20080603;Loans secured by owner-occupied nonfarm nonresidential properties;RCN;M10a
+20070331;480228;RCONF181;18746;20080603;Loans secured by other nonfarm nonresidential properties;RCN;M10b
+20070331;480228;RCONF182;90751;20080603;Loans secured by owner-occupied nonfarm nonresidential properties;RCN;M10a
+20070331;480228;RCONF183;37381;20080603;Loans secured by other nonfarm nonresidential properties;RCN;M10b
+20070331;480228;RCONF230;60941;20080603;Total carrying amount of closed-end loans with negative amortization features secured by 1-4 family residential properties (included in Schedule RC-C, part I, items 1.c.(2)(a) and 1.c.(2)(b));RCCI;M8a
+20070331;480228;RCONF231;0;20080603;Total maximum remaining amount of negative amortization contractually permitted on closed-end loans secured by 1-4 family residential properties;RCCI;M8b
+20070331;480228;RCONF232;0;20080603;Total amount of negative amortization on closed-end loans secured by 1-4 family residential properties included in the carrying amount reported in Memorandum item 8.a above;RCCI;M8c
+20070331;480228;RCONF233;1640898;20080603;Individual Retirement Accounts (IRAs) and Keogh Plan accounts included in Memorandum item 2.c, "Total time deposits of $100,000 or more," above;RCEI;M2c1
+20070331;480228;RIAD0093;916592;20080603;Savings deposits (includes MMDAs);RI;2a1b1
+20070331;480228;RIAD0497;0;20080603;Advertising and marketing expenses;RIE;2b
+20070331;480228;RIAD3123;3795394;20080603;Balance end of current period;RIBII;7
+20070331;480228;RIAD3196;64869;20080603;Realized gains (losses) on available-for-sale securities;RI;6b
+20070331;480228;RIAD3210;108801788;20080603;Total equity capital end of current period;RIA;12
+20070331;480228;RIAD3217;109526405;20080603;Total equity capital most recently reported for the December 31, 2006, Reports of Condition and Income (i.e., after adjustments from amended Reports of Income);RIA;1
+20070331;480228;RIAD3521;0;20080603;Realized gains (losses) on held-to-maturity securities;RI;6a
+20070331;480228;RIAD3582;3333;20080603;Construction, land development, and other land loans in domestic offices;RIBI;1a
+20070331;480228;RIAD3583;1136;20080603;Construction, land development, and other land loans in domestic offices;RIBI;1a
+20070331;480228;RIAD3584;0;20080603;Secured by farmland in domestic offices;RIBI;1b
+20070331;480228;RIAD3585;0;20080603;Secured by farmland in domestic offices;RIBI;1b
+20070331;480228;RIAD3588;0;20080603;Secured by multifamily (5 or more) residential properties in domestic offices;RIBI;1d
+20070331;480228;RIAD3589;0;20080603;Secured by multifamily (5 or more) residential properties in domestic offices;RIBI;1d
+20070331;480228;RIAD3590;0;20080603;Secured by nonfarm nonresidential properties in domestic offices;RIBI;1e
+20070331;480228;RIAD3591;0;20080603;Secured by nonfarm nonresidential properties in domestic offices;RIBI;1e
+20070331;480228;RIAD4010;9981791;20080603;Total interest and fee income on loans;RI;1a3
+20070331;480228;RIAD4011;6156836;20080603;Loans secured by real estate;RI;1a1a
+20070331;480228;RIAD4012;1916030;20080603;Commercial and industrial loans;RI;1a1c
+20070331;480228;RIAD4020;1382265;20080603;Interest income on federal funds sold and securities purchased under agreements to resell;RI;1f
+20070331;480228;RIAD4024;23281;20080603;Loans to finance agricultural production and other loans to farmers;RI;1a1b
+20070331;480228;RIAD4042;0;20080603;Rent and other income from other real estate owned;RIE;1d
+20070331;480228;RIAD4056;58;20080603;Loans to foreign governments and official institutions;RI;1a1e
+20070331;480228;RIAD4059;526320;20080603;In foreign offices, Edge and Agreement subsidiaries, and IBFs;RI;1a2
+20070331;480228;RIAD4060;343897;20080603;All other securities (includes securities issued by states and political subdivisions in the U.S.);RI;1d3
+20070331;480228;RIAD4065;207810;20080603;Income from lease financing receivables;RI;1b
+20070331;480228;RIAD4069;1209710;20080603;Interest income from trading assets;RI;1e
+20070331;480228;RIAD4070;282377;20080603;Total gross fiduciary and related services income;RCT;19
+20070331;480228;RIAD4073;8662093;20080603;Total interest expense ;RI;2e
+20070331;480228;RIAD4074;6699351;20080603;Net interest income;RI;3
+20070331;480228;RIAD4079;5847294;20080603;Total noninterest income;RI;5m
+20070331;480228;RIAD4080;2192425;20080603;Service charges on deposit accounts in domestic offices;RI;5b
+20070331;480228;RIAD4092;2296513;20080603;Other noninterest expense;RI;7d
+20070331;480228;RIAD4093;6968150;20080603;Total noninterest expense;RI;7e
+20070331;480228;RIAD4107;15361444;20080603;Total interest income;RI;1h
+20070331;480228;RIAD4115;164268;20080603;Interest income on balances due from depository institutions;RI;1c
+20070331;480228;RIAD4135;3608069;20080603;Salaries and employee benefits;RI;7a
+20070331;480228;RIAD4136;0;20080603;Directors' fees;RIE;2c
+20070331;480228;RIAD4141;0;20080603;Legal fees and expenses;RIE;2f
+20070331;480228;RIAD4146;0;20080603;FDIC deposit insurance assessments;RIE;2g
+20070331;480228;RIAD4150;161504;20080603;Number of full-time equivalent employees at end of current period;RI;M5
+20070331;480228;RIAD4172;1819530;20080603;Interest on deposits in foreign offices, Edge and Agreement subsidiaries, and IBFs;RI;2a2
+20070331;480228;RIAD4180;2044350;20080603;Expense of federal funds purchased and securities sold under agreements to repurchase;RI;2b
+20070331;480228;RIAD4185;1602824;20080603;Interest on trading liabilities and other borrowed money;RI;2c
+20070331;480228;RIAD4200;240931;20080603;Interest on subordinated notes and debentures;RI;2d
+20070331;480228;RIAD4217;932559;20080603;Expenses of premises and fixed assets (net of rental income) (excluding salaries and employee benefits and mortgage interest);RI;7b
+20070331;480228;RIAD4230;45604;20080603;Provision for loan and lease losses;RIBII;5
+20070331;480228;RIAD4300;3766217;20080603;Income (loss) before extraordinary items and other adjustments;RI;10
+20070331;480228;RIAD4301;5597760;20080603;Income (loss) before income taxes and extraordinary items and other adjustments;RI;8
+20070331;480228;RIAD4302;1831543;20080603;Applicable income taxes (on item 8);RI;9
+20070331;480228;RIAD4313;77559;20080603;Income on tax-exempt loans and leases to states and political subdivisions in the U.S. (included in Schedule RI, items 1.a and 1.b);RI;M3
+20070331;480228;RIAD4320;0;20080603;Extraordinary items and other adjustments, net of income taxes;RI;11
+20070331;480228;RIAD4340;3766217;20080603;Net income (loss);RIA;4
+20070331;480228;RIAD4356;113781;20080603;Changes incident to business combinations, net;RIA;7
+20070331;480228;RIAD4415;0;20080603;Other transactions with parent holding company (not included in items 5, 6, 8, or 9 above);RIA;11
+20070331;480228;RIAD4460;3321500;20080603;Cash dividends declared on common stock;RIA;9
+20070331;480228;RIAD4461;0;20080603;Amount of component;RIE;1f2
+20070331;480228;RIAD4462;0;20080603;Amount of component;RIE;1g2
+20070331;480228;RIAD4463;420637;20080603;Amount of component;RIE;1h2
+20070331;480228;RIAD4464;653650;20080603;Amount of component;RIE;2h2
+20070331;480228;RIAD4467;238773;20080603;Amount of component;RIE;2i2
+20070331;480228;RIAD4468;0;20080603;Amount of component;RIE;2j2
+20070331;480228;RIAD4469;0;20080603;Amount of component;RIE;3a2
+20070331;480228;RIAD4470;0;20080603;Cash dividends declared on preferred stock;RIA;8
+20070331;480228;RIAD4486;0;20080603;Applicable income tax effect;RIE;3a3
+20070331;480228;RIAD4487;0;20080603;Amount of component;RIE;3b2
+20070331;480228;RIAD4488;0;20080603;Applicable income tax effect;RIE;3b3
+20070331;480228;RIAD4489;0;20080603;Amount of component;RIE;3c2
+20070331;480228;RIAD4491;0;20080603;Applicable income tax effect;RIE;3c3
+20070331;480228;RIAD4498;0;20080603;Amount of component;RIE;5a2
+20070331;480228;RIAD4499;0;20080603;Amount of component;RIE;5b2
+20070331;480228;RIAD4507;60740;20080603;Income on tax-exempt securities issued by states and political subdivisions in the U.S. (included in Schedule RI, item 1.d.(3));RI;M4
+20070331;480228;RIAD4508;74219;20080603;Transaction accounts (NOW accounts, ATS accounts, and telephone and preauthorized transfer accounts);RI;2a1a
+20070331;480228;RIAD4513;14000;20080603;Interest expense incurred to carry tax-exempt securities, loans, and leases acquired after August 7, 1986, that is not deductible for federal income tax purposes;RI;M1
+20070331;480228;RIAD4518;63743;20080603;Other interest income;RI;1g
+20070331;480228;RIAD4521;0;20080603;Amount of component;RIE;6a2
+20070331;480228;RIAD4522;-100234;20080603;Amount of component;RIE;6b2
+20070331;480228;RIAD4605;177792;20080603;Recoveries;RIBII;2
+20070331;480228;RIAD4617;22884;20080603;To U.S. addressees (domicile);RIBI;4a
+20070331;480228;RIAD4618;7105;20080603;To non-U.S. addressees (domicile);RIBI;4b
+20070331;480228;RIAD4627;41;20080603;Loans to foreign governments and official institutions;RIBI;6
+20070331;480228;RIAD4628;10178;20080603;All other loans;RIBI;7
+20070331;480228;RIAD4635;393835;20080603;Total;RIBI;9
+20070331;480228;RIAD4643;40;20080603;Loans to foreign governments and official institutions;RIBI;6
+20070331;480228;RIAD4644;47504;20080603;All other loans;RIBI;7
+20070331;480228;RIAD4645;88880;20080603;To U.S. addressees (domicile);RIBI;4a
+20070331;480228;RIAD4646;1081;20080603;To non-U.S. addressees (domicile);RIBI;4b
+20070331;480228;RIAD4652;165;20080603;Loans secured by real estate to non-U.S. addressees (domicile) (included in Schedule RI-B, part I, item 1, above);RIBI;M2
+20070331;480228;RIAD4653;0;20080603;To U.S. banks and other U.S. depository institutions;RIBI;2a
+20070331;480228;RIAD4654;0;20080603;To foreign banks;RIBI;2b
+20070331;480228;RIAD4655;0;20080603;Loans to finance agricultural production and other loans to farmers;RIBI;3
+20070331;480228;RIAD4662;539;20080603;Loans secured by real estate to non-U.S. addressees (domicile) (included in Schedule RI-B, part I, item 1, above);RIBI;M2
+20070331;480228;RIAD4663;0;20080603;To U.S. banks and other U.S. depository institutions;RIBI;2a
+20070331;480228;RIAD4664;0;20080603;To foreign banks;RIBI;2b
+20070331;480228;RIAD4665;24;20080603;Loans to finance agricultural production and other loans to farmers;RIBI;3
+20070331;480228;RIAD4769;false;20080603;Comments?;RIE;7a
+20070331;480228;RIAD5409;0;20080603;Loans to finance commercial real estate, construction, and land development activities (not secured by real estate) included in Schedule RI-B, part I, items 4 and 7, above;RIBI;M1
+20070331;480228;RIAD5410;0;20080603;Loans to finance commercial real estate, construction, and land development activities (not secured by real estate) included in Schedule RI-B, part I, items 4 and 7, above;RIBI;M1
+20070331;480228;RIAD5411;18764;20080603;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RIBI;1c1
+20070331;480228;RIAD5412;2647;20080603;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RIBI;1c1
+20070331;480228;RIAD5415;2754;20080603;Net gains (losses) on sales of other real estate owned;RI;5j
+20070331;480228;RIAD5416;134208;20080603;Net gains (losses) on sales of loans and leases;RI;5i
+20070331;480228;RIAD5523;0;20080603;Write-downs arising from transfers of loans to a held-for-sale account;RIBII;4
+20070331;480228;RIAD8403;0;20080603;Postage;RIE;2e
+20070331;480228;RIAD8431;488597;20080603;Income from the sale and servicing of mutual funds and annuities in domestic offices (included in Schedule RI, item 8);RI;M2
+20070331;480228;RIAD8757;217645;20080603;Interest rate exposures;RI;M8a
+20070331;480228;RIAD8758;150003;20080603;Foreign exchange exposures;RI;M8b
+20070331;480228;RIAD8759;266198;20080603;Equity security and index exposures;RI;M8c
+20070331;480228;RIAD8760;21245;20080603;Commodity and other exposures;RI;M8d
+20070331;480228;RIAD9106;0;20080603;If the reporting bank has restated its balance sheet as a result of applying push down accounting this calendar year, report the date of the bank's acquisition;RI;M7
+20070331;480228;RIADA220;693607;20080603;Trading revenue;RI;5c
+20070331;480228;RIADA251;10;20080603;Credit losses on derivatives;RI;M10
+20070331;480228;RIADA479;;20080603;Corporate trust and agency accounts;RCT;14
+20070331;480228;RIADA480;;20080603;Other fiduciary accounts;RCT;16
+20070331;480228;RIADA488;;20080603;Net losses from fiduciary and related services;RCT;21
+20070331;480228;RIADA491;;20080603;Net fiduciary and related services income;RCT;23
+20070331;480228;RIADA517;851787;20080603;Time deposits of $100,000 or more;RI;2a1b2
+20070331;480228;RIADA518;1111860;20080603;Time deposits of less than $100,000;RI;2a1b3
+20070331;480228;RIADA530;false;20080603;Does the reporting bank have a Subchapter S election in effect for federal income tax purposes for the current tax year?;RI;M11
+20070331;480228;RIADB485;0;20080603;Credit cards;RI;1a1d1
+20070331;480228;RIADB486;802206;20080603;Other (includes single payment, installment, all student loans, and revolving credit plans other than credit cards);RI;1a1d2
+20070331;480228;RIADB487;557060;20080603;All other loans in domestic offices;RI;1a1f
+20070331;480228;RIADB488;24905;20080603;U.S. Treasury securities and U.S. Government agency obligations (excluding mortgage-backed securities);RI;1d1
+20070331;480228;RIADB489;1983055;20080603;Mortgage-backed securities;RI;1d2
+20070331;480228;RIADB491;8907;20080603;Venture capital revenue;RI;5e
+20070331;480228;RIADB492;147439;20080603;Net servicing fees;RI;5f
+20070331;480228;RIADB493;18784;20080603;Net securitization income;RI;5g
+20070331;480228;RIADB496;231442;20080603;Net gains (losses) on sales of other assets (excluding securities);RI;5k
+20070331;480228;RIADB497;1257657;20080603;Other noninterest income;RI;5l
+20070331;480228;RIADB507;-1449600;20080603;Restatements due to corrections of material accounting errors and changes in accounting principles;RIA;2
+20070331;480228;RIADB508;108076805;20080603;Balance end of previous calendar year as restated;RIA;3
+20070331;480228;RIADB509;-158;20080603;Sale, conversion, acquisition, or retirement of capital stock, net (excluding treasury stock transactions);RIA;5
+20070331;480228;RIADB510;0;20080603;Treasury stock transactions, net;RIA;6
+20070331;480228;RIADB511;166643;20080603;Other comprehensive income;RIA;10
+20070331;480228;RIADB512;165;20080603;In foreign offices;RIBI;1f
+20070331;480228;RIADB513;539;20080603;In foreign offices;RIBI;1f
+20070331;480228;RIADB514;738;20080603;Credit cards;RIBI;5a
+20070331;480228;RIADB515;229;20080603;Credit cards;RIBI;5a
+20070331;480228;RIADB516;209429;20080603;Other (includes single payment, installment, all student loans, and revolving credit plans other than credit cards);RIBI;5b
+20070331;480228;RIADB517;112796;20080603;Other (includes single payment, installment, all student loans, and revolving credit plans other than credit cards);RIBI;5b
+20070331;480228;RIADB522;4066067;20080603;Balance most recently reported for the December 31, 2006, Reports of Condition and Income (i.e., after adjustments from amended Reports of Income);RIBII;1
+20070331;480228;RIADB526;-208191;20080603;Amount of component;RIE;4a2
+20070331;480228;RIADB527;-1241409;20080603;Amount of component;RIE;4b2
+20070331;480228;RIADB747;24181;20080603;Charge-offs;RCS;5a
+20070331;480228;RIADB748;28;20080603;Charge-offs;RCS;5a
+20070331;480228;RIADB749;0;20080603;Charge-offs;RCS;5a
+20070331;480228;RIADB750;19498;20080603;Charge-offs;RCS;5a
+20070331;480228;RIADB751;2104;20080603;Charge-offs;RCS;5a
+20070331;480228;RIADB752;0;20080603;Charge-offs;RCS;5a
+20070331;480228;RIADB753;9590;20080603;Charge-offs;RCS;5a
+20070331;480228;RIADB754;318;20080603;Recoveries;RCS;5b
+20070331;480228;RIADB755;1;20080603;Recoveries;RCS;5b
+20070331;480228;RIADB756;0;20080603;Recoveries;RCS;5b
+20070331;480228;RIADB757;1828;20080603;Recoveries;RCS;5b
+20070331;480228;RIADB758;0;20080603;Recoveries;RCS;5b
+20070331;480228;RIADB759;40;20080603;Recoveries;RCS;5b
+20070331;480228;RIADB760;36;20080603;Recoveries;RCS;5b
+20070331;480228;RIADB770;0;20080603;Charge-offs;RCS;8a
+20070331;480228;RIADB771;0;20080603;Charge-offs;RCS;8a
+20070331;480228;RIADB772;0;20080603;Charge-offs;RCS;8a
+20070331;480228;RIADB773;0;20080603;Recoveries;RCS;8b
+20070331;480228;RIADB774;0;20080603;Recoveries;RCS;8b
+20070331;480228;RIADB775;0;20080603;Recoveries;RCS;8b
+20070331;480228;RIADB904;;20080603;Personal trust and agency accounts;RCT;12
+20070331;480228;RIADB905;;20080603;Employee benefit - defined contribution;RCT;13a
+20070331;480228;RIADB906;;20080603;Employee benefit - defined benefit;RCT;13b
+20070331;480228;RIADB907;;20080603;Other retirement accounts;RCT;13c
+20070331;480228;RIADB908;;20080603;Investment management agency accounts;RCT;15
+20070331;480228;RIADB909;;20080603;Custody and safekeeping accounts;RCT;17
+20070331;480228;RIADB910;;20080603;Other fiduciary and related services income;RCT;18
+20070331;480228;RIADB911;;20080603;Intracompany income credits for fiduciary and related services;RCT;22
+20070331;480228;RIADB912;;20080603;Fiduciary and related services income - foreign offices (included in item 19);RCT;19a
+20070331;480228;RIADB947;;20080603;Personal trust and agency accounts;RCT;M4a
+20070331;480228;RIADB948;;20080603;Personal trust and agency accounts;RCT;M4a
+20070331;480228;RIADB949;;20080603;Personal trust and agency accounts;RCT;M4a
+20070331;480228;RIADB950;;20080603;Retirement related trust and agency accounts;RCT;M4b
+20070331;480228;RIADB951;;20080603;Retirement related trust and agency accounts;RCT;M4b
+20070331;480228;RIADB952;;20080603;Retirement related trust and agency accounts;RCT;M4b
+20070331;480228;RIADB953;;20080603;Investment management agency accounts;RCT;M4c
+20070331;480228;RIADB954;;20080603;Investment management agency accounts;RCT;M4c
+20070331;480228;RIADB955;;20080603;Investment management agency accounts;RCT;M4c
+20070331;480228;RIADB956;;20080603;Other fiduciary accounts and related services;RCT;M4d
+20070331;480228;RIADB957;;20080603;Other fiduciary accounts and related services;RCT;M4d
+20070331;480228;RIADB958;;20080603;Other fiduciary accounts and related services;RCT;M4d
+20070331;480228;RIADB959;;20080603;Total fiduciary settlements, surcharges, and other losses;RCT;M4e
+20070331;480228;RIADB960;;20080603;Total fiduciary settlements, surcharges, and other losses;RCT;M4e
+20070331;480228;RIADB961;;20080603;Total fiduciary settlements, surcharges, and other losses;RCT;M4e
+20070331;480228;RIADC013;0;20080603;Income and fees from the printing and sale of checks;RIE;1a
+20070331;480228;RIADC014;0;20080603;Earnings on/increase in value of cash surrender value of life insurance;RIE;1b
+20070331;480228;RIADC015;0;20080603;Safe deposit box rent;RIE;1e
+20070331;480228;RIADC016;0;20080603;Income and fees from automated teller machines (ATMs);RIE;1c
+20070331;480228;RIADC017;368408;20080603;Data processing expenses;RIE;2a
+20070331;480228;RIADC018;0;20080603;Printing, stationery, and supplies;RIE;2d
+20070331;480228;RIADC058;;20080603;Expenses;RCT;20
+20070331;480228;RIADC079;393835;20080603;Charge-offs;RIBII;3
+20070331;480228;RIADC216;0;20080603;Goodwill impairment losses;RI;7c1
+20070331;480228;RIADC217;8161;20080603;Secured by first liens;RIBI;1c2a
+20070331;480228;RIADC218;283;20080603;Secured by junior liens;RIBI;1c2b
+20070331;480228;RIADC232;131009;20080603;Amortization expense and impairment losses for other intangible assets;RI;7c2
+20070331;480228;RIADC233;-100234;20080603;Adjustments;RIBII;6
+20070331;480228;RIADC234;13611;20080603;Secured by first liens;RIBI;1c2a
+20070331;480228;RIADC235;817;20080603;Secured by junior liens;RIBI;1c2b
+20070331;480228;RIADC386;10870;20080603;Underwriting income from insurance and reinsurance activities;RI;5d4
+20070331;480228;RIADC387;45478;20080603;Income from other insurance activities;RI;5d5
+20070331;480228;RIADC388;0;20080603;Uncollectible retail credit card fees and finance charges reversed against income (i.e., not included in charge-offs against the allowance for loan and lease losses);RIBI;M4
+20070331;480228;RIADC389;0;20080603;Separate valuation allowance for uncollectible retail credit card fees and finance charges;RIBII;M2
+20070331;480228;RIADC390;0;20080603;Amount of allowance for loan and lease losses attributable to retail credit card fees and finance charges;RIBII;M3
+20070331;480228;RIADC435;0;20080603;Allocated transfer risk reserve included in Schedule RI-B, part II, item 7, above;RIBII;M1
+20070331;480228;RIADC781;0;20080603;Amount of allowance for post-acquisition losses on purchased impaired loans accounted for in accordance with AICPA Statement of Position 03-3 (included in Schedule RI-B, part II, item 7, above);RIBII;M4
+20070331;480228;RIADC880;9473;20080603;All other leases;RIBI;8b
+20070331;480228;RIADC886;693190;20080603;Fees and commissions from securities brokerage;RI;5d1
+20070331;480228;RIADC887;23673;20080603;Fees and commissions from annuity sales;RI;5d3
+20070331;480228;RIADC888;104483;20080603;Investment banking, advisory, and underwriting fees and commissions;RI;5d2
+20070331;480228;RIADC889;1026;20080603;Net gains (losses) on credit derivatives held for trading;RI;M9a
+20070331;480228;RIADC890;-13901;20080603;Net gains (losses) on credit derivatives held for purposes other than trading;RI;M9b
+20070331;480228;RIADC891;25;20080603;1-4 family residential construction loans;RIBI;M5a
+20070331;480228;RIADC892;1;20080603;1-4 family residential construction loans;RIBI;M5a
+20070331;480228;RIADC893;3308;20080603;Other construction loans and all land development and other land loans;RIBI;M5b
+20070331;480228;RIADC894;1135;20080603;Other construction loans and all land development and other land loans;RIBI;M5b
+20070331;480228;RIADC895;0;20080603;Loans secured by owner-occupied nonfarm nonresidential properties;RIBI;M6a
+20070331;480228;RIADC896;0;20080603;Loans secured by owner-occupied nonfarm nonresidential properties;RIBI;M6a
+20070331;480228;RIADC897;0;20080603;Loans secured by other nonfarm nonresidential properties;RIBI;M6b
+20070331;480228;RIADC898;0;20080603;Loans secured by other nonfarm nonresidential properties;RIBI;M6b
+20070331;480228;RIADC899;2032503;20080603;Total interest income in foreign offices;RID;1
+20070331;480228;RIADC900;3790292;20080603;Total interest expense in foreign offices;RID;2
+20070331;480228;RIADC901;-3772;20080603;Provision for loan and lease losses in foreign offices;RID;3
+20070331;480228;RIADC902;142136;20080603;Trading revenue;RID;4a
+20070331;480228;RIADC903;94240;20080603;Investment banking, advisory, brokerage, and underwriting fees and commissions;RID;4b
+20070331;480228;RIADC904;0;20080603;Net securitization income;RID;4c
+20070331;480228;RIADC905;129032;20080603;Other noninterest income;RID;4d
+20070331;480228;RIADC906;33910;20080603;Realized gains (losses) on held-to-maturity and available-for-sale securities in foreign offices;RID;5
+20070331;480228;RIADC907;608596;20080603;Total noninterest expense in foreign offices;RID;6
+20070331;480228;RIADC908;24213;20080603;Adjustments to pretax income in foreign offices for internal allocations to foreign offices to reflect the effects of equity capital on overall bank funding costs;RID;7
+20070331;480228;RIADC909;284080;20080603;Applicable income taxes (on items 1 through 7);RID;8
+20070331;480228;RIADC910;0;20080603;Extraordinary items and other adjustments, net of income taxes, in foreign offices;RID;9
+20070331;480228;RIADC911;-2223162;20080603;Net income attributable to foreign offices before internal allocations of income and expense;RID;10
+20070331;480228;RIADC912;-1359;20080603;Internal allocations of income and expense applicable to foreign offices;RID;11
+20070331;480228;RIADC913;522660;20080603;Eliminations arising from the consolidation of foreign offices with domestic offices;RID;12
+20070331;480228;RIADC914;-1701861;20080603;Consolidated net income attributable to foreign offices;RID;13
+20070331;480228;RIADF184;265324;20080603;Noninterest income for the quarter from the sale, securitization, and servicing of closed-end 1-4 family residential mortgage loans (included in Schedule RI, items 5.f, 5.g, and 5.i);RCP;5
+20070331;480228;RIADF185;0;20080603;Leases to individuals for household, family, and other personal expenditures;RIBI;8a
+20070331;480228;RIADF186;38516;20080603;Credit exposures;RI;M8e
+20070331;480228;RIADF187;0;20080603;Leases to individuals for household, family, and other personal expenditures;RIBI;8a
+20070331;480228;RIADF188;11769;20080603;All other leases;RIBI;8b
+20070331;480228;RIADF228;0;20080603;Noncash income from negative amortization on closed-end loans secured by 1-4 family residential properties (included in Schedule RI, item 1.a.(1)(a));RI;M12
+20070331;480228;RIADF229;0;20080603;Net change in the fair values of financial instruments accounted for under a fair value option;RIE;1i
+20070331;480228;RSSD9017;Bank of America, NA;20080603;Legal title of bank;ENT;3
+20070331;480228;RSSD9050;3510;20080603;FDIC certificate number;ENT;2
+20070331;480228;RSSD9130;Charlotte;20080603;City;ENT;4
+20070331;480228;RSSD9200;NC;20080603;State abbreviation;ENT;5
+20070331;480228;RSSD9220;28255;20080603;Zip code;ENT;6
+20070331;480228;TEXT3549;Unsettled Trades;20080603;Describe component;RCF;6e1
+20070331;480228;TEXT3550;;20080603;Describe component;RCF;6f1
+20070331;480228;TEXT3551;;20080603;Describe component;RCF;6g1
+20070331;480228;TEXT3552;;20080603;Describe component;RCG;4e1
+20070331;480228;TEXT3553;;20080603;Describe component;RCG;4f1
+20070331;480228;TEXT3554;;20080603;Describe component;RCG;4g1
+20070331;480228;TEXT3555;;20080603;Describe component;RCL;9d1
+20070331;480228;TEXT3556;;20080603;Describe component;RCL;9e1
+20070331;480228;TEXT3557;;20080603;Describe component;RCL;9f1
+20070331;480228;TEXT4086;;20080603;E-mail Address;CI;1b3
+20070331;480228;TEXT4087;www.bankofamerica.com;20080603;Primary Internet Web site address of bank (home page), if any;RCM;8
+20070331;480228;TEXT4461;;20080603;Describe component;RIE;1f1
+20070331;480228;TEXT4462;;20080603;Describe component;RIE;1g1
+20070331;480228;TEXT4463;Intercompany Processing Fee Income;20080603;Describe component;RIE;1h1
+20070331;480228;TEXT4464;Intercompany Management Fees;20080603;Describe component;RIE;2h1
+20070331;480228;TEXT4467;Telecommunication Expense;20080603;Describe component;RIE;2i1
+20070331;480228;TEXT4468;;20080603;Describe component;RIE;2j1
+20070331;480228;TEXT4469;;20080603;Describe component;RIE;3a1
+20070331;480228;TEXT4487;;20080603;Describe component;RIE;3b1
+20070331;480228;TEXT4489;;20080603;Describe component;RIE;3c1
+20070331;480228;TEXT4498;;20080603;Describe component;RIE;5a1
+20070331;480228;TEXT4499;;20080603;Describe component;RIE;5b1
+20070331;480228;TEXT4521;;20080603;Describe component;RIE;6a1
+20070331;480228;TEXT4522;Loan Loss Reserves;20080603;Describe component;RIE;6b1
+20070331;480228;TEXT4769;;20080603;Other explanations;RIE;7b
+20070331;480228;TEXT5592;;20080603;Describe component;RCL;10b1
+20070331;480228;TEXT5593;;20080603;Describe component;RCL;10c1
+20070331;480228;TEXT5594;;20080603;Describe component;RCL;10d1
+20070331;480228;TEXT5595;;20080603;Describe component;RCL;10e1
+20070331;480228;TEXT6980;;20080603;Bank Management Statement;NARR;2
+20070331;480228;TEXT8902;;20080603;Telephone;CI;1b4
+20070331;480228;TEXT9116;;20080603;FAX;CI;1b5
+20070331;480228;TEXTA545;;20080603;Legal title;RCO;M3a
+20070331;480228;TEXTB526;Adjustment for the Adoption of  FAS159 (FVO);20080603;Describe component;RIE;4a1
+20070331;480228;TEXTB527;Adjustment for the Adoption of FSP 13-2 (Leveraged Leases) and FIN48;20080603;Describe component;RIE;4b1
+20070331;480228;TEXTB926;;20080603;E-mail Address;CI;2b
+20070331;480228;TEXTB962;;20080603;Name and Title;CI;2a
+20070331;480228;TEXTB963;;20080603;Telephone;CI;2c
+20070331;480228;TEXTB964;;20080603;FAX;CI;2d
+20070331;480228;TEXTC366;;20080603;Name;CI;3a1
+20070331;480228;TEXTC367;;20080603;Title;CI;3a2
+20070331;480228;TEXTC368;;20080603;E-mail Address;CI;3a3
+20070331;480228;TEXTC369;;20080603;Telephone;CI;3a4
+20070331;480228;TEXTC370;;20080603;FAX;CI;3a5
+20070331;480228;TEXTC371;;20080603;Name;CI;3b1
+20070331;480228;TEXTC372;;20080603;Title;CI;3b2
+20070331;480228;TEXTC373;;20080603;E-mail Address;CI;3b3
+20070331;480228;TEXTC374;;20080603;Telephone;CI;3b4
+20070331;480228;TEXTC375;;20080603;FAX;CI;3b5
+20070331;480228;TEXTC437;;20080603;Name;CI;4a1
+20070331;480228;TEXTC438;;20080603;Title;CI;4a2
+20070331;480228;TEXTC439;;20080603;E-mail Address;CI;4a3
+20070331;480228;TEXTC440;;20080603;Telephone;CI;4a4
+20070331;480228;TEXTC441;;20080603;FAX;CI;4a5
+20070331;480228;TEXTC442;;20080603;Name;CI;4b1
+20070331;480228;TEXTC443;;20080603;Title;CI;4b2
+20070331;480228;TEXTC444;;20080603;E-mail Address;CI;4b3
+20070331;480228;TEXTC445;;20080603;Telephone;CI;4b4
+20070331;480228;TEXTC446;;20080603;FAX;CI;4b5
+20070331;480228;TEXTC490;;20080603;Name;CI;1a1
+20070331;480228;TEXTC491;;20080603;Title;CI;1a2
+20070331;480228;TEXTC492;;20080603;E-mail Address;CI;1a3
+20070331;480228;TEXTC493;;20080603;Telephone;CI;1a4
+20070331;480228;TEXTC494;;20080603;FAX;CI;1a5
+20070331;480228;TEXTC495;;20080603;Name;CI;1b1
+20070331;480228;TEXTC496;;20080603;Title;CI;1b2
+20070331;480228;TEXTC870;;20080603;Name;CI;4c1
+20070331;480228;TEXTC871;;20080603;Title;CI;4c2
+20070331;480228;TEXTC872;;20080603;E-mail Address;CI;4c3
+20070331;480228;TEXTC873;;20080603;Telephone;CI;4c4
+20070331;480228;TEXTC874;;20080603;FAX;CI;4c5
+20070331;480228;TEXTC875;;20080603;Name;CI;4d1
+20070331;480228;TEXTC876;;20080603;Title;CI;4d2
+20070331;480228;TEXTC877;;20080603;E-mail Address;CI;4d3
+20070331;480228;TEXTC878;;20080603;Telephone;CI;4d4
+20070331;480228;TEXTC879;;20080603;FAX;CI;4d5
