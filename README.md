@@ -2,7 +2,7 @@
 # Data Science Project Portfolio
 * Click the title of each project to see details
 
-# [Project 01: Statistical Analysis for Campus Recruitment](https://nbviewer.jupyter.org/github/sungsujeong/DataScience_Portfolio/blob/master/Personal%20Projects/Project%2001/Project%2001_Campust%20Recruitment%20Data%20Analysis.ipynb)
+# [Project 01: Statistical Analysis for Campus Recruitment](https://nbviewer.org/github/sungsujeong/data-analysis-portfolio/blob/master/IAA%20Prep%20Projects/Project%2001/Project%2001_Campust%20Recruitment%20Data%20Analysis.ipynb)
 * Identified what factors influenced a candidate in getting hired by conducting statistical analysis:
   * __ANOVA__
   * __Linear regression__
