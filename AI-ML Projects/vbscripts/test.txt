@@ -1,0 +1,92 @@
+Set args = Wscript.Arguments
+Set objWshShell = CreateObject("Wscript.Shell")
+UserProfile = objWshShell.ExpandEnvironmentStrings("%USERPROFILE%")
+Downloadfolder = UserProfile & "\downloads\"
+
+Dim FSO
+Set FSO = CreateObject("Scripting.FileSystemObject")
+ReportName = args.Item(0)
+ReportURL = args.Item(1)
+RootFolder = args.Item(2)
+TodayDate = Year(Now()) & Right("0" & Month(Now()), 2) & Right("0" & Day(Now()), 2)
+TargetFolder = RootFolder & ReportName & "_MostRecentQuarter_" & TodayDate
+
+If Not FSO.FolderExists(TargetFolder) Then
+    FSO.CreateFolder(TargetFolder)
+End If
+
+LogFile = TargetFolder & "\Log_" & TodayDate & ".txt"
+If Not FSO.FileExists(LogFile) Then
+    FSO.CreateTextFile(LogFile)
+End If
+
+' Determine the most recent quarter-end date
+Dim CurrentYear, CurrentQuarter, QuarterEnd
+CurrentYear = Year(Now())
+CurrentQuarter = DatePart("q", Now())
+
+Select Case CurrentQuarter
+    Case 1
+        QuarterEnd = "1231" & (CurrentYear - 1) ' Previous year Q4
+    Case 2
+        QuarterEnd = "0331" & CurrentYear ' Q1 of current year
+    Case 3
+        QuarterEnd = "0630" & CurrentYear ' Q2 of current year
+    Case 4
+        QuarterEnd = "0930" & CurrentYear ' Q3 of current year
+End Select
+
+' Construct the URL and filename
+URL = Replace(ReportURL, "XXXXXXXX", QuarterEnd)
+FileName = "Call_Cert3510_" & Left(QuarterEnd, 4) & Right(CurrentYear, 2)
+
+' Call the function to download the most recent quarter-end file
+Call OpenURLDownLoadFile(URL, FileName, Downloadfolder, TargetFolder)
+
+Function OpenURLDownLoadFile(URL, FileName, DownloadFolder, sTargetFolder)
+    On Error Resume Next
+    Set logObj = FSO.OpenTextFile(LogFile, 8, True)
+    logObj.WriteLine Now & vbTab & "- Started downloading file: " & FileName & " ..."
+
+    Set IE = CreateObject("InternetExplorer.Application")
+    With IE
+        .Visible = True
+        .Navigate URL
+
+        Do While .Busy
+            WScript.Sleep 100
+        Loop
+
+        Set evtChng = .Document.createEvent("HTMLEvents")
+        evtChng.initEvent "Click", True, False
+
+        If Not (.Document.getElementById("Download_SDF_3") Is Nothing) Then
+            .Document.getElementById("Download_SDF_3").Click
+            .Document.dispatchEvent evtChng
+            WScript.Sleep 2000
+            objWshShell.SendKeys "%{S}"
+            WScript.Sleep 5000
+            
+            SrcFileName = DownloadFolder & FileName & ".SDF"
+            sTargetFolder = sTargetFolder & "\"
+
+            If FSO.FileExists(SrcFileName) Then
+                FSO.CopyFile SrcFileName, sTargetFolder, True
+                FSO.DeleteFile SrcFileName
+                logObj.WriteLine Now & vbTab & "- Downloaded file successfully: " & sTargetFolder & FileName
+            Else
+                logObj.WriteLine Now & vbTab & "- File not available for download: " & FileName
+            End If
+        Else
+            logObj.WriteLine Now & vbTab & "- Download link not found for file: " & FileName
+        End If
+
+        .Quit
+    End With
+    Set IE = Nothing
+
+    If Err.Number <> 0 Then
+        logObj.WriteLine Now & vbTab & "- Error: " & Err.Description & " while attempting to download file: " & FileName
+        Err.Clear
+    End If
+End Function
